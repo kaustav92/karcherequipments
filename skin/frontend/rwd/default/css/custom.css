@@ -1,0 +1,201 @@
+/**
+* Font Family
+**/
+@import url(https://fonts.googleapis.com/css?family=Oswald:700|Roboto);
+
+/**
+* Header Styling
+**/
+.header_background {
+    background-color: #3399cc;
+}
+.main_menu_bg {
+	background-color: #0f6cb2;
+}
+.page-header {
+	border: 0px;
+}
+@media only screen and (min-width: 771px) {
+	.logo {
+	    margin-top: 15px;
+	}
+	.nav-primary a:hover {
+	    color: #BDE2F5;
+	}
+	.nav-primary li:hover > a {
+	    color: #A2CEE4;
+	}
+	.nav-primary li:hover ul li a:hover {
+	    color: #888;
+	}
+	#header-nav{
+		border: 0px;
+	}
+	.nav-primary {
+		margin-top: 0px;
+	}
+	.nav-primary a.level0 {
+	    font-size: 13px;
+	}
+	#header-search {
+	    display: block;
+	    position: absolute;
+	    top: 35px;
+	    right: 200px;
+	    width: 25%;
+	    height: 50px;
+	    padding: 0;
+	}
+}
+.account-cart-wrapper {
+    position: absolute;
+    top: 35px;
+    right: 0px;
+}
+.nav-primary a {
+	color: #fff;
+}
+.nav-primary li ul a {
+	color: #888;
+}
+.skip-link {
+	background-color: transparent;
+    color: #fff;
+}
+.skip-link:hover, .skip-link:focus {
+	color: #fff;
+}
+.icon_font {
+	font-size: 18px;
+}
+
+/**
+* Footer styling
+**/
+.block-title {
+	border-top: 0px;
+}
+.footer address {
+    border-top: 1px solid #cccccc;
+    text-align: center;
+    width: 100%;
+    font-size: 11px;
+    margin-top: 30px;
+    padding: 15px 0;
+    margin-bottom: 0px;
+}
+.footer-container {
+	padding-bottom: 0px;
+}
+/**
+* Home page content
+**/
+.main_banner a {
+    display: block;
+    position: relative;
+}
+.main_banner a .overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: rgb(249, 240, 85);
+    font-weight: 700;
+    font-size: 40px;
+    width: 37%;
+    font-family: 'Oswald', sans-serif;
+    height: 100%;
+    padding: 150px 30px;
+    background-color: rgba(62, 61, 68, 0.5);
+}
+.main_banner .small_heading {
+    font-size: 28px;
+    display: block;
+}
+.btn-primary {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    background-color: #3E3D3F;
+    transition: all 0.3s ease;
+    border-radius: 2px;
+    border-color: #3A393F;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #3B3437;
+    border-color: #3B3437;
+}
+.top_30 {
+	margin-top: 30px;
+}
+.overlay_yellow {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    font-weight: 700;
+    font-size: 30px;
+    width: 35%;
+    font-family: 'Oswald', sans-serif;
+    height: 100%;
+    padding: 135px 20px;
+    background-color: rgba(254,236,1,0.5);
+    color: #fff;
+}
+.overlay_brown {
+    position: absolute;
+    bottom: 0;
+    height: 50%;
+    font-weight: 700;
+    font-size: 30px;
+    width: 100%;
+    font-family: 'Oswald', sans-serif;
+    height: 35%;
+    padding: 20px 70px;
+    background-color: rgba(123, 93, 52, 0.5);
+    color: #fff;
+}
+.overlay_blue {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    font-weight: 700;
+    font-size: 30px;
+    width: 50%;
+    font-family: 'Oswald', sans-serif;
+    height: 100%;
+    padding: 135px 20px;
+    background-color: rgba(116, 151, 179, 0.5);
+    color: #fff;
+}
+.overlay_violet {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    font-weight: 700;
+    font-size: 30px;
+    width: 50%;
+    font-family: 'Oswald', sans-serif;
+    height: 100%;
+    padding: 60px 79px;
+    background-color: rgba(176, 176, 188, 0.5);
+    color: #fff;
+}
+.overlay_reddish {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    font-weight: 700;
+    font-size: 30px;
+    width: 50%;
+    font-family: 'Oswald', sans-serif;
+    height: 100%;
+    padding: 60px 79px;
+    background-color: rgba(83, 20, 39, 0.5);
+    color: #fff;
+}
+.main_banner .btn-primary {
+	display: block;
+}
