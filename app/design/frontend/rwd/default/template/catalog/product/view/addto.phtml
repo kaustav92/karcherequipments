@@ -30,13 +30,32 @@
 
 <ul class="add-to-links">
 <?php if ($this->helper('wishlist')->isAllow()) : ?>
-    <li><a href="<?php echo $_wishlistSubmitUrl ?>" onclick="productAddToCartForm.submitLight(this, this.href); return false;" class="link-wishlist"><?php echo $this->__('Add to Wishlist') ?></a></li>
+    <li>
+    	<a href="<?php echo $_wishlistSubmitUrl ?>" onclick="productAddToCartForm.submitLight(this, this.href); return false;" class="link-wishlist">
+            <table>
+                <tr>
+                    <td class="pad-right-7"><i class="fa fa-heart" aria-hidden="true"></i></td>
+                    <td><?php echo $this->__('Add to Wishlist') ?></td>
+                </tr>
+            </table>
+	    </a>
+	</li>
 <?php endif; ?>
 <?php
     $_compareUrl = $this->helper('catalog/product_compare')->getAddUrl($_product);
 ?>
 <?php if($_compareUrl) : ?>
-    <li><span class="separator">|</span> <a href="<?php echo $_compareUrl ?>" class="link-compare"><?php echo $this->__('Add to Compare') ?></a></li>
+    <li>
+    	<span class="separator">|</span>
+    	<a href="<?php echo $_compareUrl ?>" class="link-compare">
+            <table>
+                <tr>
+                    <td class="pad-right-7"><i class="fa fa-files-o" aria-hidden="true"></i></td>
+                    <td><?php echo $this->__('Add to Compare') ?></td>
+                </tr>
+            </table>
+    	</a>
+    </li>
 <?php endif; ?>
 
 </ul>

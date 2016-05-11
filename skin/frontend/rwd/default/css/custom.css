@@ -41,7 +41,7 @@
 	    display: block;
 	    position: absolute;
 	    top: 35px;
-	    right: 200px;
+	    right: 215px;
 	    width: 25%;
 	    height: 50px;
 	    padding: 0;
@@ -51,6 +51,7 @@
     position: absolute;
     top: 35px;
     right: 0px;
+    margin-left: 10px;
 }
 .nav-primary a {
 	color: #fff;
@@ -198,4 +199,92 @@
 }
 .main_banner .btn-primary {
 	display: block;
+}
+
+/*Single Product View Page*/
+.product-img-box {
+    width: 40%;
+}
+.product-view .product-shop, .product-view .add-to-cart-wrapper, .product-view .block-related {
+    width: 60%;
+}
+.product-view .product-shop .product-name .h1 {
+    float: left;
+    text-transform: capitalize;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.product-view .product-shop .product-name .h1, .product-view .product-img-box .product-name h1 {
+    color: #353236;
+}
+.product-view .product-shop .price-info {
+    float: left;
+    padding-left: 0px;
+    text-align: left;
+}
+.product-view .product-shop .short-description {
+    margin-bottom: 10px;
+    clear: both;
+    color: #AFADAD;
+}
+.availability_ratings_section {
+
+}
+.ratings {
+    margin: 0px 0;
+}
+.ratings .rating-box, .ratings .rating-links {
+    margin: 0;
+}
+.availability_ratings_section {
+    border-top: 1px solid #ececec;
+    border-bottom: 1px solid #ececec;
+    font-size: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-bottom: 20px;
+}
+.product-view .product-shop .availability {
+    font-size: 12px;
+}
+.product-view .product-shop .price-box .regular-price .price, .product-view .product-shop .price-box .special-price .price, .product-view .product-shop .price-box .full-product-price .price {
+    color: #3F3F40;
+    font-size: 24px;
+    font-weight: 600;
+}
+.button, .cart-table .product-cart-actions .button, #co-shipping-method-form .buttons-set .button, .footer .button {
+    background-color: #27B657;
+    transition: all 0.3s ease;
+}
+.button:hover, .cart-table .product-cart-actions .button:hover, #co-shipping-method-form .buttons-set .button:hover, .footer .button:hover {
+    background-color: #2CC560;
+    transition: all 0.3s ease;
+}
+.product-view .add-to-links {
+    clear: both;
+    margin-top: 0px;
+    margin-right: 0px;
+    float: right;
+}
+.product-view .add-to-links a {
+    text-decoration: none;
+    color: #888;
+}
+.product-view .add-to-links a:hover {
+    color: #3F3F40;
+}
+.add-to-links table {
+    color: inherit;
+    font-size: inherit;
+}
+.add-to-links table .pad-right-7 {
+    padding-right: 7px;
+}
+.product-view .add-to-links {
+    clear: both;
+    margin-top: 0px;
+    margin-right: 0px;
+    float: right;
+    padding-top: 7px;
+    margin-bottom: 0px;
 }
