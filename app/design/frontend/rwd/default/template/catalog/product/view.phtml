@@ -80,7 +80,20 @@
                         </div>
                     </div>
                 </div>
-
+                <div class="col-sm-12 featured_description">
+                    <div class="row">
+                        <?php if ($detailedInfoGroup = $this->getChildGroup('detailed_info', 'getChildHtml')):?>
+                            <dl id="collateral-tabs" class="collateral-tabs">
+                                <?php foreach ($detailedInfoGroup as $alias => $html):?>
+                                    <dt class="tab"><span><?php echo $this->escapeHtml($this->getChildData($alias, 'title')) ?></span></dt>
+                                    <dd class="tab-container">
+                                        <div class="tab-content"><?php echo $html ?></div>
+                                    </dd>
+                                <?php endforeach;?>
+                            </dl>
+                        <?php endif; ?>
+                    </div>
+                </div>
                 <div class="col-sm-12">
                     <div class="row">
                         <div class="price-info">
@@ -179,26 +192,104 @@
         //]]>
         </script>
     </div>
-
-    <div class="product-collateral toggle-content tabs">
-        <?php if ($detailedInfoGroup = $this->getChildGroup('detailed_info', 'getChildHtml')):?>
-            <dl id="collateral-tabs" class="collateral-tabs">
-                <?php foreach ($detailedInfoGroup as $alias => $html):?>
-                    <dt class="tab"><span><?php echo $this->escapeHtml($this->getChildData($alias, 'title')) ?></span></dt>
-                    <dd class="tab-container">
-                        <div class="tab-content"><?php echo $html ?></div>
-                    </dd>
-                <?php endforeach;?>
-            </dl>
-        <?php endif; ?>
-    </div>
-
-    <?php echo $this->getChildHtml('upsell_products') ?>
     <?php echo $this->getChildHtml('product_additional_data') ?>
+</div>
+<div class="col-sm-12">
+    <div class="row">
+        <div class="col-sm-8">
+            <div class="row">
+                <h3>Specifications</h3>
 
-    <div>
-        <?php echo $_helper->productAttribute($_product, nl2br($_product->getModelNo()), 'model_no') ?>
-        <?php echo $_helper->productAttribute($_product, nl2br($_product->getModelNo()), 'model_no') ?>
+                <!-- Table To be Repeated -->
+                <div class="table-responsive specification_table">
+                    <table class="table">
+                        <thead>
+                          <tr>
+                            <th colspan="2">General</th>
+                        </thead>
+                        <tbody>
+                          <tr>
+                            <td class="specskey">Model No</td>
+                            <td class="specsValue"><?php echo $_helper->productAttribute($_product, nl2br($_product->getModelNo()), 'model_no') ?></td>
+                          </tr>
+                          <tr>
+                            <td class="specskey">Manufacture Part Number</td>
+                            <td class="specsValue"><?php echo $_helper->productAttribute($_product, nl2br($_product->getManufacturePartNumber()), 'manufacture_part_number') ?></td>
+                          </tr>
+                          <tr>
+                            <td class="specskey">Product Type</td>
+                            <td class="specsValue"><?php echo $_helper->productAttribute($_product, nl2br($_product->getItemType()), 'item_type') ?></td>
+                          </tr>
+                        </tbody>
+                  </table>
+                </div>
+
+                <!-- Table To be Repeated -->
+                <div class="table-responsive specification_table">
+                    <table class="table">
+                        <thead>
+                          <tr>
+                            <th colspan="2">Technical Information</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          <tr>
+                            <td class="specskey">Diameter</td>
+                            <td class="specsValue"><?php echo $_helper->productAttribute($_product, nl2br($_product->getDiameterInches()), 'diameter_inches') ?> inches</td>
+                          </tr>
+                          <tr>
+                            <td class="specskey">Max. working pressure - PSI</td>
+                            <td class="specsValue"><?php echo $_helper->productAttribute($_product, nl2br($_product->getPsi()), 'psi') ?></td>
+                          </tr>
+                          <tr>
+                            <td class="specskey">July</td>
+                            <td class="specsValue">Dooley</td>
+                          </tr>
+                        </tbody>
+                  </table>
+                </div>
+
+                <!-- Table To be Repeated -->
+                <div class="table-responsive specification_table">
+                    <table class="table">
+                        <thead>
+                          <tr>
+                            <th colspan="2">Firstname</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          <tr>
+                            <td class="specskey">John</td>
+                            <td class="specsValue">Doe</td>
+                          </tr>
+                          <tr>
+                            <td class="specskey">Mary</td>
+                            <td class="specsValue">Moe</td>
+                          </tr>
+                          <tr>
+                            <td class="specskey">July</td>
+                            <td class="specsValue">Dooley</td>
+                          </tr>
+                        </tbody>
+                  </table>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+             <?php echo $this->getChildHtml('upsell_products') ?>
+        </div>
     </div>
+</div>
 
+<div class="col-sm-12">
+    <?php if ($detailedInfoGroup = $this->getChildGroup('review_info', 'getChildHtml')):?>
+   <dl id="collateral-tabs" class="collateral-tabs">
+            <?php foreach ($detailedInfoGroup as $alias => $html):?>
+                <dt class="tab"><span><?php echo $this->escapeHtml($this->getChildData($alias, 'title')) ?></span></dt>
+                <dd class="tab-container">
+                    <div class="tab-content"><?php echo $html ?></div>
+                </dd>
+            <?php endforeach;?>
+        </dl>
+    <?php endif; ?>
 </div>
