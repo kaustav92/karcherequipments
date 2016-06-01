@@ -401,7 +401,7 @@ h3, .h3 {
     color: #000000;
 }
 .field-wrapper {
-    border: 2px solid #888888;
+    border-bottom: 1px solid rgba(136, 136, 136, 0.28);
     border-radius: 3px;
 }
 #discount-coupon-form .input-text {
@@ -418,6 +418,10 @@ h3, .h3 {
 }
 .discount-form .button2 {
     background: #3F3F40;
+    padding: 2px 27px;
+    border: 1px solid #3f3f40;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
 }
 .discount-form {
     margin: 15px 0px;
@@ -461,7 +465,10 @@ h3, .h3 {
 .cart .button {
     background-color: #3F3F40;
     color: #FFF200;
-    border-radius: 5px;
+    border-radius: 2px;
+    padding: 10px 25px;
+    font-family: "Lato";
+    font-weight: 300;
 }
 .discount-form {
     margin: 15px 0px;
