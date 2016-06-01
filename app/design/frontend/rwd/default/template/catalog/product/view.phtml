@@ -220,6 +220,18 @@
                             <td class="specskey">Product Type</td>
                             <td class="specsValue"><?php echo $_helper->productAttribute($_product, nl2br($_product->getItemType()), 'item_type') ?></td>
                           </tr>
+
+                          <!-- Equipment Video Url -->
+                          <?php 
+                            $equipment_video_url = $_helper->productAttribute($_product, nl2br($_product->getEquipmentVideoUrl()), 'equipment_video_url');
+                            if($equipment_video_url != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Equipment Video Url</td>
+                                <td class="specsValue"><iframe width="328" height="246" src="<?php echo $equipment_video_url ?>" frameborder="0" allowfullscreen></iframe></td>
+                              </tr>
+                          <?php endif; ?>
+
                         </tbody>
                   </table>
                 </div>
@@ -242,9 +254,568 @@
                             <td class="specsValue"><?php echo $_helper->productAttribute($_product, nl2br($_product->getPsi()), 'psi') ?></td>
                           </tr>
                           <tr>
-                            <td class="specskey">July</td>
-                            <td class="specsValue">Dooley</td>
+                            <td class="specskey">Water Flow Rate - GPM</td>
+                            <td class="specsValue"><?php echo $_helper->productAttribute($_product, nl2br($_product->getWaterFlowRateGpm()), 'water_flow_rate_gpm') ?></td>
                           </tr>
+                          <tr>
+                            <td class="specskey">Max. Temperature - in Fahrenheit</td>
+                            <td class="specsValue"><?php echo $_helper->productAttribute($_product, nl2br($_product->getMaxTemperature()), 'max_temperature') ?></td>
+                          </tr>
+                          <?php 
+                            $gpm = $_helper->productAttribute($_product, nl2br($_product->getGpm()), 'gpm');
+                            if($gpm != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">GPM</td>
+                                <td class="specsValue"><?php echo $gpm; ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Working width inches -->
+                          <?php 
+                            $working_width_inches = $_helper->productAttribute($_product, nl2br($_product->getWorkingWidthInches()), 'working_width_inches');
+                            if($working_width_inches != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Working Width Inches</td>
+                                <td class="specsValue"><?php echo $working_width_inches ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Equipment Type -->
+                          <?php 
+                            $equipment_type = $_helper->productAttribute($_product, nl2br($_product->getEquipmentType()), 'equipment_type');
+                            if($equipment_type != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Equipment Type</td>
+                                <td class="specsValue"><?php echo $equipment_type ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Power Type -->
+                          <?php 
+                            $power_type = $_helper->productAttribute($_product, nl2br($_product->getPowerType()), 'power_type');
+                            if($power_type != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Power Type</td>
+                                <td class="specsValue"><?php echo $power_type ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Portable Or Stationary -->
+                          <?php 
+                            $portable_or_stationary = $_helper->productAttribute($_product, nl2br($_product->getPortableOrStationary()), 'portable_or_stationary');
+                            if($portable_or_stationary != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Portable Or Stationary</td>
+                                <td class="specsValue"><?php echo $portable_or_stationary ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Heating Type -->
+                          <?php 
+                            $heating_type = $_helper->productAttribute($_product, nl2br($_product->getHeatingType()), 'heating_type');
+                            if($heating_type != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Heating Type</td>
+                                <td class="specsValue"><?php echo $heating_type ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Diameter In Inches -->
+                          <?php 
+                            $diameter_inches = $_helper->productAttribute($_product, nl2br($_product->getDiameterInches()), 'diameter_inches');
+                            if($diameter_inches != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Diameter In Inches</td>
+                                <td class="specsValue"><?php echo $diameter_inches ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Ship Weight lbs. -->
+                          <?php 
+                            $ship_weight_lbs = $_helper->productAttribute($_product, nl2br($_product->getShipWeightLbs()), 'ship_weight_lbs');
+                            if($ship_weight_lbs != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Ship Weight lbs.</td>
+                                <td class="specsValue"><?php echo $ship_weight_lbs ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Maximun RPM -->
+                          <?php 
+                            $maximum_rpm = $_helper->productAttribute($_product, nl2br($_product->getMaximumRpm()), 'maximum_rpm');
+                            if($maximum_rpm != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Maximun RPM</td>
+                                <td class="specsValue"><?php echo $maximum_rpm ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Pump -->
+                          <?php 
+                            $pump = $_helper->productAttribute($_product, nl2br($_product->getPump()), 'pump');
+                            if($pump != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Pump</td>
+                                <td class="specsValue"><?php echo $pump ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Electrical -->
+                          <?php 
+                            $electrical = $_helper->productAttribute($_product, nl2br($_product->getElectrical()), 'electrical');
+                            if($electrical != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Electrical</td>
+                                <td class="specsValue"><?php echo $electrical ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- CC -->
+                          <?php 
+                            $cc = $_helper->productAttribute($_product, nl2br($_product->getCc()), 'cc');
+                            if($cc != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">CC</td>
+                                <td class="specsValue"><?php echo $cc ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Amps -->
+                          <?php 
+                            $amps = $_helper->productAttribute($_product, nl2br($_product->getAmps()), 'amps');
+                            if($amps != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Amps</td>
+                                <td class="specsValue"><?php echo $amps ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Start -->
+                          <?php 
+                            $start = $_helper->productAttribute($_product, nl2br($_product->getStart()), 'start');
+                            if($start != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Start</td>
+                                <td class="specsValue"><?php echo $start ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Phase -->
+                          <?php 
+                            $phase = $_helper->productAttribute($_product, nl2br($_product->getPhase()), 'phase');
+                            if($phase != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Phase</td>
+                                <td class="specsValue"><?php echo $phase ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Load Capacity lbs. -->
+                          <?php 
+                            $load_capacity_lbs = $_helper->productAttribute($_product, nl2br($_product->getLoadCapacityLbs()), 'load_capacity_lbs');
+                            if($load_capacity_lbs != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Load Capacity lbs.</td>
+                                <td class="specsValue"><?php echo $load_capacity_lbs ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Engine -->
+                          <?php 
+                            $engine = $_helper->productAttribute($_product, nl2br($_product->getEngine()), 'engine');
+                            if($engine != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Engine</td>
+                                <td class="specsValue"><?php echo $engine ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- HP -->
+                          <?php 
+                            $hp = $_helper->productAttribute($_product, nl2br($_product->getHp()), 'hp');
+                            if($hp != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">HP</td>
+                                <td class="specsValue"><?php echo $hp ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Dimensions (L x W x H) -->
+                          <?php 
+                            $dimensions = $_helper->productAttribute($_product, nl2br($_product->getDimensions()), 'dimensions');
+                            if($dimensions != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Dimensions (L x W x H)</td>
+                                <td class="specsValue"><?php echo $dimensions ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Pump RPM -->
+                          <?php 
+                            $pump_rpm = $_helper->productAttribute($_product, nl2br($_product->getPumpRpm()), 'pump_rpm');
+                            if($pump_rpm != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Pump RPM</td>
+                                <td class="specsValue"><?php echo $pump_rpm ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Water Tank Gallons -->
+                          <?php 
+                            $water_tank_gallons = $_helper->productAttribute($_product, nl2br($_product->getWaterTankGallons()), 'water_tank_gallons');
+                            if($water_tank_gallons != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Water Tank Gallons</td>
+                                <td class="specsValue"><?php echo $water_tank_gallons ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Voltage -->
+                          <?php 
+                            $voltage = $_helper->productAttribute($_product, nl2br($_product->getVoltage()), 'voltage');
+                            if($voltage != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Voltage</td>
+                                <td class="specsValue"><?php echo $voltage ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Axle -->
+                          <?php 
+                            $axle = $_helper->productAttribute($_product, nl2br($_product->getAxle()), 'axle');
+                            if($axle != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Axle</td>
+                                <td class="specsValue"><?php echo $axle ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- BTU -->
+                          <?php 
+                            $btu = $_helper->productAttribute($_product, nl2br($_product->getBtu()), 'btu');
+                            if($btu != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">BTU</td>
+                                <td class="specsValue"><?php echo $btu ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Burner -->
+                          <?php 
+                            $burner = $_helper->productAttribute($_product, nl2br($_product->getBurner()), 'burner');
+                            if($burner != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Burner</td>
+                                <td class="specsValue"><?php echo $burner ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Product Brochure Url -->
+                          <?php 
+                            $product_brochure_url = $_helper->productAttribute($_product, nl2br($_product->getProductBrochureUrl()), 'product_brochure_url');
+                            if($product_brochure_url != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Product Brochure Url</td>
+                                <td class="specsValue"><a href="<?php echo $product_brochure_url ?>" target="_blanck">Click here to view PDF</a></td>
+                              </tr>
+                          <?php endif; ?>
+                          
+                          <!-- Product Brochure Url -->
+                          <?php 
+                            $waranty_pdf_url = $_helper->productAttribute($_product, nl2br($_product->getWarantyPdf()), 'waranty_pdf');
+                            if($waranty_pdf_url != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Warranty PDF</td>
+                                <td class="specsValue"><a href="<?php echo $waranty_pdf_url ?>" target="_blanck">Click here to view PDF</a></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Accessory 1 Customizable Item -->
+                          <?php 
+                            $accessory_one_customizable_item = $_helper->productAttribute($_product, nl2br($_product->getAccessoryOneCustomizeItem()), 'accessory_one_customize_item');
+                            if($accessory_one_customizable_item != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 1 Customizable Item</td>
+                                <td class="specsValue"><?php echo $accessory_one_customizable_item ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                          <!-- Accessory 2 Customizable Item -->
+                          <?php 
+                            $accessory_two_customize_item= $_helper->productAttribute($_product, nl2br($_product->getAccessoryTwoCustomizeItem()), 'accessory_two_customize_item');
+                            if($accessory_two_customize_item != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 2 Customizable Item</td>
+                                <td class="specsValue"><?php echo $accessory_two_customize_item ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                          <!-- Accessory 3 Customizable Item -->
+                          <?php 
+                            $accessory_three_customize_item= $_helper->productAttribute($_product, nl2br($_product->getAccessoryThreeCustomizeItem()), 'accessory_three_customize_item');
+                            if($accessory_three_customize_item != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 3 Customizable Item</td>
+                                <td class="specsValue"><?php echo $accessory_three_customize_item ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Accessory 4 Customizable Item -->
+                          <?php 
+                            $accessory_four_customize_item= $_helper->productAttribute($_product, nl2br($_product->getAccessoryFourCustomizeItem()), 'accessory_four_customize_item');
+                            if($accessory_four_customize_item != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 4 Customizable Item</td>
+                                <td class="specsValue"><?php echo $accessory_four_customize_item ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Accessory 5 Customizable Item -->
+                          <?php 
+                            $accessory_five_customize_item= $_helper->productAttribute($_product, nl2br($_product->getAccessoryFiveCustomizeItem()), 'accessory_five_customize_item');
+                            if($accessory_five_customize_item != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 5 Customizable Item</td>
+                                <td class="specsValue"><?php echo $accessory_five_customize_item ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Accessory 6 Customizable Item -->
+                          <?php 
+                            $accessory_six_customize_item= $_helper->productAttribute($_product, nl2br($_product->getAccessorySixCustomizeItem()), 'accessory_six_customize_item');
+                            if($accessory_six_customize_item != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 6 Customizable Item</td>
+                                <td class="specsValue"><?php echo $accessory_six_customize_item ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Accessory 7 Customizable Item -->
+                          <?php 
+                            $accessory_seven_customize_item= $_helper->productAttribute($_product, nl2br($_product->getAccessorySevenCustomizeItem()), 'accessory_seven_customize_item');
+                            if($accessory_seven_customize_item != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 7 Customizable Item</td>
+                                <td class="specsValue"><?php echo $accessory_seven_customize_item ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Accessory 8 Customizable Item -->
+                          <?php 
+                            $accessory_eight_customize_item= $_helper->productAttribute($_product, nl2br($_product->getAccessoryEightCustomizeItem()), 'accessory_eight_customize_item');
+                            if($accessory_eight_customize_item != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 8 Customizable Item</td>
+                                <td class="specsValue"><?php echo $accessory_eight_customize_item ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Accessory 9 Customizable Item -->
+                          <?php 
+                            $accessory_nine_customize_item= $_helper->productAttribute($_product, nl2br($_product->getAccessoryNineCustomizeItem()), 'accessory_nine_customize_item');
+                            if($accessory_nine_customize_item != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 9 Customizable Item</td>
+                                <td class="specsValue"><?php echo $accessory_nine_customize_item ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Accessory 10 Customizable Item -->
+                          <?php 
+                            $accessory_ten_customize_item= $_helper->productAttribute($_product, nl2br($_product->getAccessoryTenCustomizeItem()), 'accessory_ten_customize_item');
+                            if($accessory_ten_customize_item != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 10 Customizable Item</td>
+                                <td class="specsValue"><?php echo $accessory_ten_customize_item ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- Accessory 11 Customizable Item -->
+                          <?php 
+                            $accessory_elvn_customize_item= $_helper->productAttribute($_product, nl2br($_product->getAccessoryElvnCustomizeItem()), 'accessory_elvn_customize_item');
+                            if($accessory_elvn_customize_item != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 11 Customizable Item</td>
+                                <td class="specsValue"><?php echo $accessory_elvn_customize_item ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                          <!-- Accessory 1 Item Part Numbers -->
+                          <?php 
+                            $accessory_one_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessoryOneItemPart()), 'accessory_one_item_part');
+                            if($accessory_one_item_part != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 1 Item Part Numbers</td>
+                                <td class="specsValue"><?php echo $accessory_one_item_part ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                          <!-- Accessory 2 Item Part Numbers -->
+                          <?php 
+                            $accessory_two_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessoryTwoItemPart()), 'accessory_two_item_part');
+                            if($accessory_two_item_part != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 2 Item Part Numbers</td>
+                                <td class="specsValue"><?php echo $accessory_two_item_part ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                          <!-- Accessory 3 Item Part Numbers -->
+                          <?php 
+                            $accessory_three_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessoryThreeItemPart()), 'accessory_three_item_part');
+                            if($accessory_three_item_part != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 3 Item Part Numbers</td>
+                                <td class="specsValue"><?php echo $accessory_three_item_part ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                          <!-- Accessory 4 Item Part Numbers -->
+                          <?php 
+                            $accessory_four_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessoryFourItemPart()), 'accessory_four_item_part');
+                            if($accessory_four_item_part != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 4 Item Part Numbers</td>
+                                <td class="specsValue"><?php echo $accessory_four_item_part ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                          <!-- Accessory 5 Item Part Numbers -->
+                          <?php 
+                            $accessory_five_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessoryFiveItemPart()), 'accessory_five_item_part');
+                            if($accessory_five_item_part != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 5 Item Part Numbers</td>
+                                <td class="specsValue"><?php echo $accessory_five_item_part ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                          <!-- Accessory 6 Item Part Numbers -->
+                          <?php 
+                            $accessory_six_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessorySixItemPart()), 'accessory_six_item_part');
+                            if($accessory_six_item_part != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 6 Item Part Numbers</td>
+                                <td class="specsValue"><?php echo $accessory_six_item_part ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                          <!-- Accessory 7 Item Part Numbers -->
+                          <?php 
+                            $accessory_seven_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessorySevenItemPart()), 'accessory_seven_item_part');
+                            if($accessory_seven_item_part != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 7 Item Part Numbers</td>
+                                <td class="specsValue"><?php echo $accessory_seven_item_part ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                          <!-- Accessory 8 Item Part Numbers -->
+                          <?php 
+                            $accessory_eight_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessoryEightItemPart()), 'accessory_eight_item_part');
+                            if($accessory_eight_item_part != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 8 Item Part Numbers</td>
+                                <td class="specsValue"><?php echo $accessory_eight_item_part ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                          <!-- Accessory 9 Item Part Numbers -->
+                          <?php 
+                            $accessory_nine_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessoryNineItemPart()), 'accessory_nine_item_part');
+                            if($accessory_nine_item_part != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 9 Item Part Numbers</td>
+                                <td class="specsValue"><?php echo $accessory_nine_item_part ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                          <!-- Accessory 10 Item Part Numbers -->
+                          <?php 
+                            $accessory_ten_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessoryTenItemPart()), 'accessory_ten_item_part');
+                            if($accessory_ten_item_part != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 10 Item Part Numbers</td>
+                                <td class="specsValue"><?php echo $accessory_ten_item_part ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                          <!-- Accessory 11 Item Part Numbers -->
+                          <?php 
+                            $accessory_elvn_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessoryElvnItemPart()), 'accessory_elvn_item_part');
+                            if($accessory_elvn_item_part != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Accessory 11 Item Part Numbers</td>
+                                <td class="specsValue"><?php echo $accessory_elvn_item_part ?></td>
+                              </tr>
+                          <?php endif; ?>
+
+
+
+                          
+
                         </tbody>
                   </table>
                 </div>
@@ -254,25 +825,177 @@
                     <table class="table">
                         <thead>
                           <tr>
-                            <th colspan="2">Firstname</th>
+                            <th colspan="2">Warranty</th>
                           </tr>
                         </thead>
                         <tbody>
-                          <tr>
-                            <td class="specskey">John</td>
-                            <td class="specsValue">Doe</td>
-                          </tr>
-                          <tr>
-                            <td class="specskey">Mary</td>
-                            <td class="specsValue">Moe</td>
-                          </tr>
-                          <tr>
-                            <td class="specskey">July</td>
-                            <td class="specsValue">Dooley</td>
-                          </tr>
+
+                          <!-- WTY Type1 -->
+                          <?php 
+                            $wty_type_one = $_helper->productAttribute($_product, nl2br($_product->getWtyType1()), 'wty_type1');
+                            if($wty_type_one == 1) : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Wear items: check valves; chemical injectors; high pressure discharge hose; packings and seals on wet-end of pump; oil seals, lights, gaskets; trigger guns, & wands</td>
+                                <td class="specsValue">Parts: 90-days, Manufacturing Defect</td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- WTY Type2 -->
+                          <?php 
+                            $wty_type_two = $_helper->productAttribute($_product, nl2br($_product->getWtyType2()), 'wty_type2');
+                            if($wty_type_two == 1) : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Burners:  Fuel pumps, igniter, fuel solenoid coil, burner motor, gas valve</td>
+                                <td class="specsValue">Parts: 1 year Labor: 1 year</td>
+                              </tr>
+                          <?php endif; ?>
+
+                          <!-- WTY Type3 -->
+                          <?php 
+                            $wty_type_three = $_helper->productAttribute($_product, nl2br($_product->getWtyType3()), 'wty_type3');
+                            if($wty_type_three == 1) : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Chemical valves</td>
+                                <td class="specsValue">Parts: 1 year Labor: 1 year</td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                          <!-- WTY Type4 -->
+                          <?php 
+                            $wty_type_four = $_helper->productAttribute($_product, nl2br($_product->getWtyType4()), 'wty_type4');
+                            if($wty_type_four == 1) : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Fabricated items: X-pert Series</td>
+                                <td class="specsValue">Parts: 3 years limited</td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                          <!-- WTY Type5 -->
+                          <?php 
+                            $wty_type_five = $_helper->productAttribute($_product, nl2br($_product->getWtyType5()), 'wty_type5');
+                            if($wty_type_five == 1) : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Fabricated items: All Others (frames, handles, chassis, fuel tanks, float tanks, belt guards, etc.)</td>
+                                <td class="specsValue">Parts: 7 years Labor: 1 year</td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                          <!-- WTY Type6 -->
+                          <?php 
+                            $wty_type_six = $_helper->productAttribute($_product, nl2br($_product->getWtyType6()), 'wty_type6');
+                            if($wty_type_six == 1) : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Pump:  Crankshaft, manifold, crankcase, bearings, connecting rods</td>
+                                <td class="specsValue">Parts: 7 years Labor: 1 year</td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                          <!-- WTY Type7 -->
+                          <?php 
+                            $wty_type_seven = $_helper->productAttribute($_product, nl2br($_product->getWtyType7()), 'wty_type7');
+                            if($wty_type_seven == 1) : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Pump, Axial: X-pert Series </td>
+                                <td class="specsValue">Parts: 1 year Labor: 1 year</td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                          <!-- WTY Type8 -->
+                          <?php 
+                            $wty_type_eight = $_helper->productAttribute($_product, nl2br($_product->getWtyType8()), 'wty_type8');
+                            if($wty_type_eight == 1) : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Pump, Booster: 12v</td>
+                                <td class="specsValue">Parts: 1 year Labor: 1 year</td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                          <!-- WTY Type9 -->
+                          <?php 
+                            $wty_type_nine = $_helper->productAttribute($_product, nl2br($_product->getWtyType9()), 'wty_type9');
+                            if($wty_type_nine == 1) : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Pump, Axial (all others) </td>
+                                <td class="specsValue">Parts: 1 year Labor: 1 year</td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                          <!-- WTY Type10 -->
+                          <?php 
+                            $wty_type_ten = $_helper->productAttribute($_product, nl2br($_product->getWtyType10()), 'wty_type10');
+                            if($wty_type_ten == 1) : 
+                          ?>
+                              <tr>
+                                <td class="specskey">Pulleys</td>
+                                <td class="specsValue">Parts: 1 year Labor: 1 year</td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                          <!-- WTY Type11 -->
+                          <?php 
+                            $wty_type_eleven = $_helper->productAttribute($_product, nl2br($_product->getWtyType11()), 'wty_type11');
+                            if($wty_type_eleven == 1) : 
+                          ?>
+                              <tr>
+                                <td class="specskey" colspan="2">Unloaders</td>
+                              </tr>
+                          <?php endif; ?>
+
                         </tbody>
                   </table>
                 </div>
+              
+                <?php 
+                    $order_parts_manual = $_helper->productAttribute($_product, nl2br($_product->getOrderPartsManual()), 'order_parts_manual'); 
+                    if($order_parts_manual == 1) :
+                ?>
+                <!-- Table To be Repeated -->
+                <div class="table-responsive specification_table">
+                    <table class="table">
+                        <thead>
+                          <tr>
+                            <th colspan="2">Order Parts Manual</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+
+                          <!-- Manual Title-->
+                          <?php 
+                            $manual_title = $_helper->productAttribute($_product, nl2br($_product->getManualTitle()), 'manual_title');
+                            $manual_url = $_helper->productAttribute($_product, nl2br($_product->getManualUrl()), 'manual_url');
+
+                            if($manual_url != '') : 
+                          ?>
+                              <tr>
+                                <td class="specskey"><?php echo $manual_title?></td>
+                                <td class="specsValue"><a href="<?php echo $manual_url; ?>" target="_blank">Click here to view manual</a></td>
+                              </tr>
+                          <?php endif; ?>
+
+
+                        </tbody>
+                  </table>
+                </div>
+              <?php endif; ?>
+
+
             </div>
         </div>
         <div class="col-sm-4">
