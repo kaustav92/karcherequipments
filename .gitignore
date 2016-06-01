@@ -48,3 +48,4 @@ lib/Zend/
 lib/Cm/
 lib/Credis/
 lib/Magento/
+.DS_Store
