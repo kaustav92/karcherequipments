@@ -4407,11 +4407,11 @@ p.product-name a:hover {
     margin-right: 2.22222%;
   }
 
-  .products-grid--max-4-col > li:nth-child(4n+1) {
+  .products-grid--max-4-col > li:nth-child(3n+1) {
     clear: left;
   }
 
-  .products-grid--max-4-col > li:nth-child(4n) {
+  .products-grid--max-4-col > li:nth-child(3n) {
     margin-right: 0;
   }
 
@@ -4421,7 +4421,7 @@ p.product-name a:hover {
     clear: none;
   }
 
-  .products-grid--max-5-col > li:nth-child(3n+1) {
+  .products-grid--max-5-col > li:nth-child(2n+1) {
     clear: none;
   }
 

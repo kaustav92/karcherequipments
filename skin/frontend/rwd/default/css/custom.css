@@ -754,4 +754,84 @@ p.required {
 .product-image, .no-touch .product-img-box .product-image:not(.zoom-available):hover {
     border: none;
 }
+.image_wishist_section {
+    position: relative;
+}
+.on_hover_links {
+    position: absolute;
+    top: 0;
+    right: 3px;
+    left: 0;
+    bottom: 0;
+}
+.add-to-links {
+    overflow: auto;
+}
+.add-to-links li {
+    text-align: right;
+    padding-right: 5px;
+}
+.add-to-links a {
+    display: inline-block;
+    padding: 0px 3px 3px;
+    color: #a2a2a2;
+    transition: transform 0.3s ease;
 
+}
+.add-to-links a.link-wishlist:hover {
+    color: #df280a;
+    -ms-transform: scale(1.5,1.5); /* IE 9 */
+    -webkit-transform: scale(1.5,1.5); /* Safari */
+    transform: scale(1.5,1.5); /* Standard syntax */
+    transition: transform 0.3s ease;
+} 
+.add-to-links a.link-compare:hover {
+    color: #bfb829;
+    -ms-transform: scale(1.5,1.5); /* IE 9 */
+    -webkit-transform: scale(1.5,1.5); /* Safari */
+    transform: scale(1.5,1.5); /* Standard syntax */
+    transition: transform 0.3s ease;
+} 
+@media only screen and (min-width: 960px) {
+    .products-grid--max-4-col > li {
+        width: 31.33333%;
+        margin-right: 2.22222%;
+    }
+}
+.products-grid .product-name, .products-list .product-name {
+    text-transform: capitalize;
+    margin-bottom: 5px;
+    font-size: 13px;
+    font-family: "Lato", "Helvetica Neue", Verdana, Arial, sans-serif;
+    text-align: left;
+}
+.products-grid .product-name a {
+    font-family: "Lato";
+    font-weight: 300;
+}
+.products-grid .price-box {
+    color: #a0a0a0;
+    font-size: 13px;
+    margin: 0 0 5px;
+    float: left;
+    line-height: 3.5;
+}
+.price-box .price, .price {
+    font-family: "Lato", Verdana, Arial, sans-serif;
+}
+.price-box .price {
+    color: #3f3f40;
+    font-size: 14px;
+}
+.products-grid .actions {
+    padding-top: 10px;
+    position: relative;
+    bottom: 0px;
+    width: 65%;
+    float: right;
+}
+.products-grid .actions .button {
+    border-radius: 2px;
+    font-family: roboto;
+    width: 100%;
+}
