@@ -369,9 +369,9 @@ h3, .h3 {
     font-size: 12px
 }
 .block-title span {
-    font-family: roboto;
+    font-family: Lato;
     font-weight: 300;
-    font-size: 25px;
+    font-size: 18px;
     margin-bottom: 10px;
     color: #888888;
 }
@@ -683,3 +683,75 @@ p.required {
     color: #FFF200;
     font-family: roboto;
 }
+.page-title h3, .category-title h3{
+    font-weight: 300;
+}
+
+/* PRODUCT LISTING PAGE STYLING */
+.block-content {
+    margin-top: 10px;
+}
+.block-layered-nav .block-content > dl > dt {
+    font-family: "Lato", "Helvetica Neue", Verdana, Arial, sans-serif;
+    border-color: #e6e6e6;
+    background-color: transparent;
+    border-right: none;
+    border-left: none;
+}
+.block-layered-nav .block-content > dl > dd:last-child {
+    border-width: 0 1px 1px 1px;
+    border: 0;
+    padding: 10px 0;
+}
+@media only screen and (min-width: 771px) {
+    .block-layered-nav .block-content > dl > dt {
+        padding-left: 0px;
+    }
+}
+.block-layered-nav dl dd ol > li > span, .block-layered-nav dl dd ol > li > a {
+    padding: 5px 0px;
+    display: block;
+    color: #888;
+    font-weight: 300;
+    font-family: "Lato";
+    /*border-left: 0px solid;*/
+    transition : all 0.3s ease-out;
+}
+.block-layered-nav dl dd ol > li > span, .block-layered-nav dl dd ol > li > a:hover {
+/*    border-left: 3px solid #ececec;*/
+    padding-left: 6px;
+    display: block;
+    font-weight: 500;
+    transition: all 0.3s ease-in;
+}
+.block-layered-nav .block-content > dl > dt:hover {
+    background-color: transparent;
+}
+.toolbar {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #e6e6e6;
+    border-top: 1px solid #e6e6e6;
+    background: transparent;
+    padding: 2px 0px 1px 0px;
+}
+.sorter {
+    float: left;
+    margin-bottom: 0px;
+}
+.sorter > .view-mode {
+    margin-bottom: 0;
+}
+.pager .amount, .pager .limiter, .pager .pages {
+    margin-bottom: 0px;
+}
+.pager {
+    margin: 0;
+}
+.sorter label {
+    margin-bottom: 0;
+}
+.product-image, .no-touch .product-img-box .product-image:not(.zoom-available):hover {
+    border: none;
+}
+
