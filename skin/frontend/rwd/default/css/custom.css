@@ -690,6 +690,10 @@ p.required {
 /* PRODUCT LISTING PAGE STYLING */
 .block-content {
     margin-top: 10px;
+    width: 80%;
+}
+.block-content li.item {
+    margin: 0 0 10px 0px;
 }
 .block-layered-nav .block-content > dl > dt {
     font-family: "Lato", "Helvetica Neue", Verdana, Arial, sans-serif;
@@ -763,6 +767,7 @@ p.required {
     right: 3px;
     left: 0;
     bottom: 0;
+    z-index: 2;
 }
 .add-to-links {
     overflow: auto;
@@ -796,6 +801,12 @@ p.required {
     .products-grid--max-4-col > li {
         width: 31.33333%;
         margin-right: 2.22222%;
+        transition : all 0.3s ease-in;
+    }
+    .products-grid--max-4-col > li:hover {
+        box-shadow: 0px 0px 7px rgba(148, 139, 139, 0.29);
+        padding: 0px 10px;
+        transition : all 0.3s ease-in;
     }
 }
 .products-grid .product-name, .products-list .product-name {
@@ -834,4 +845,52 @@ p.required {
     border-radius: 2px;
     font-family: roboto;
     width: 100%;
+}
+h2.product-name a, h3.product-name a, h4.product-name a, h5.product-name a, p.product-name a {
+    color: #636363;
+    font-weight: 300;
+    font-family: "Lato";
+    text-transform: capitalize;
+}
+.products-grid .product-image {
+    margin-bottom: 5px;
+    position: relative;
+    z-index: 1;
+}
+.recent_viewed_product .block-title span, .compare_products .block-title span {
+    font-family: "Lato", "Helvetica Neue", Verdana, Arial, sans-serif;
+    border-color: #e6e6e6;
+    background-color: transparent;
+    border-right: none;
+    border-left: none;
+    margin: 0;
+    color: #636363;
+    font-size: 14px;
+    font-style: normal;
+    line-height: 1.4;
+    text-rendering: optimizeSpeed;
+    text-transform: uppercase;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    font-weight: normal;
+    margin-bottom: 0px;
+    padding: 7px 10px 7px 0px;
+    border-width: 1px;
+    border-style: solid;
+    position: relative;
+    display: block;
+    border: none;
+    border-top: 1px solid #ececec;
+    border-bottom: 1px solid #ececec;
+    width: 80%;
+
+}
+.toolbar-bottom {
+    display: none;
+}
+.view-mode {
+    display: none;
 }
