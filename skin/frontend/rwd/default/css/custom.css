@@ -767,7 +767,6 @@ p.required {
     right: 3px;
     left: 0;
     bottom: 0;
-    z-index: 2;
 }
 .add-to-links {
     overflow: auto;
@@ -775,6 +774,8 @@ p.required {
 .add-to-links li {
     text-align: right;
     padding-right: 5px;
+    position: relative;
+    z-index: 2;
 }
 .add-to-links a {
     display: inline-block;
@@ -801,11 +802,13 @@ p.required {
     .products-grid--max-4-col > li {
         width: 31.33333%;
         margin-right: 2.22222%;
+        cursor: pointer;
         transition : all 0.3s ease-in;
     }
     .products-grid--max-4-col > li:hover {
         box-shadow: 0px 0px 7px rgba(148, 139, 139, 0.29);
         padding: 0px 10px;
+        cursor: pointer;
         transition : all 0.3s ease-in;
     }
 }
