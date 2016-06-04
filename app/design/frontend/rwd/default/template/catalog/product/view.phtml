@@ -815,6 +815,11 @@
    </div>
  </div>
 
+<!-- Accessory 1 Customizable Item -->
+<?php 
+  $accessory_one_customizable_item = $_helper->productAttribute($_product, nl2br($_product->getAccessoryOneCustomizeItem()), 'accessory_one_customize_item');
+  if($accessory_one_customizable_item != '') : 
+?>
 <!-- Accessory -->
 <div class="table-responsive specification_table">
   <table class="table">
@@ -825,11 +830,6 @@
       </thead>
       <tbody>
 
-        <!-- Accessory 1 Customizable Item -->
-        <?php 
-          $accessory_one_customizable_item = $_helper->productAttribute($_product, nl2br($_product->getAccessoryOneCustomizeItem()), 'accessory_one_customize_item');
-          if($accessory_one_customizable_item != '') : 
-        ?>
             <tr>
               <td class="specskey">Accessory 1 Customizable Item</td>
               <td class="specsValue"><?php echo $accessory_one_customizable_item ?></td>
@@ -1123,8 +1123,13 @@
                 </div>
               <?php endif; ?>
 
-
+            <!-- Accessory 1 Customizable Item -->
+          <?php 
+            $accessory_one_customizable_item = $_helper->productAttribute($_product, nl2br($_product->getAccessoryOneCustomizeItem()), 'accessory_one_customize_item');
+            if($accessory_one_customizable_item != '') : 
+          ?>
             </div>
+          <?php endif; ?>
         
         <div class="col-sm-12">
              <?php echo $this->getChildHtml('upsell_products') ?>
