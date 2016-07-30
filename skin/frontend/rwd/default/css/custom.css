@@ -1,7 +1,7 @@
 /**
 * Font Family
 **/
-@import url(https://fonts.googleapis.com/css?family=Oswald:700|Roboto);
+@import url(https://fonts.googleapis.com/css?family=Oswald:700|roboto);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 
 /**
@@ -125,7 +125,7 @@ h3, .h3 {
     display: block;
 }
 .btn-primary {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'lato', sans-serif;
     font-size: 16px;
     background-color: #3E3D3F;
     transition: all 0.3s ease;
@@ -367,7 +367,7 @@ h3, .h3 {
 .block-content ul li {
     margin-top: 10px;
     margin-left: 10px;
-    font-family: roboto;
+    font-family: lato;
     font-weight: 300;
     font-size: 12px
 }
@@ -383,22 +383,23 @@ h3, .h3 {
 }
 .page-title h1 {
     color: #888888;
-    font-family: roboto;
+    font-family: lato;
     font-weight: 300;
     margin-top: 5px;
+    border-bottom: none;
 }
 .welcome-msg p {
-    font-family: roboto;
+    font-family: lato;
     font-weight: 100;
     line-height: 25px;
 }
 .dashboard .box-head h2 {
     font-size: 20px !important;
-    font-family: roboto;
+    font-family: lato;
     font-weight: 300 !important;
 }
 .box-title h3 {
-    font-family: roboto;
+    font-family: lato;
     font-size: 16px !important;
     font-weight: 100 !important;
     color: #000000;
@@ -415,7 +416,7 @@ h3, .h3 {
 }
 .discount-form .button2 span {
     text-decoration: none;
-    font-family: roboto;
+    font-family: lato;
     color: #FFF200;
     font-size: 13px;
 }
@@ -430,10 +431,10 @@ h3, .h3 {
     margin: 15px 0px;
 }
 .discount-form label {
-    font-family: roboto;
+    font-family: lato;
 }
 .shipping h2 {
-    font-family: roboto;
+    font-family: lato;
     margin-bottom: 10px;
 }
 .shipping .form-list .shipping-country {
@@ -445,7 +446,7 @@ h3, .h3 {
 }
 .shipping .buttons-set span {
     text-decoration: none;
-    font-family: roboto;
+    font-family: lato;
 }
 .cart-forms .discount {
     border: none;
@@ -454,16 +455,22 @@ h3, .h3 {
 .cart-totals {
     border: none;
     background-color: #ffffff;
-    margin-top: 50px;
+    margin-top: 0px;
+    border-top: 1px solid #ececec;
 }
 .cart-forms .shipping {
     border: none;
     background-color: #ffffff;
+    display: none;
 }
 .cart-forms {
-    border: 1px solid black;
+    font-family: lato;
     border-radius: 3px;
     width: 35%;
+    overflow: auto;
+    float: right;
+    display: inline-block;
+    padding: 20px;
 }
 .cart .button {
     background-color: #3F3F40;
@@ -473,34 +480,49 @@ h3, .h3 {
     font-family: "Lato";
     font-weight: 300;
 }
+.cart .cart-totals table tfoot {
+    border-top: none;
+    border-bottom: none;
+}
+.cart .cart-totals table td:first-child {
+    min-width: 76px;
+    float: left;
+    padding-right: 14px;
+}
+.cart .cart-totals table td {
+    padding: 2px 6px;
+}
+.cart .cart-totals table tbody tr:last-child td {
+    margin-top: 10px;
+}
 .discount-form {
     margin: 15px 0px;
 }
 .cart .cart-totals table {
-    width: 90%;
+    width: 100%;
     float: right;
-    font-family: roboto;
+    font-family: lato;
 }
 .cart-totals .checkout-types .btn-checkout {
     border-radius: 3px;
 }
 .cart-table .product-cart-actions .qty {
-    border-radius: 5px;
+    border-radius: 2px;
     height: 20px;
 }
 .cart-table thead th {
-    font-family: roboto;
+    font-family: lato;
 }
 .cart-table h2 {
-    font-family: roboto;   
+    font-family: lato;   
 }
 .form-list ul {
     border: 1px solid #888888;
-    border-radius: 5px;
+    border-radius: 2px;
     background: #f2f2f2;
 }
 label {
-    font-family: roboto;
+    font-family: lato;
 }
 .form-list .field {
     width: 90%;
@@ -517,19 +539,19 @@ label {
 .input-box input[type=text] {
     width: 100%;
     height: 25px;
-    border-radius: 5px;
+    border-radius: 2px;
 }
 .input-box input[type=tel] {
     width: 100%;
     height: 25px;
-    border-radius: 5px;
+    border-radius: 2px;
 }
 .step-title .number {
     border-radius: 26px;
-    font-family: roboto;
+    font-family: lato;
 }
 .step-title h2 {
-    font-family: roboto;
+    font-family: lato;
 }
 #co-billing-form ul.form-list > .control {
     margin: 20px 65px;
@@ -541,39 +563,53 @@ label {
     border-top: none;
     width: 19%;
 }
+.fieldset .buttons-set {
+    width: 100%;
+    margin-top: 0px;
+}
 p.required {
     display: none;
 }
+/* Customer Dashboard */
+body.customer-account .my-account .title-buttons h1 {
+    text-align: left;
+    font-weight: 300;
+}
  /*wishlist section*/
+ #wishlist-table.clean-table {
+    font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    width: 100%;
+    border-left: 1px solid #ececec;
+    border-right: 1px solid #ececec;
+}
+.clean-table thead tr {
+    border-bottom: 1px solid #ececec;
+    border-top: 1px solid #ececec;
+}
  input[type=text].qty {
-    border-radius: 5px;
-    height: 20px;
+    border-radius: 2px;
+    height: 30px;
  }
  #wishlist-table textarea {
-    border-radius: 5px;
-    font-family: roboto;
+    font-family: "Lato";
+    border-radius: 2px;
     margin-bottom: 5px;
+    height: 80px;
+    text-transform: capitalize;
  }
  #wishlist-table .item-manage .button {
     font-size: 12px;
-    padding: 5px 10px;
-    border-radius: 5px;
-    font-family: roboto;
-    background-color: #3F3F40;
-    color: #FFF200;
+    padding: 10px 10px;
+    border-radius: 2px;
+    font-family: "Lato";
+    background-color: transparent;
+    color: #c5c5c5;
+    border: 1px solid #e0e0e0;
  }
  .buttons-set {
     width: 20%;
- }
- .buttons-set button.button {
-    float: left;
-    margin-left: 5px;
-    margin-bottom: 10px;
-    min-width: 140px;
-    border-radius: 5px;
-    font-family: roboto;
-    background-color: #3F3F40;
-    color: #FFF200;
  }
  .shipping #co-shipping-method-form .buttons-set .button {
     background-color: #3F3F40;
@@ -584,94 +620,111 @@ p.required {
     color: #FFF200 !important;
  }
  #wishlist-table .product-name a {
-    font-size: 20px;
-    font-family: roboto;
+    font-size: 14px;
+    font-family: "Lato";
+    color: #636363;
  }
  #wishlist-table .product-name {
     margin-bottom: 20px;
  }
  #wishlist-table td.customer-wishlist-item-cart .button {
-    border-radius: 5px;
-    font-family: roboto;
+    border-radius: 2px;
+    font-family: "Lato";
     margin-bottom: 15px;
-    padding: 5px 10px;
+    padding: 9px 10px;
  }
- #wishlist-table.clean-table thead th {
-    font-family: roboto;
- }
+#wishlist-table.clean-table thead th {
+    font-family: "Lato";
+    padding: 7px;
+} #wishlist-table .wishlist-sku {
+    font-family: "Lato";
+}
  .data-table thead th {
-    font-family: roboto;
- }
+    font-family: "Lato";
+    border-bottom: 1px solid #ececec;
+    border-top: 1px solid #ececec;
+    background: transparent;
+}
  #wishlist-table td.customer-wishlist-item-cart a {
     background-color: #3F3F40;
     color: #FFF200;
  }
- .button.button-secondary {
+ .fieldset .button-secondary {
     background-color: #3F3F40;
     color: #FFF200;
+    font-family: "Lato";
+    float: left;
+    border-radius: 2px;
  }
- .button.btn-share {
+ .fieldset .btn-share {
     background-color: #3F3F40;
-    color: #FFF200;  
+    color: #FFF200;
+    font-family: "Lato";
+    margin-bottom: 10px;
+    border-radius: 2px;
+    margin-top: 0px;
+    padding: 9px 10px;
  }
- .button.btn-add {
-    background-color: #27B657 !important;
-    color: #E8F7ED !important;
- }
+ .fieldset .btn-add {
+    background-color: #27B657;
+    color: #E8F7ED;
+    font-family: "Lato";
+    border-radius: 2px;
+    padding: 9px 10px; }
 
  /*address book*/
  .my-account .addresses-list .col-1 {
-    font-family: roboto;
+    font-family: "Lato";
  }
  .my-account .addresses-list .col-1 h2 {
-    font-family: roboto;
+    font-family: "Lato";
  }
  .sidebar .actions .button {
     float: none;
     margin-left: 70px;
-    border-radius: 5px;
-    font-family: roboto;
+    border-radius: 2px;
+    font-family: "Lato";
     background: #27B657;
     color: #F6FCF8;
  }
  body.customer-account .my-account .addresses-list h2 {
-    font-family: roboto;
+    font-family: "Lato";
  }
  body.customer-account .my-account .title-buttons .button {
     background-color: #3F3F40;
     color: #FFF200;
-    font-family: roboto;
-    border-radius: 5px;
+    font-family: "Lato";
+    border-radius: 2px;
  }
 /*products menu*/
 .products-grid .actions .button {
-    border-radius: 5px;
-    font-family: roboto;
+    border-radius: 2px;
+    font-family: "Lato";
     width: 80%;
 }
 .products-grid .product-name a {
-    font-family: roboto;
+    font-family: "Lato";
 }
 
 /*add cart*/
 .header-minicart .product-details .product-name a {
     font-size: 15px;
-    font-family: roboto;
+    font-family: "Lato";
     font-weight: 100;
 }
 .header-minicart .info-wrapper .qty {
     height: 20px;
-    border-radius: 5px;
+    border-radius: 2px;
 }
 .header-minicart .info-wrapper th {
-    font-family: roboto;
+    font-family: "Lato";
 }
 .header-minicart .minicart-actions .checkout-button {
     background-color: #3F3F40;
     color: #FFF200;
-    border-radius: 5px;
+    border-radius: 2px;
     width: 60%;
-    font-family: roboto;
+    font-family: "Lato";
 }
 #header-cart.skip-active {
     border-radius: 10px;
@@ -684,7 +737,7 @@ p.required {
 .footer .block-subscribe .actions .button {
     background-color: #3F3F40;
     color: #FFF200;
-    font-family: roboto;
+    font-family: "Lato";
 }
 .page-title h3, .category-title h3{
     font-weight: 300;
@@ -709,6 +762,9 @@ p.required {
     border-width: 0 1px 1px 1px;
     border: 0;
     padding: 10px 0;
+}
+.block-progress .block-content {
+    margin-left: 30px;
 }
 @media only screen and (min-width: 771px) {
     .block-layered-nav .block-content > dl > dt {
@@ -849,7 +905,7 @@ p.required {
 }
 .products-grid .actions .button {
     border-radius: 2px;
-    font-family: roboto;
+    font-family: lato;
     width: 100%;
 }
 h2.product-name a, h3.product-name a, h4.product-name a, h5.product-name a, p.product-name a {
@@ -1082,4 +1138,104 @@ h2.product-name a, h3.product-name a, h4.product-name a, h5.product-name a, p.pr
     padding: 20px;
     color: #888;
     float: left;
+}
+#wishlist-table .odd {
+    margin-bottom: 10px;
+}
+#wishlist-table .odd {
+    margin-bottom: 10px;
+}
+#wishlist-table.clean-table td {
+    padding: 15px;
+    vertical-align: top;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ececec;
+}
+#wishlist-table.clean-table th {
+    border-bottom: none;
+}
+.update_button .button-secondary {
+    display: none;
+}
+
+/***
+**  CHECKOUT FLOW STYLING
+***/
+.cart .page-title{
+    border-bottom: none;
+}
+.cart-table {
+    font-family: lato;
+    border-left: 1px solid #ececec;
+    border-right: 1px solid #ececec;
+}
+.cart-table thead {
+    border-bottom: 1px solid #ececec;
+    border-top: 1px solid #ececec;
+}.cart-table tr {
+    border-bottom: 1px solid #ececec;
+    border-top: 1px solid #ececec;
+}
+.cart-footer-actions .button2 span, .cart-footer-actions .button2 span span{
+    text-decoration: none;
+    color: #636363;
+    font-family: lato;
+}
+.cart-table .product-cart-image .product-image img {
+    padding-left: 10px;
+}
+.cart-table .product-cart-sku {
+    font-family: "Lato";
+    font-style: normal;
+}
+.cart-totals-wrapper {
+    width: 35%;
+}
+.opc .section .step-title .number, .opc .section.allow.active .step-title .number, .no-touch .opc .section.allow:hover .step-title .number {
+    color: #fff200;
+    line-height: 26px;
+    background-color: #3f3f40;
+}
+.opc .section.allow .step-title .number {
+    background-color: rgba(63, 63, 64, 0.57);
+}
+.opc .section.allow .step-title:hover h2, .opc .section.active .step-title h2 {
+    color: #3f3f40;
+}
+.block-progress dd address {
+    font-style: normal;
+    font-family: "Lato";
+}
+.block-progress dd{
+    font-family: "Lato";
+    font-style: normal;
+}
+.checkout-onepage-success .buttons-set button {
+    border-radius: 2px;
+    font-family: "Lato";
+    color: #fff200;
+    background-color: #3f3f40;
+}
+.data-table tfoot tr {
+    background: transparent;
+}
+/*.data-table tfoot {
+    border-bottom: 1px solid #ececec;
+    border-top: 1px solid #ececec;
+    border-left: 1px solid #ececec;
+    border-right: 1px solid #ececec;
+}
+*/
+.checkout-review-table {
+    border: 1px solid #ececec;
+    background: transparent;
+}
+.data-table tbody td {
+    border-bottom: none;
+}
+.opc .section .step {
+    margin-top: 45px;
+}
+.opc-block-progress dt.complete a {
+    font-size: 11px;
 }

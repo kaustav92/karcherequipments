@@ -49,3 +49,5 @@ lib/Cm/
 lib/Credis/
 lib/Magento/
 .DS_Store
+downloader/
+app/locale/en_US/
