@@ -8,7 +8,7 @@ app/.htaccess
 index.php
 media/
 var/
-magmi/
+#magmi/
 phpmyadmin/
 robots.txt
 sitemap.xml

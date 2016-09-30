@@ -1,0 +1,43 @@
+title:MAGMI by dweeves - version:0.7.21
+startup:Running Magmi Product Import Engine v1.9 by dweeves
+startup:Import Profile:default
+startup:Import Mode:update
+step:step:0.5%
+plugin;Magmi_CSVDataSource;pluginhello:CSV Datasource-1.3.1-Dweeves- 
+plugin;Magmi_OptimizerPlugin;pluginhello:Magmi Optimizer-1.0.5-Dweeves-http://wiki.magmi.org/index.php?title=Magmi_Optimizer 
+plugin;Magmi_ReindexingPlugin;pluginhello:Magmi Magento Reindexer-1.0.3a-Dweeves-http://wiki.magmi.org/index.php?title=Magmi_Magento_Reindexer 
+plugin;Magmi_ReindexingPlugin;startup:Magmi Magento Reindexer v1.0.3a - Using execution mode :popen
+plugin;ImageAttributeItemProcessor;pluginhello:Image attributes processor-1.0.33-Dweeves, Tommy Goode-http://wiki.magmi.org/index.php?title=Image_attributes_processor 
+plugin;ColumnMappingItemProcessor;pluginhello:Column mapper-0.0.3b-Dweeves-http://wiki.magmi.org/index.php?title=Column_mapper 
+plugin;Magmi_ConfigurableItemProcessor;pluginhello:Configurable Item processor-1.3.7a-Dweeves-http://wiki.magmi.org/index.php?title=Configurable_Item_processor 
+plugin;Magmi_DefaultAttributeItemProcessor;pluginhello:Standard Attribute Import-1.1-Dweeves- 
+plugin;Magmi_OptimizerPlugin;info:Magmi Optimizer v1.0.5 - Optimizing magmi
+plugin;Magmi_OptimizerPlugin;info:Magmi Optimizer v1.0.5 - Adding index MAGMI_EAOV_OPTIMIZATION_IDX on eav_attribute_option_value
+plugin;Magmi_OptimizerPlugin;info:Magmi Optimizer v1.0.5 - Already optmized!
+plugin;Magmi_OptimizerPlugin;info:Magmi Optimizer v1.0.5 - Adding index MAGMI_CPEM_OPTIMIZATION_IDX on catalog_product_entity_media_gallery
+plugin;Magmi_OptimizerPlugin;info:Magmi Optimizer v1.0.5 - Already optmized!
+plugin;Magmi_OptimizerPlugin;info:Magmi Optimizer v1.0.5 - Adding index MAGMI_CCEV_OPTIMIZATION_IDX on catalog_category_entity_varchar
+plugin;Magmi_OptimizerPlugin;info:Magmi Optimizer v1.0.5 - Already optmized!
+plugin;Magmi_OptimizerPlugin;info:Magmi Optimizer v1.0.5 - Adding index MAGMI_EA_CODE_OPTIMIZATION_IDX on eav_attribute
+plugin;Magmi_OptimizerPlugin;info:Magmi Optimizer v1.0.5 - Already optmized!
+startup:Performing Datasouce Lookup...
+lookup:3:0.00014305114746094
+startup:Found 3 records, took 0.00014305114746094 sec
+columns:17
+plugin;Magmi_ConfigurableItemProcessor;startup:Configurable Item processor v1.3.7a - no options_container set, defaulting to :Block after product info
+startup:Ajusted processed columns:18
+itime:1 - 0.00089502334594727 - 0.00089502334594727
+dbtime:0 - 0 - 0 - 0
+itime:2 - 0.043677806854248 - 0.042428016662598
+dbtime:35 - 0.038622856140137 - 0.038622856140137 - 35
+itime:3 - 0.050523996353149 - 0.0066490173339844
+dbtime:65 - 0.043240308761597 - 0.00461745262146 - 30
+itime:3 - 0.059463977813721 - 0.0088050365447998
+dbtime:96 - 0.049733400344849 - 0.006493091583252 - 31
+info:Skus imported OK:3/3
+plugin;Magmi_ReindexingPlugin;info:Magmi Magento Reindexer v1.0.3a - Cleaning flat tables before reindex...
+plugin;Magmi_ReindexingPlugin;info:Magmi Magento Reindexer v1.0.3a - running indexer
+plugin;Magmi_ReindexingPlugin;info:Magmi Magento Reindexer v1.0.3a - Reindexing ....
+plugin;Magmi_ReindexingPlugin;info:Magmi Magento Reindexer v1.0.3a - <br>Fatal error: Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /Applications/XAMPP/xamppfiles/htdocs/karcherlatest/lib/Zend/Db/Adapter/Pdo/Abstract.php:129<br>Stack trace:<br>#0 /Applications/XAMPP/xamppfiles/htdocs/karcherlatest/lib/Zend/Db/Adapter/Pdo/Abstract.php(129): PDO->__construct('mysql:host=loca...', 'root', '', Array)<br>#1 /Applications/XAMPP/xamppfiles/htdocs/karcherlatest/lib/Zend/Db/Adapter/Pdo/Mysql.php(111): Zend_Db_Adapter_Pdo_Abstract->_connect()<br>#2 /Applications/XAMPP/xamppfiles/htdocs/karcherlatest/lib/Varien/Db/Adapter/Pdo/Mysql.php(396): Zend_Db_Adapter_Pdo_Mysql->_connect()<br>#3 /Applications/XAMPP/xamppfiles/htdocs/karcherlatest/lib/Zend/Db/Adapter/Abstract.php(460): Varien_Db_Adapter_Pdo_Mysql->_connect()<br>#4 /Applications/XAMPP/xamppfiles/htdocs/karcherlatest/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SET NAMES utf8', Array)<br>#5 /Applications/XAMPP/xamppfiles/htdocs/karcherlatest/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend in /Applications/XAMPP/xamppfiles/htdocs/karcherlatest/lib/Zend/Db/Adapter/Pdo/Abstract.php on line 144<br>
+plugin;Magmi_ReindexingPlugin;info:Magmi Magento Reindexer v1.0.3a - done in 0.45 secs
+end:Import Ended
