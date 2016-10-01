@@ -1,5 +1,5 @@
-name,sku,attribute_set,type,weight,model_0,working_width_inches,manufacture_part_number,item_type,main_category,alternate_category,manufacturer_name,equipment_type,power_type,portable_or_stationary,heating_type,diameter_inches,gpm,psi,water_flow_rate_gpm,max_temperature,ship_weight_lbs,maximum_rpm,pump,electrical,cc,amps,start,phase,load_capacity_lbs,engine,hp,pump_rpm,water_tank_gallons,voltage,axle,equipment_video_url,btu,burner,item_customizable,wty_type1,wty_type2,wty_type3,wty_type4,wty_type5,wty_type6,wty_type7,wty_type8,wty_type9,wty_type10,wty_type11,discount_1,discount_2,discount_3,discount_4,product_brochure_url,accessory_one_customize_item,accessory_two_customize_item,accessory_three_customize_item,accessory_four_customize_item,accessory_five_customize_item,accessory_six_customize_item,accessory_seven_customize_item,accessory_eight_customize_item,accessory_nine_customize_item,accessory_ten_customize_item,accessory_elvn_customize_item,accessory_one_item_part,accessory_two_item_part,accessory_three_item_part,accessory_four_item_part,accessory_five_item_part,accessory_six_item_part,accessory_seven_item_part,accessory_eight_item_part,accessory_nine_item_part,accessory_ten_item_part,accessory_elvn_item_part,category_ids,price,short_description,description,qty,status,is_in_stock,visibility,image,small_image,thumbnail,media_gallery
-HD 2.5/27 PB AL,hd_pb_al_27,default,simple,249,HD 2.5/27 PB AL,,1.107-132.0,Equipment,Pressure Washing Equipment,For Your Home,Karcher,Cold Water Pressure Washer,Gas Powered Pressure Washer,Portable Pressure Washers,,49.9 x 27 x 40.6,2.5,2700,,,196,,Kärcher KD,,196,,,,,Honda GX200,,,,,,http://youtu.be/EU4W728B-3o,,,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,http://drive.google.com/uc?export=view&id=0B1jYJotztiSgOGZFWW1aSHN6RlU&authuser=0,"8.929-062.0, 9.802-225.0, 8.723-636.0, 4.767-041.0, 9.302-443.0, 9.302-447.0",,,,,,,,,,,,,,,,,,,,,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD 3.7_35 PB_AL-01.jpg,HD 3.7_35 PB_AL-01.jpg,HD 3.7_35 PB_AL-01.jpg,HD 3.7_35 PB_AL-01.jpg
+name,sku,attribute_set,type,weight,model_0,working_width_inches,manufacture_part_number,item_type,main_category,alternate_category,manufacturer_name,equipment_type,power_type,portable_or_stationary,heating_type,diameter_inches,gpm,psi,water_flow_rate_gpm,max_temperature,ship_weight_lbs,maximum_rpm,pump,electrical,cc,amps,start,phase,load_capacity_lbs,engine,hp,pump_rpm,water_tank_gallons,voltage,axle,equipment_video_url,btu,burner,item_customizable,wty_type1,wty_type2,wty_type3,wty_type4,wty_type5,wty_type6,wty_type7,wty_type8,wty_type9,wty_type10,wty_type11,discount_1,discount_2,discount_3,discount_4,product_brochure_url,accessory_one_customize_item,accessory_two_customize_item,accessory_three_customize_item,accessory_four_customize_item,accessory_five_customize_item,accessory_six_customize_item,accessory_seven_customize_item,accessory_eight_customize_item,accessory_nine_customize_item,accessory_ten_customize_item,accessory_elvn_customize_item,accessory_one_item_part,accessory_two_item_part,accessory_three_item_part,accessory_four_item_part,accessory_five_item_part,accessory_six_item_part,accessory_seven_item_part,accessory_eight_item_part,accessory_nine_item_part,accessory_ten_item_part,accessory_elvn_item_part,category_ids,test,price,short_description,description,qty,status,is_in_stock,visibility,image,small_image,thumbnail,media_gallery
+HD 2.5/27 PB AL,hd_pb_al_27,default,simple,249,HD 2.5/27 PB AL,,1.107-132.0,Equipment,Pressure Washing Equipment,For Your Home,Karcher,Cold Water Pressure Washer,Gas Powered Pressure Washer,Portable Pressure Washers,,49.9 x 27 x 40.6,2.5,2700,,,196,,Kärcher KD,,196,,,,,Honda GX200,,,,,,http://youtu.be/EU4W728B-3o,,,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,http://drive.google.com/uc?export=view&id=0B1jYJotztiSgOGZFWW1aSHN6RlU&authuser=0,"8.929-062.0, 9.802-225.0, 8.723-636.0, 4.767-041.0, 9.302-443.0, 9.302-447.0",,,,,,,,,,,,,,,,,,,,,,"5, 9",HD 2.5/27 PB AL,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD 3.7_35 PB_AL-01.jpg,HD 3.7_35 PB_AL-01.jpg,HD 3.7_35 PB_AL-01.jpg,HD 3.7_35 PB_AL-01.jpg
 A+ SC21,a_sc_21,default,simple,,A+ SC21,,8.753-572.0,Equipment,"Accessories
 ","
 ",Karcher,"Accessory
@@ -25,7 +25,7 @@ A+ SC21,a_sc_21,default,simple,,A+ SC21,,8.753-572.0,Equipment,"Accessories
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"A+-SC21,-A+-SC24-Surface-Cleaner-Brochure-1-Main.jpg","A+-SC21,-A+-SC24-Surface-Cleaner-Brochure-1-Main.jpg","A+-SC21,-A+-SC24-Surface-Cleaner-Brochure-1-Main.jpg","A+-SC21,-A+-SC24-Surface-Cleaner-Brochure-2.jpg;A+-SC21,-A+-SC24-Surface-Cleaner-Brochure-3.jpg"
+",,,"5, 9",A+ SC21,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"A+-SC21,-A+-SC24-Surface-Cleaner-Brochure-1-Main.jpg","A+-SC21,-A+-SC24-Surface-Cleaner-Brochure-1-Main.jpg","A+-SC21,-A+-SC24-Surface-Cleaner-Brochure-1-Main.jpg","A+-SC21,-A+-SC24-Surface-Cleaner-Brochure-2.jpg;A+-SC21,-A+-SC24-Surface-Cleaner-Brochure-3.jpg"
 A+ SC24,a_sc_24,default,simple,,A+ SC24,,8.753-573.0,Equipment,"Accessories
 ","
 ",Karcher,"Accessory
@@ -51,7 +51,7 @@ A+ SC24,a_sc_24,default,simple,,A+ SC24,,8.753-573.0,Equipment,"Accessories
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"A+-SC21,-A+-SC24-Surface-Cleaner-Brochure-1-Main (1).jpg","A+-SC21,-A+-SC24-Surface-Cleaner-Brochure-1-Main (1).jpg","A+-SC21,-A+-SC24-Surface-Cleaner-Brochure-1-Main (1).jpg","A+-SC21,-A+-SC24-Surface-Cleaner-Brochure-2.jpg;A+-SC21,-A+-SC24-Surface-Cleaner-Brochure-3.jpg"
+",,,"5, 9",A+ SC24,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"A+-SC21,-A+-SC24-Surface-Cleaner-Brochure-1-Main (1).jpg","A+-SC21,-A+-SC24-Surface-Cleaner-Brochure-1-Main (1).jpg","A+-SC21,-A+-SC24-Surface-Cleaner-Brochure-1-Main (1).jpg","A+-SC21,-A+-SC24-Surface-Cleaner-Brochure-2.jpg;A+-SC21,-A+-SC24-Surface-Cleaner-Brochure-3.jpg"
 FRV 30,frv_30,default,simple,,FRV 30,,2.642-999.0,Equipment,"Accessories
 ","
 ",Karcher,"Accessory
@@ -75,7 +75,7 @@ FRV 30,frv_30,default,simple,,FRV 30,,2.642-999.0,Equipment,"Accessories
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-5.jpg","FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-5.jpg","FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-5.jpg","FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-5 (1).jpg;FRV Illustration-01.jpg"
+",,,"5, 9",FRV 30,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-5.jpg","FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-5.jpg","FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-5.jpg","FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-5 (1).jpg;FRV Illustration-01.jpg"
 FR 30 ME,fr_30_me,default,simple,,FR 30 ME,,2.640-355.0,Equipment,"Accessories
 ","
 ",Karcher,"Accessory
@@ -99,7 +99,7 @@ FR 30 ME,fr_30_me,default,simple,,FR 30 ME,,2.640-355.0,Equipment,"Accessories
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-4.jpg","FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-4.jpg","FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-4.jpg",
+",,,"5, 9",FR 30 ME,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-4.jpg","FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-4.jpg","FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-4.jpg",
 FRV 30 ME,frv_30_me,default,simple,,FRV 30 ME,,2.642-911.0,Equipment,"Accessories
 ","
 ",Karcher,"Accessory
@@ -123,7 +123,7 @@ FRV 30 ME,frv_30_me,default,simple,,FRV 30 ME,,2.642-911.0,Equipment,"Accessorie
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-6.jpg","FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-6.jpg","FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-6.jpg",FRV 30 ME Wall-01.jpg
+",,,"5, 9",FRV 30 ME,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-6.jpg","FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-6.jpg","FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-6.jpg",FRV 30 ME Wall-01.jpg
 FR 50,fr_50,default,simple,,FR 50,,2.640-679.0,Equipment,"Accessories
 ","
 ",Karcher,"Accessory
@@ -148,7 +148,7 @@ FR 50,fr_50,default,simple,,FR 50,,2.640-679.0,Equipment,"Accessories
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-7.jpg","FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-7.jpg","FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-7.jpg",
+",,,"5, 9",FR 50,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-7.jpg","FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-7.jpg","FRV-30,-FR-30-ME,-FRV-30-ME,-FR-50-Brochure-7.jpg",
 HD 1.8/13 C Ed,hd_13_c_ed,default,simple,,HD 1.8/13 C Ed,,1.514-136.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -174,7 +174,7 @@ HD 1.8/13 C Ed,hd_13_c_ed,default,simple,,HD 1.8/13 C Ed,,1.514-136.0,Equipment,
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,15141360_std_2-58686-CMYK-01.jpg,15141360_std_2-58686-CMYK-01.jpg,15141360_std_2-58686-CMYK-01.jpg,
+",,,"5, 9",HD 1.8/13 C Ed,1158,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,15141360_std_2-58686-CMYK-01.jpg,15141360_std_2-58686-CMYK-01.jpg,15141360_std_2-58686-CMYK-01.jpg,
 HD 2.3/15 C Ed,hd_c_ed_15,default,simple,,HD 2.3/15 C Ed,,1.150-626.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -200,7 +200,7 @@ HD 2.3/15 C Ed,hd_c_ed_15,default,simple,,HD 2.3/15 C Ed,,1.150-626.0,Equipment,
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,11506260_std_1-58042-CMYK-01.jpg,11506260_std_1-58042-CMYK-01.jpg,11506260_std_1-58042-CMYK-01.jpg,
+",,,"5, 9",HD 2.3/15 C Ed,1566,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,11506260_std_1-58042-CMYK-01.jpg,11506260_std_1-58042-CMYK-01.jpg,11506260_std_1-58042-CMYK-01.jpg,
 HD 2.3/14 C Ed Food,hd_c_ed_food_14,default,simple,,HD 2.3/14 C Ed Food,,1.150-614.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -226,7 +226,7 @@ HD 2.3/14 C Ed Food,hd_c_ed_food_14,default,simple,,HD 2.3/14 C Ed Food,,1.150-6
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Classic HD Food Svc-01.jpg,Classic HD Food Svc-01.jpg,Classic HD Food Svc-01.jpg,
+",,,"5, 9",HD 2.3/14 C Ed Food,2152,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Classic HD Food Svc-01.jpg,Classic HD Food Svc-01.jpg,Classic HD Food Svc-01.jpg,
 HD 3.0/20 C Ea,hd_c_ea_20,default,simple,,HD 3.0/20 C Ea,,1.150-625.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -252,7 +252,7 @@ HD 3.0/20 C Ea,hd_c_ea_20,default,simple,,HD 3.0/20 C Ea,,1.150-625.0,Equipment,
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,11506250_dd_1-60439-CMYK-01.jpg,11506250_dd_1-60439-CMYK-01.jpg,11506250_dd_1-60439-CMYK-01.jpg,
+",,,"5, 9",HD 3.0/20 C Ea,1632,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,11506250_dd_1-60439-CMYK-01.jpg,11506250_dd_1-60439-CMYK-01.jpg,11506250_dd_1-60439-CMYK-01.jpg,
 HD 2.0/10 Ed,hd_ed_10_2,default,simple,,HD 2.0/10 Ed,,1.575-250.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -277,7 +277,7 @@ HD 2.0/10 Ed,hd_ed_10_2,default,simple,,HD 2.0/10 Ed,,1.575-250.0,Equipment,"Pre
 ","
 ","
 ","
-",,,"5, 9",959,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD28-10Ed-M-0409-sm-01.jpg,HD28-10Ed-M-0409-sm-01.jpg,HD28-10Ed-M-0409-sm-01.jpg,
+",,,"5, 9",HD 2.0/10 Ed,1579,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD28-10Ed-M-0409-sm-01.jpg,HD28-10Ed-M-0409-sm-01.jpg,HD28-10Ed-M-0409-sm-01.jpg,
 HD 1.9/15 Ed,hd_ed_15,default,simple,,HD 1.9/15 Ed,,1.575-251.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -302,7 +302,7 @@ HD 1.9/15 Ed,hd_ed_15,default,simple,,HD 1.9/15 Ed,,1.575-251.0,Equipment,"Press
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD28-10Ed-M-0409-sm-01 (1).jpg,HD28-10Ed-M-0409-sm-01 (1).jpg,HD28-10Ed-M-0409-sm-01 (1).jpg,
+",,,"5, 9",HD 1.9/15 Ed,1669,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD28-10Ed-M-0409-sm-01 (1).jpg,HD28-10Ed-M-0409-sm-01 (1).jpg,HD28-10Ed-M-0409-sm-01 (1).jpg,
 HD 2.8/10 Ed,hd_ed_10,default,simple,,HD 2.8/10 Ed,,1.575-252.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -327,7 +327,7 @@ HD 2.8/10 Ed,hd_ed_10,default,simple,,HD 2.8/10 Ed,,1.575-252.0,Equipment,"Press
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD28-10Ed-M-0409-sm-01 (2).jpg,HD28-10Ed-M-0409-sm-01 (2).jpg,HD28-10Ed-M-0409-sm-01 (2).jpg,
+",,,"5, 9",HD 2.8/10 Ed,1659,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD28-10Ed-M-0409-sm-01 (2).jpg,HD28-10Ed-M-0409-sm-01 (2).jpg,HD28-10Ed-M-0409-sm-01 (2).jpg,
 HD 3.5/20 Ea,hd_ea_20,default,simple,,HD 3.5/20 Ea,,1.575-253.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -353,7 +353,7 @@ HD 3.5/20 Ea,hd_ea_20,default,simple,,HD 3.5/20 Ea,,1.575-253.0,Equipment,"Press
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD28-10Ed-M-0409-sm-01 (3).jpg,HD28-10Ed-M-0409-sm-01 (3).jpg,HD28-10Ed-M-0409-sm-01 (3).jpg,
+",,,"5, 9",HD 3.5/20 Ea,2039,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD28-10Ed-M-0409-sm-01 (3).jpg,HD28-10Ed-M-0409-sm-01 (3).jpg,HD28-10Ed-M-0409-sm-01 (3).jpg,
 HD 2.0/14 Ed +,hd_ed_14,default,simple,,HD 2.0/14 Ed +,,1.107-088.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -379,7 +379,7 @@ HD 2.0/14 Ed +,hd_ed_14,default,simple,,HD 2.0/14 Ed +,,1.107-088.0,Equipment,"P
 ","
 ","
 ","
-",,,"5, 9",1759,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-2--Main.jpg,HD-2--Main.jpg,HD-2--Main.jpg,HD-2-2.jpg
+",,,"5, 9",HD 2.0/14 Ed +,1759,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-2--Main.jpg,HD-2--Main.jpg,HD-2--Main.jpg,HD-2-2.jpg
 HD 2.3/14 C Ed Food,hd_c_ed_food,default,simple,,HD 2.3/14 C Ed Food,,1.150-629.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -406,7 +406,7 @@ HD 2.3/14 C Ed Food,hd_c_ed_food,default,simple,,HD 2.3/14 C Ed Food,,1.150-629.
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1150629_HD23-14C_Ed_Food-01.jpg,1150629_HD23-14C_Ed_Food-01.jpg,1150629_HD23-14C_Ed_Food-01.jpg,
+",,,"5, 9",HD 2.3/14 C Ed Food,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1150629_HD23-14C_Ed_Food-01.jpg,1150629_HD23-14C_Ed_Food-01.jpg,1150629_HD23-14C_Ed_Food-01.jpg,
 HD 2.3/23 PS KAR,hd_ps_kar_23,default,simple,,HD 2.3/23 PS KAR,,1.107-104.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -433,7 +433,7 @@ HD 2.3/23 PS KAR,hd_ps_kar_23,default,simple,,HD 2.3/23 PS KAR,,1.107-104.0,Equi
 ","
 ","
 ","
-",,,"5, 9",799,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Xpert-HD2.3-23P-01.jpg,Xpert-HD2.3-23P-01.jpg,Xpert-HD2.3-23P-01.jpg,
+",,,"5, 9",HD 2.3/23 PS KAR,710,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Xpert-HD2.3-23P-01.jpg,Xpert-HD2.3-23P-01.jpg,Xpert-HD2.3-23P-01.jpg,
 HD 2.3/23 P COM,hd_p_com_23,default,simple,,HD 2.3/23 P COM,,1.107-103.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -460,7 +460,7 @@ HD 2.3/23 P COM,hd_p_com_23,default,simple,,HD 2.3/23 P COM,,1.107-103.0,Equipme
 ","
 ","
 ","
-",,,"5, 9",799,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Xpert-HD2.5-27P-01.jpg,Xpert-HD2.5-27P-01.jpg,Xpert-HD2.5-27P-01.jpg,
+",,,"5, 9",HD 2.3/23 P COM,798,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Xpert-HD2.5-27P-01.jpg,Xpert-HD2.5-27P-01.jpg,Xpert-HD2.5-27P-01.jpg,
 HD 2.5/27 P,hd_p_27_25_1,default,simple,,HD 2.5/27 P,,1.107-106.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -486,7 +486,7 @@ HD 2.5/27 P,hd_p_27_25_1,default,simple,,HD 2.5/27 P,,1.107-106.0,Equipment,"Pre
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Xpert-HD2.5-27P-01 (1).jpg,Xpert-HD2.5-27P-01 (1).jpg,Xpert-HD2.5-27P-01 (1).jpg,
+",,,"5, 9",HD 2.5/27 P,1259,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Xpert-HD2.5-27P-01 (1).jpg,Xpert-HD2.5-27P-01 (1).jpg,Xpert-HD2.5-27P-01 (1).jpg,
 HD 3.8/35 P,hd_p_35_38_1,default,simple,,HD 3.8/35 P,,1.107-108.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -512,7 +512,7 @@ HD 3.8/35 P,hd_p_35_38_1,default,simple,,HD 3.8/35 P,,1.107-108.0,Equipment,"Pre
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Xpert-HD3.8-35P-01.jpg,Xpert-HD3.8-35P-01.jpg,Xpert-HD3.8-35P-01.jpg,
+",,,"5, 9",HD 3.8/35 P,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Xpert-HD3.8-35P-01.jpg,Xpert-HD3.8-35P-01.jpg,Xpert-HD3.8-35P-01.jpg,
 HD 3.5/40 P,hd_p_40_35,default,simple,,HD 3.5/40 P,,1.107-219.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -538,7 +538,7 @@ HD 3.5/40 P,hd_p_40_35,default,simple,,HD 3.5/40 P,,1.107-219.0,Equipment,"Press
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Xpert-HD3.8-35P-01 (1).jpg,Xpert-HD3.8-35P-01 (1).jpg,Xpert-HD3.8-35P-01 (1).jpg,
+",,,"5, 9",HD 3.5/40 P,2329,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Xpert-HD3.8-35P-01 (1).jpg,Xpert-HD3.8-35P-01 (1).jpg,Xpert-HD3.8-35P-01 (1).jpg,
 HD 2.3/24 P,hd_p_24_23,default,simple,,HD 2.3/24 P,,1.575-100.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -563,7 +563,7 @@ HD 2.3/24 P,hd_p_24_23,default,simple,,HD 2.3/24 P,,1.575-100.0,Equipment,"Press
 ","
 ","
 ","
-",,,"5, 9",1299,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Liberty HD Gas Direct-01.jpg,Liberty HD Gas Direct-01.jpg,Liberty HD Gas Direct-01.jpg,
+",,,"5, 9",HD 2.3/24 P,1579,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Liberty HD Gas Direct-01.jpg,Liberty HD Gas Direct-01.jpg,Liberty HD Gas Direct-01.jpg,
 HD 2.5/27 P,hd_p_27_25,default,simple,,HD 2.5/27 P,,1.575-101.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -588,7 +588,7 @@ HD 2.5/27 P,hd_p_27_25,default,simple,,HD 2.5/27 P,,1.575-101.0,Equipment,"Press
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Liberty HD Gas Direct-01 (1).jpg,Liberty HD Gas Direct-01 (1).jpg,Liberty HD Gas Direct-01 (1).jpg,
+",,,"5, 9",HD 2.5/27 P,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Liberty HD Gas Direct-01 (1).jpg,Liberty HD Gas Direct-01 (1).jpg,Liberty HD Gas Direct-01 (1).jpg,
 HD 3.0/30 P,hd_p_30_3,default,simple,,HD 3.0/30 P,,1.575-102.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -613,7 +613,7 @@ HD 3.0/30 P,hd_p_30_3,default,simple,,HD 3.0/30 P,,1.575-102.0,Equipment,"Pressu
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Liberty HD Gas Direct-01 (2).jpg,Liberty HD Gas Direct-01 (2).jpg,Liberty HD Gas Direct-01 (2).jpg,
+",,,"5, 9",HD 3.0/30 P,1979,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Liberty HD Gas Direct-01 (2).jpg,Liberty HD Gas Direct-01 (2).jpg,Liberty HD Gas Direct-01 (2).jpg,
 HD 3.8/35 P,hd_p_35_38,default,simple,,HD 3.8/35 P,,1.575-104.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -638,7 +638,7 @@ HD 3.8/35 P,hd_p_35_38,default,simple,,HD 3.8/35 P,,1.575-104.0,Equipment,"Press
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Liberty HD Gas Direct-01 (3).jpg,Liberty HD Gas Direct-01 (3).jpg,Liberty HD Gas Direct-01 (3).jpg,
+",,,"5, 9",HD 3.8/35 P,2329,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Liberty HD Gas Direct-01 (3).jpg,Liberty HD Gas Direct-01 (3).jpg,Liberty HD Gas Direct-01 (3).jpg,
 HD 3.5/40 P,hd_p_40,default,simple,,HD 3.5/40 P,,1.107-223.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -663,7 +663,7 @@ HD 3.5/40 P,hd_p_40,default,simple,,HD 3.5/40 P,,1.107-223.0,Equipment,"Pressure
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Liberty HD Gas Direct-01 (4).jpg,Liberty HD Gas Direct-01 (4).jpg,Liberty HD Gas Direct-01 (4).jpg,
+",,,"5, 9",HD 3.5/40 P,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Liberty HD Gas Direct-01 (4).jpg,Liberty HD Gas Direct-01 (4).jpg,Liberty HD Gas Direct-01 (4).jpg,
 HD 2.3/26 CV,hd_cv_26,default,simple,,HD 2.3/26 CV,,1.107-077.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -689,7 +689,7 @@ HD 2.3/26 CV,hd_cv_26,default,simple,,HD 2.3/26 CV,,1.107-077.0,Equipment,"Press
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,karcher_HD3.640CH_hires-01.jpg,karcher_HD3.640CH_hires-01.jpg,karcher_HD3.640CH_hires-01.jpg,
+",,,"5, 9",HD 2.3/26 CV,700,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,karcher_HD3.640CH_hires-01.jpg,karcher_HD3.640CH_hires-01.jpg,karcher_HD3.640CH_hires-01.jpg,
 HD 2.5/30 CH,hd_ch_30,default,simple,,HD 2.5/30 CH,,1.107-078.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -715,7 +715,7 @@ HD 2.5/30 CH,hd_ch_30,default,simple,,HD 2.5/30 CH,,1.107-078.0,Equipment,"Press
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,karcher_HD3.640CH_hires-01 (1).jpg,karcher_HD3.640CH_hires-01 (1).jpg,karcher_HD3.640CH_hires-01 (1).jpg,
+",,,"5, 9",HD 2.5/30 CH,803,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,karcher_HD3.640CH_hires-01 (1).jpg,karcher_HD3.640CH_hires-01 (1).jpg,karcher_HD3.640CH_hires-01 (1).jpg,
 HD 3.6/40 CH,hd_ch_40,default,simple,,HD 3.6/40 CH,,1.107-079.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -741,7 +741,7 @@ HD 3.6/40 CH,hd_ch_40,default,simple,,HD 3.6/40 CH,,1.107-079.0,Equipment,"Press
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,karcher_HD3.640CH_hires-01 (2).jpg,karcher_HD3.640CH_hires-01 (2).jpg,karcher_HD3.640CH_hires-01 (2).jpg,
+",,,"5, 9",HD 3.6/40 CH,1917,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,karcher_HD3.640CH_hires-01 (2).jpg,karcher_HD3.640CH_hires-01 (2).jpg,karcher_HD3.640CH_hires-01 (2).jpg,
 HD 2.5/24 P,hd_p_24,default,simple,,HD 2.5/24 P,,1.575-105.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -766,7 +766,7 @@ HD 2.5/24 P,hd_p_24,default,simple,,HD 2.5/24 P,,1.575-105.0,Equipment,"Pressure
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-105.0_Classic HD Gas Direct-0504-01.jpg,1.575-105.0_Classic HD Gas Direct-0504-01.jpg,1.575-105.0_Classic HD Gas Direct-0504-01.jpg,
+",,,"5, 9",HD 2.5/24 P,901,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-105.0_Classic HD Gas Direct-0504-01.jpg,1.575-105.0_Classic HD Gas Direct-0504-01.jpg,1.575-105.0_Classic HD Gas Direct-0504-01.jpg,
 HD 2.6/26 P,hd_p_26,default,simple,,HD 2.6/26 P,,1.575-106.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -791,7 +791,7 @@ HD 2.6/26 P,hd_p_26,default,simple,,HD 2.6/26 P,,1.575-106.0,Equipment,"Pressure
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-105.0_Classic HD Gas Direct-0504-01 (1).jpg,1.575-105.0_Classic HD Gas Direct-0504-01 (1).jpg,1.575-105.0_Classic HD Gas Direct-0504-01 (1).jpg,
+",,,"5, 9",HD 2.6/26 P,962,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-105.0_Classic HD Gas Direct-0504-01 (1).jpg,1.575-105.0_Classic HD Gas Direct-0504-01 (1).jpg,1.575-105.0_Classic HD Gas Direct-0504-01 (1).jpg,
 HD 3.1/31 P,hd_p_31,default,simple,,HD 3.1/31 P,,1.575-107.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -816,7 +816,7 @@ HD 3.1/31 P,hd_p_31,default,simple,,HD 3.1/31 P,,1.575-107.0,Equipment,"Pressure
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-105.0_Classic HD Gas Direct-0504-01 (2).jpg,1.575-105.0_Classic HD Gas Direct-0504-01 (2).jpg,1.575-105.0_Classic HD Gas Direct-0504-01 (2).jpg,
+",,,"5, 9",HD 3.1/31 P,1849,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-105.0_Classic HD Gas Direct-0504-01 (2).jpg,1.575-105.0_Classic HD Gas Direct-0504-01 (2).jpg,1.575-105.0_Classic HD Gas Direct-0504-01 (2).jpg,
 HD 4.0/36 P,hd_p_36,default,simple,,HD 4.0/36 P,,1.575-108.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -841,7 +841,7 @@ HD 4.0/36 P,hd_p_36,default,simple,,HD 4.0/36 P,,1.575-108.0,Equipment,"Pressure
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-105.0_Classic HD Gas Direct-0504-01 (3).jpg,1.575-105.0_Classic HD Gas Direct-0504-01 (3).jpg,1.575-105.0_Classic HD Gas Direct-0504-01 (3).jpg,
+",,,"5, 9",HD 4.0/36 P,2158,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-105.0_Classic HD Gas Direct-0504-01 (3).jpg,1.575-105.0_Classic HD Gas Direct-0504-01 (3).jpg,1.575-105.0_Classic HD Gas Direct-0504-01 (3).jpg,
 HD 2.5/27 P AL,hd_p_27,default,simple,,HD 2.5/27 P AL,,1.107-129.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -866,7 +866,7 @@ HD 2.5/27 P AL,hd_p_27,default,simple,,HD 2.5/27 P AL,,1.107-129.0,Equipment,"Pr
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD3.8-35P-01.jpg,HD3.8-35P-01.jpg,HD3.8-35P-01.jpg,
+",,,"5, 9",HD 2.5/27 P AL,1729,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD3.8-35P-01.jpg,HD3.8-35P-01.jpg,HD3.8-35P-01.jpg,
 HD 3.0/30 P AL,hd_p_30,default,simple,,HD 3.0/30 P AL,,1.107-130.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -891,7 +891,7 @@ HD 3.0/30 P AL,hd_p_30,default,simple,,HD 3.0/30 P AL,,1.107-130.0,Equipment,"Pr
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD3.8-35P-01 (1).jpg,HD3.8-35P-01 (1).jpg,HD3.8-35P-01 (1).jpg,
+",,,"5, 9",HD 3.0/30 P AL,2199,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD3.8-35P-01 (1).jpg,HD3.8-35P-01 (1).jpg,HD3.8-35P-01 (1).jpg,
 HD 3.8/35 P AL,hd_p_35,default,simple,,HD 3.8/35 P AL,,1.107-131.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -916,7 +916,7 @@ HD 3.8/35 P AL,hd_p_35,default,simple,,HD 3.8/35 P AL,,1.107-131.0,Equipment,"Pr
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD3.8-35P-01 (2).jpg,HD3.8-35P-01 (2).jpg,HD3.8-35P-01 (2).jpg,
+",,,"5, 9",HD 3.8/35 P AL,2429,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD3.8-35P-01 (2).jpg,HD3.8-35P-01 (2).jpg,HD3.8-35P-01 (2).jpg,
 HD 3.5/40 P AL,hd_p_al_40,default,simple,,HD 3.5/40 P AL,,1.107-227.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -941,7 +941,7 @@ HD 3.5/40 P AL,hd_p_al_40,default,simple,,HD 3.5/40 P AL,,1.107-227.0,Equipment,
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD3.8-35P-01 (3).jpg,HD3.8-35P-01 (3).jpg,HD3.8-35P-01 (3).jpg,
+",,,"5, 9",HD 3.5/40 P AL,1829,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD3.8-35P-01 (3).jpg,HD3.8-35P-01 (3).jpg,HD3.8-35P-01 (3).jpg,
 HD 2.5/27 PB AL,hd_p_al_27,default,simple,,HD 2.5/27 PB AL,,1.107-132.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -966,7 +966,7 @@ HD 2.5/27 PB AL,hd_p_al_27,default,simple,,HD 2.5/27 PB AL,,1.107-132.0,Equipmen
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD 3.7_35 PB_AL-01.jpg,HD 3.7_35 PB_AL-01.jpg,HD 3.7_35 PB_AL-01.jpg,
+",,,"5, 9",HD 2.5/27 PB AL,2321,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD 3.7_35 PB_AL-01.jpg,HD 3.7_35 PB_AL-01.jpg,HD 3.7_35 PB_AL-01.jpg,
 HD 3.7/35 PB AL,hd_p_al_35,default,simple,,HD 3.7/35 PB AL,,1.107-133.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -992,7 +992,7 @@ HD 3.7/35 PB AL,hd_p_al_35,default,simple,,HD 3.7/35 PB AL,,1.107-133.0,Equipmen
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD 3.7_35 PB_AL-01 (1).jpg,HD 3.7_35 PB_AL-01 (1).jpg,HD 3.7_35 PB_AL-01 (1).jpg,
+",,,"5, 9",HD 3.7/35 PB AL,2865,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD 3.7_35 PB_AL-01 (1).jpg,HD 3.7_35 PB_AL-01 (1).jpg,HD 3.7_35 PB_AL-01 (1).jpg,
 HD 2.5/27 P ST,hd_p_st_27,default,simple,,HD 2.5/27 P ST,,1.107-215.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -1018,7 +1018,7 @@ HD 2.5/27 P ST,hd_p_st_27,default,simple,,HD 2.5/27 P ST,,1.107-215.0,Equipment,
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"HD-2.5-27-P-ST,-HD-2-1.jpg","HD-2.5-27-P-ST,-HD-2-1.jpg","HD-2.5-27-P-ST,-HD-2-1.jpg",
+",,,"5, 9",HD 2.5/27 P ST,1799,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"HD-2.5-27-P-ST,-HD-2-1.jpg","HD-2.5-27-P-ST,-HD-2-1.jpg","HD-2.5-27-P-ST,-HD-2-1.jpg",
 HD 2.5/27 P ST Plus (includes 65 gallon tank),hd_p_st_plus_27,default,simple,,HD 2.5/27 P ST Plus (includes 65 gallon tank),,1.107-216.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -1044,7 +1044,7 @@ HD 2.5/27 P ST Plus (includes 65 gallon tank),hd_p_st_plus_27,default,simple,,HD
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"HD-2.5-27-P-ST,-HD-2-1 (1).jpg","HD-2.5-27-P-ST,-HD-2-1 (1).jpg","HD-2.5-27-P-ST,-HD-2-1 (1).jpg","HD-2.5-27-P-ST,-HD-2-2.jpg"
+",,,"5, 9",HD 2.5/27 P ST Plus (includes 65 gallon tank),6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"HD-2.5-27-P-ST,-HD-2-1 (1).jpg","HD-2.5-27-P-ST,-HD-2-1 (1).jpg","HD-2.5-27-P-ST,-HD-2-1 (1).jpg","HD-2.5-27-P-ST,-HD-2-2.jpg"
 HD 2.8/10 ST Ed B,hd_st_ed_b_10,default,simple,,HD 2.8/10 ST Ed B,,1.575-300.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Cold Water Pressure Washer
@@ -1069,7 +1069,7 @@ HD 2.8/10 ST Ed B,hd_st_ed_b_10,default,simple,,HD 2.8/10 ST Ed B,,1.575-300.0,E
 ","
 ","
 ","
-",,,"5, 9",2599,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-STEaB-M-0409-sm-01.jpg,HD-STEaB-M-0409-sm-01.jpg,HD-STEaB-M-0409-sm-01.jpg,HD-STEaB-wheel-M-0409-sm-01.jpg;HD-STEaB-cart-M-0409-sm-01.jpg
+",,,"5, 9",HD 2.8/10 ST Ed B,2599,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-STEaB-M-0409-sm-01.jpg,HD-STEaB-M-0409-sm-01.jpg,HD-STEaB-M-0409-sm-01.jpg,HD-STEaB-wheel-M-0409-sm-01.jpg;HD-STEaB-cart-M-0409-sm-01.jpg
 HD 4.2/20 ST Ea B,hd_st_ea_b_20,default,simple,,HD 4.2/20 ST Ea B,,1.575-301.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Cold Water Pressure Washer
@@ -1094,7 +1094,7 @@ HD 4.2/20 ST Ea B,hd_st_ea_b_20,default,simple,,HD 4.2/20 ST Ea B,,1.575-301.0,E
 ","
 ","
 ","
-",,,"5, 9",3449,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-STEaB-M-0409-sm-01 (1).jpg,HD-STEaB-M-0409-sm-01 (1).jpg,HD-STEaB-M-0409-sm-01 (1).jpg,HD-STEaB-wheel-M-0409-sm-01.jpg;HD-STEaB-cart-M-0409-sm-01.jpg
+",,,"5, 9",HD 4.2/20 ST Ea B,3449,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-STEaB-M-0409-sm-01 (1).jpg,HD-STEaB-M-0409-sm-01 (1).jpg,HD-STEaB-M-0409-sm-01 (1).jpg,HD-STEaB-wheel-M-0409-sm-01.jpg;HD-STEaB-cart-M-0409-sm-01.jpg
 HD 4.2/20 ST Eb B,hd_st_eb_b_20,default,simple,,HD 4.2/20 ST Eb B,,1.575-302.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Cold Water Pressure Washer
@@ -1119,7 +1119,7 @@ HD 4.2/20 ST Eb B,hd_st_eb_b_20,default,simple,,HD 4.2/20 ST Eb B,,1.575-302.0,E
 ","
 ","
 ","
-",,,"5, 9",3149,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-STEaB-M-0409-sm-01 (2).jpg,HD-STEaB-M-0409-sm-01 (2).jpg,HD-STEaB-M-0409-sm-01 (2).jpg,HD-STEaB-wheel-M-0409-sm-01.jpg;HD-STEaB-cart-M-0409-sm-01.jpg
+",,,"5, 9",HD 4.2/20 ST Eb B,3149,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-STEaB-M-0409-sm-01 (2).jpg,HD-STEaB-M-0409-sm-01 (2).jpg,HD-STEaB-M-0409-sm-01 (2).jpg,HD-STEaB-wheel-M-0409-sm-01.jpg;HD-STEaB-cart-M-0409-sm-01.jpg
 HD 4.2/20 ST Ec B,hd_st_ec_b_20,default,simple,,HD 4.2/20 ST Ec B,,1.575-303.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Cold Water Pressure Washer
@@ -1144,7 +1144,7 @@ HD 4.2/20 ST Ec B,hd_st_ec_b_20,default,simple,,HD 4.2/20 ST Ec B,,1.575-303.0,E
 ","
 ","
 ","
-",,,"5, 9",3149,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-STEaB-M-0409-sm-01 (3).jpg,HD-STEaB-M-0409-sm-01 (3).jpg,HD-STEaB-M-0409-sm-01 (3).jpg,HD-STEaB-wheel-M-0409-sm-01.jpg;HD-STEaB-cart-M-0409-sm-01.jpg
+",,,"5, 9",HD 4.2/20 ST Ec B,3149,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-STEaB-M-0409-sm-01 (3).jpg,HD-STEaB-M-0409-sm-01 (3).jpg,HD-STEaB-M-0409-sm-01 (3).jpg,HD-STEaB-wheel-M-0409-sm-01.jpg;HD-STEaB-cart-M-0409-sm-01.jpg
 HD 3.5/30 ST Ea B,hd_st_ea_b_30,default,simple,,HD 3.5/30 ST Ea B,,1.575-306.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Cold Water Pressure Washer
@@ -1169,7 +1169,7 @@ HD 3.5/30 ST Ea B,hd_st_ea_b_30,default,simple,,HD 3.5/30 ST Ea B,,1.575-306.0,E
 ","
 ","
 ","
-",,,"5, 9",4599,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-STEaB-M-0409-sm-01 (4).jpg,HD-STEaB-M-0409-sm-01 (4).jpg,HD-STEaB-M-0409-sm-01 (4).jpg,HD-STEaB-wheel-M-0409-sm-01.jpg;HD-STEaB-cart-M-0409-sm-01.jpg
+",,,"5, 9",HD 3.5/30 ST Ea B,4599,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-STEaB-M-0409-sm-01 (4).jpg,HD-STEaB-M-0409-sm-01 (4).jpg,HD-STEaB-M-0409-sm-01 (4).jpg,HD-STEaB-wheel-M-0409-sm-01.jpg;HD-STEaB-cart-M-0409-sm-01.jpg
 HD 3.5/30 ST Eb B,hd_st_eb_b_30,default,simple,,HD 3.5/30 ST Eb B,,1.575-307.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Cold Water Pressure Washer
@@ -1194,7 +1194,7 @@ HD 3.5/30 ST Eb B,hd_st_eb_b_30,default,simple,,HD 3.5/30 ST Eb B,,1.575-307.0,E
 ","
 ","
 ","
-",,,"5, 9",3569,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-STEaB-M-0409-sm-01 (5).jpg,HD-STEaB-M-0409-sm-01 (5).jpg,HD-STEaB-M-0409-sm-01 (5).jpg,HD-STEaB-wheel-M-0409-sm-01.jpg;HD-STEaB-cart-M-0409-sm-01.jpg
+",,,"5, 9",HD 3.5/30 ST Eb B,3569,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-STEaB-M-0409-sm-01 (5).jpg,HD-STEaB-M-0409-sm-01 (5).jpg,HD-STEaB-M-0409-sm-01 (5).jpg,HD-STEaB-wheel-M-0409-sm-01.jpg;HD-STEaB-cart-M-0409-sm-01.jpg
 HD 3.5/30 ST Ec B,hd_st_ec_b_30,default,simple,,HD 3.5/30 ST Ec B,,1.575-308.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Cold Water Pressure Washer
@@ -1219,7 +1219,7 @@ HD 3.5/30 ST Ec B,hd_st_ec_b_30,default,simple,,HD 3.5/30 ST Ec B,,1.575-308.0,E
 ","
 ","
 ","
-",,,"5, 9",3569,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-STEaB-M-0409-sm-01 (6).jpg,HD-STEaB-M-0409-sm-01 (6).jpg,HD-STEaB-M-0409-sm-01 (6).jpg,HD-STEaB-wheel-M-0409-sm-01.jpg;HD-STEaB-cart-M-0409-sm-01.jpg
+",,,"5, 9",HD 3.5/30 ST Ec B,3569,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-STEaB-M-0409-sm-01 (6).jpg,HD-STEaB-M-0409-sm-01 (6).jpg,HD-STEaB-M-0409-sm-01 (6).jpg,HD-STEaB-wheel-M-0409-sm-01.jpg;HD-STEaB-cart-M-0409-sm-01.jpg
 HD 3.5/30 ST Eg B,hd_st_eg_b_30,default,simple,,HD 3.5/30 ST Eg B,,1.575-309.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Cold Water Pressure Washer
@@ -1244,7 +1244,7 @@ HD 3.5/30 ST Eg B,hd_st_eg_b_30,default,simple,,HD 3.5/30 ST Eg B,,1.575-309.0,E
 ","
 ","
 ","
-",,,"5, 9",4929,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-STEaB-M-0409-sm-01 (7).jpg,HD-STEaB-M-0409-sm-01 (7).jpg,HD-STEaB-M-0409-sm-01 (7).jpg,HD-STEaB-wheel-M-0409-sm-01.jpg;HD-STEaB-cart-M-0409-sm-01.jpg
+",,,"5, 9",HD 3.5/30 ST Eg B,4929,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-STEaB-M-0409-sm-01 (7).jpg,HD-STEaB-M-0409-sm-01 (7).jpg,HD-STEaB-M-0409-sm-01 (7).jpg,HD-STEaB-wheel-M-0409-sm-01.jpg;HD-STEaB-cart-M-0409-sm-01.jpg
 HD 3.5/30 ST Eh B,hd_st_eh_b_30,default,simple,,HD 3.5/30 ST Eh B,,1.575-310.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Cold Water Pressure Washer
@@ -1269,7 +1269,7 @@ HD 3.5/30 ST Eh B,hd_st_eh_b_30,default,simple,,HD 3.5/30 ST Eh B,,1.575-310.0,E
 ","
 ","
 ","
-",,,"5, 9",3669,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-STEaB-M-0409-sm-01 (8).jpg,HD-STEaB-M-0409-sm-01 (8).jpg,HD-STEaB-M-0409-sm-01 (8).jpg,HD-STEaB-wheel-M-0409-sm-01.jpg;HD-STEaB-cart-M-0409-sm-01.jpg
+",,,"5, 9",HD 3.5/30 ST Eh B,3669,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-STEaB-M-0409-sm-01 (8).jpg,HD-STEaB-M-0409-sm-01 (8).jpg,HD-STEaB-M-0409-sm-01 (8).jpg,HD-STEaB-wheel-M-0409-sm-01.jpg;HD-STEaB-cart-M-0409-sm-01.jpg
 HD 3.0/20-4M Ea,hd_4m_ea,default,simple,,HD 3.0/20-4M Ea,,1.524-126.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Cold Water Pressure Washer
@@ -1295,7 +1295,7 @@ HD 3.0/20-4M Ea,hd_4m_ea,default,simple,,HD 3.0/20-4M Ea,,1.524-126.0,Equipment,
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-STEaB-M-0409-sm-01 (9).jpg,HD-STEaB-M-0409-sm-01 (9).jpg,HD-STEaB-M-0409-sm-01 (9).jpg,HD-STEaB-wheel-M-0409-sm-01.jpg;HD-STEaB-cart-M-0409-sm-01.jpg
+",,,"5, 9",HD 3.0/20-4M Ea,2326,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD-STEaB-M-0409-sm-01 (9).jpg,HD-STEaB-M-0409-sm-01 (9).jpg,HD-STEaB-M-0409-sm-01 (9).jpg,HD-STEaB-wheel-M-0409-sm-01.jpg;HD-STEaB-cart-M-0409-sm-01.jpg
 HD 3.0/30 PB,hd_pb_30,default,simple,,HD 3.0/30 PB,,1.575-152.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -1321,7 +1321,7 @@ HD 3.0/30 PB,hd_pb_30,default,simple,,HD 3.0/30 PB,,1.575-152.0,Equipment,"Press
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,15241260_std_1-58678-CMYK-01.jpg,15241260_std_1-58678-CMYK-01.jpg,15241260_std_1-58678-CMYK-01.jpg,1.524-126.0 2-01.jpg;1.524-126.0 3-01.jpg
+",,,"5, 9",HD 3.0/30 PB,2799,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,15241260_std_1-58678-CMYK-01.jpg,15241260_std_1-58678-CMYK-01.jpg,15241260_std_1-58678-CMYK-01.jpg,1.524-126.0 2-01.jpg;1.524-126.0 3-01.jpg
 HD 3.7/35 PB,hd_pb_35,default,simple,,HD 3.7/35 PB,,1.575-154.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -1347,7 +1347,7 @@ HD 3.7/35 PB,hd_pb_35,default,simple,,HD 3.7/35 PB,,1.575-154.0,Equipment,"Press
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"HD-3.0-30-PB,-HD-3.7-35-PB,-HD-3.jpg","HD-3.0-30-PB,-HD-3.7-35-PB,-HD-3.jpg","HD-3.0-30-PB,-HD-3.7-35-PB,-HD-3.jpg",
+",,,"5, 9",HD 3.7/35 PB,3099,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"HD-3.0-30-PB,-HD-3.7-35-PB,-HD-3.jpg","HD-3.0-30-PB,-HD-3.7-35-PB,-HD-3.jpg","HD-3.0-30-PB,-HD-3.7-35-PB,-HD-3.jpg",
 HD 3.0/40 PB,hd_pb_40,default,simple,,HD 3.0/40 PB,,1.575-155.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -1373,7 +1373,7 @@ HD 3.0/40 PB,hd_pb_40,default,simple,,HD 3.0/40 PB,,1.575-155.0,Equipment,"Press
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"HD-3.0-30-PB,-HD-3.7-35-PB,-HD-3 (1).jpg","HD-3.0-30-PB,-HD-3.7-35-PB,-HD-3 (1).jpg","HD-3.0-30-PB,-HD-3.7-35-PB,-HD-3 (1).jpg",
+",,,"5, 9",HD 3.0/40 PB,3243,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"HD-3.0-30-PB,-HD-3.7-35-PB,-HD-3 (1).jpg","HD-3.0-30-PB,-HD-3.7-35-PB,-HD-3 (1).jpg","HD-3.0-30-PB,-HD-3.7-35-PB,-HD-3 (1).jpg",
 HD 3.5/30-4S Ea,hd_4s_ea_30,default,simple,,HD 3.5/30-4S Ea,,1.286-127.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -1399,7 +1399,7 @@ HD 3.5/30-4S Ea,hd_4s_ea_30,default,simple,,HD 3.5/30-4S Ea,,1.286-127.0,Equipme
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"HD-3.0-30-PB,-HD-3.7-35-PB,-HD-3 (2).jpg","HD-3.0-30-PB,-HD-3.7-35-PB,-HD-3 (2).jpg","HD-3.0-30-PB,-HD-3.7-35-PB,-HD-3 (2).jpg",
+",,,"5, 9",HD 3.5/30-4S Ea,3787,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"HD-3.0-30-PB,-HD-3.7-35-PB,-HD-3 (2).jpg","HD-3.0-30-PB,-HD-3.7-35-PB,-HD-3 (2).jpg","HD-3.0-30-PB,-HD-3.7-35-PB,-HD-3 (2).jpg",
 HD 3.7/22-4S Eg,hd_4s_eg_22,default,simple,,HD 3.7/22-4S Eg,,1.286-115.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Cold Water Pressure Washer
@@ -1425,7 +1425,7 @@ HD 3.7/22-4S Eg,hd_4s_eg_22,default,simple,,HD 3.7/22-4S Eg,,1.286-115.0,Equipme
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,12861270_HD_3.5_30-4S_Ea-01.jpg,12861270_HD_3.5_30-4S_Ea-01.jpg,12861270_HD_3.5_30-4S_Ea-01.jpg,
+",,,"5, 9",HD 3.7/22-4S Eg,3387,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,12861270_HD_3.5_30-4S_Ea-01.jpg,12861270_HD_3.5_30-4S_Ea-01.jpg,12861270_HD_3.5_30-4S_Ea-01.jpg,
 HD 4.5/32-4S Eb,hd_4s_eb_32,default,simple,,HD 4.5/32-4S Eb,,1.286-128.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Cold Water Pressure Washer
@@ -1451,7 +1451,7 @@ HD 4.5/32-4S Eb,hd_4s_eb_32,default,simple,,HD 4.5/32-4S Eb,,1.286-128.0,Equipme
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,12861150_HD_37-22-4S_Eg-01.jpg,12861150_HD_37-22-4S_Eg-01.jpg,12861150_HD_37-22-4S_Eg-01.jpg,
+",,,"5, 9",HD 4.5/32-4S Eb,3330,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,12861150_HD_37-22-4S_Eg-01.jpg,12861150_HD_37-22-4S_Eg-01.jpg,12861150_HD_37-22-4S_Eg-01.jpg,
 HD 4.5/32-4S Ec,hd_4s_ec_32,default,simple,,HD 4.5/32-4S Ec,,1.286-129.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Cold Water Pressure Washer
@@ -1477,7 +1477,7 @@ HD 4.5/32-4S Ec,hd_4s_ec_32,default,simple,,HD 4.5/32-4S Ec,,1.286-129.0,Equipme
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,12861270_HD_3.5_30-4S_Ea-01 (1).jpg,12861270_HD_3.5_30-4S_Ea-01 (1).jpg,12861270_HD_3.5_30-4S_Ea-01 (1).jpg,
+",,,"5, 9",HD 4.5/32-4S Ec,3330,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,12861270_HD_3.5_30-4S_Ea-01 (1).jpg,12861270_HD_3.5_30-4S_Ea-01 (1).jpg,12861270_HD_3.5_30-4S_Ea-01 (1).jpg,
 HD 3.7/35 PB Cage,hd_pb_cage_35,default,simple,,HD 3.7/35 PB Cage,,1.575-205.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Cold Water Pressure Washer
@@ -1502,7 +1502,7 @@ HD 3.7/35 PB Cage,hd_pb_cage_35,default,simple,,HD 3.7/35 PB Cage,,1.575-205.0,E
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,12861270_HD_3.5_30-4S_Ea-01 (2).jpg,12861270_HD_3.5_30-4S_Ea-01 (2).jpg,12861270_HD_3.5_30-4S_Ea-01 (2).jpg,
+",,,"5, 9",HD 3.7/35 PB Cage,3399,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,12861270_HD_3.5_30-4S_Ea-01 (2).jpg,12861270_HD_3.5_30-4S_Ea-01 (2).jpg,12861270_HD_3.5_30-4S_Ea-01 (2).jpg,
 HD 4.0/40 PB Cage,hd_pb_cage_40,default,simple,,HD 4.0/40 PB Cage,,1.575-207.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Cold Water Pressure Washer
@@ -1527,7 +1527,7 @@ HD 4.0/40 PB Cage,hd_pb_cage_40,default,simple,,HD 4.0/40 PB Cage,,1.575-207.0,E
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD4550PB Cage-M-0409-sm-01.jpg,HD4550PB Cage-M-0409-sm-01.jpg,HD4550PB Cage-M-0409-sm-01.jpg,
+",,,"5, 9",HD 4.0/40 PB Cage,5399,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD4550PB Cage-M-0409-sm-01.jpg,HD4550PB Cage-M-0409-sm-01.jpg,HD4550PB Cage-M-0409-sm-01.jpg,
 HD 4.0/50 PB Cage,hd_pb_cage_50,default,simple,,HD 4.0/50 PB Cage,,1.575-200.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Cold Water Pressure Washer
@@ -1552,7 +1552,7 @@ HD 4.0/50 PB Cage,hd_pb_cage_50,default,simple,,HD 4.0/50 PB Cage,,1.575-200.0,E
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD4550PB Cage-M-0409-sm-01 (1).jpg,HD4550PB Cage-M-0409-sm-01 (1).jpg,HD4550PB Cage-M-0409-sm-01 (1).jpg,
+",,,"5, 9",HD 4.0/50 PB Cage,6299,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD4550PB Cage-M-0409-sm-01 (1).jpg,HD4550PB Cage-M-0409-sm-01 (1).jpg,HD4550PB Cage-M-0409-sm-01 (1).jpg,
 HD 4.5/50 PB Cage,hd_pb_cage_50_1,default,simple,,HD 4.5/50 PB Cage,,1.575-201.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Cold Water Pressure Washer
@@ -1577,7 +1577,7 @@ HD 4.5/50 PB Cage,hd_pb_cage_50_1,default,simple,,HD 4.5/50 PB Cage,,1.575-201.0
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD4550PB Cage-M-0409-sm-01 (2).jpg,HD4550PB Cage-M-0409-sm-01 (2).jpg,HD4550PB Cage-M-0409-sm-01 (2).jpg,
+",,,"5, 9",HD 4.5/50 PB Cage,7249,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD4550PB Cage-M-0409-sm-01 (2).jpg,HD4550PB Cage-M-0409-sm-01 (2).jpg,HD4550PB Cage-M-0409-sm-01 (2).jpg,
 HD 3.4/30 DB Cage,hd_db_cage_30,default,simple,,HD 3.4/30 DB Cage,,1.575-202.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Cold Water Pressure Washer
@@ -1602,7 +1602,7 @@ HD 3.4/30 DB Cage,hd_db_cage_30,default,simple,,HD 3.4/30 DB Cage,,1.575-202.0,E
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD4550PB Cage-M-0409-sm-01 (3).jpg,HD4550PB Cage-M-0409-sm-01 (3).jpg,HD4550PB Cage-M-0409-sm-01 (3).jpg,
+",,,"5, 9",HD 3.4/30 DB Cage,6129,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD4550PB Cage-M-0409-sm-01 (3).jpg,HD4550PB Cage-M-0409-sm-01 (3).jpg,HD4550PB Cage-M-0409-sm-01 (3).jpg,
 HD 5.0/50 Eb Cage,hd_eb_cage_50,default,simple,,HD 5.0/50 Eb Cage,,1.107-084.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Cold Water Pressure Washer
@@ -1627,7 +1627,7 @@ HD 5.0/50 Eb Cage,hd_eb_cage_50,default,simple,,HD 5.0/50 Eb Cage,,1.107-084.0,E
 ","
 ","
 ","
-",,,"5, 9",7300,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD4550PB Cage-M-0409-sm-01 (4).jpg,HD4550PB Cage-M-0409-sm-01 (4).jpg,HD4550PB Cage-M-0409-sm-01 (4).jpg,
+",,,"5, 9",HD 5.0/50 Eb Cage,7300,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HD4550PB Cage-M-0409-sm-01 (4).jpg,HD4550PB Cage-M-0409-sm-01 (4).jpg,HD4550PB Cage-M-0409-sm-01 (4).jpg,
 HD 5.0/50 Ec Cage,hd_ec_cage_50,default,simple,,HD 5.0/50 Ec Cage,,1.107-087.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Cold Water Pressure Washer
@@ -1652,7 +1652,7 @@ HD 5.0/50 Ec Cage,hd_ec_cage_50,default,simple,,HD 5.0/50 Ec Cage,,1.107-087.0,E
 ","
 ","
 ","
-",,,"5, 9",7300,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"HD-5.0-50-Eb-Cage,-HD-5.jpg","HD-5.0-50-Eb-Cage,-HD-5.jpg","HD-5.0-50-Eb-Cage,-HD-5.jpg",
+",,,"5, 9",HD 5.0/50 Ec Cage,7300,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"HD-5.0-50-Eb-Cage,-HD-5.jpg","HD-5.0-50-Eb-Cage,-HD-5.jpg","HD-5.0-50-Eb-Cage,-HD-5.jpg",
 HDS 1.7/12 U Ed,hds_u_ed_12,default,simple,,HDS 1.7/12 U Ed,,1.064-037.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Hot Water Pressure Washer
@@ -1677,7 +1677,7 @@ HDS 1.7/12 U Ed,hds_u_ed_12,default,simple,,HDS 1.7/12 U Ed,,1.064-037.0,Equipme
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"HD-5.0-50-Eb-Cage,-HD-5 (1).jpg","HD-5.0-50-Eb-Cage,-HD-5 (1).jpg","HD-5.0-50-Eb-Cage,-HD-5 (1).jpg",
+",,,"5, 9",HDS 1.7/12 U Ed,3463,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"HD-5.0-50-Eb-Cage,-HD-5 (1).jpg","HD-5.0-50-Eb-Cage,-HD-5 (1).jpg","HD-5.0-50-Eb-Cage,-HD-5 (1).jpg",
 HDS 2.0/10 Ed Cage,hds_ed_10,default,simple,,HDS 2.0/10 Ed Cage,,1.575-511.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -1702,7 +1702,7 @@ HDS 2.0/10 Ed Cage,hds_ed_10,default,simple,,HDS 2.0/10 Ed Cage,,1.575-511.0,Equ
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.064-037.0_HDS_1.7-12_U_Ed-01.jpg,1.064-037.0_HDS_1.7-12_U_Ed-01.jpg,1.064-037.0_HDS_1.7-12_U_Ed-01.jpg,HDS-1-2.jpg;HDS-1-3.jpg
+",,,"5, 9",HDS 2.0/10 Ed Cage,3951,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.064-037.0_HDS_1.7-12_U_Ed-01.jpg,1.064-037.0_HDS_1.7-12_U_Ed-01.jpg,1.064-037.0_HDS_1.7-12_U_Ed-01.jpg,HDS-1-2.jpg;HDS-1-3.jpg
 HDS 1.9/15 Ed Cage,hds_ed_15,default,simple,,HDS 1.9/15 Ed Cage,,1.575-512.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -1727,7 +1727,7 @@ HDS 1.9/15 Ed Cage,hds_ed_15,default,simple,,HDS 1.9/15 Ed Cage,,1.575-512.0,Equ
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-511.0_HDS_20-10_Ed_Cage-01.jpg,1.575-511.0_HDS_20-10_Ed_Cage-01.jpg,1.575-511.0_HDS_20-10_Ed_Cage-01.jpg,
+",,,"5, 9",HDS 1.9/15 Ed Cage,4095,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-511.0_HDS_20-10_Ed_Cage-01.jpg,1.575-511.0_HDS_20-10_Ed_Cage-01.jpg,1.575-511.0_HDS_20-10_Ed_Cage-01.jpg,
 HDS 3.5/20 Ea Cage,hds_ed_20,default,simple,,HDS 3.5/20 Ea Cage,,1.575-513.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -1752,7 +1752,7 @@ HDS 3.5/20 Ea Cage,hds_ed_20,default,simple,,HDS 3.5/20 Ea Cage,,1.575-513.0,Equ
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-511.0_HDS_20-10_Ed_Cage-01 (1).jpg,1.575-511.0_HDS_20-10_Ed_Cage-01 (1).jpg,1.575-511.0_HDS_20-10_Ed_Cage-01 (1).jpg,
+",,,"5, 9",HDS 3.5/20 Ea Cage,5013,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-511.0_HDS_20-10_Ed_Cage-01 (1).jpg,1.575-511.0_HDS_20-10_Ed_Cage-01 (1).jpg,1.575-511.0_HDS_20-10_Ed_Cage-01 (1).jpg,
 HDS 2.3/12 C Ed,hds_c_ed_12,default,simple,,HDS 2.3/12 C Ed,,1.272-201.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Hot Water Pressure Washer
@@ -1778,7 +1778,7 @@ HDS 2.3/12 C Ed,hds_c_ed_12,default,simple,,HDS 2.3/12 C Ed,,1.272-201.0,Equipme
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-511.0_HDS_20-10_Ed_Cage-01 (2).jpg,1.575-511.0_HDS_20-10_Ed_Cage-01 (2).jpg,1.575-511.0_HDS_20-10_Ed_Cage-01 (2).jpg,
+",,,"5, 9",HDS 2.3/12 C Ed,4016,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-511.0_HDS_20-10_Ed_Cage-01 (2).jpg,1.575-511.0_HDS_20-10_Ed_Cage-01 (2).jpg,1.575-511.0_HDS_20-10_Ed_Cage-01 (2).jpg,
 HDS 3.0/20 C Ea,hds_c_ea_20,default,simple,,HDS 3.0/20 C Ea,,1.170-616.0,Equipment,"Pressure Washing Equipment
 ","For Your Home
 ",Karcher,"Hot Water Pressure Washer
@@ -1804,7 +1804,7 @@ HDS 3.0/20 C Ea,hds_c_ea_20,default,simple,,HDS 3.0/20 C Ea,,1.170-616.0,Equipme
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.170-616.0_HDS_3.0-20_C_Ea-01.jpg,1.170-616.0_HDS_3.0-20_C_Ea-01.jpg,1.170-616.0_HDS_3.0-20_C_Ea-01.jpg,"HDS-2.3-12-C-Ed,-HDS-3.0-2-1.jpg;HDS-2.3-12-C-Ed,-HDS-3.0-2-3.jpg"
+",,,"5, 9",HDS 3.0/20 C Ea,4952,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.170-616.0_HDS_3.0-20_C_Ea-01.jpg,1.170-616.0_HDS_3.0-20_C_Ea-01.jpg,1.170-616.0_HDS_3.0-20_C_Ea-01.jpg,"HDS-2.3-12-C-Ed,-HDS-3.0-2-1.jpg;HDS-2.3-12-C-Ed,-HDS-3.0-2-3.jpg"
 HDS 2.8/25 P Cage,hds_p_cage_25,default,simple,,HDS 2.8/25 P Cage,,1.575-555.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -1829,7 +1829,7 @@ HDS 2.8/25 P Cage,hds_p_cage_25,default,simple,,HDS 2.8/25 P Cage,,1.575-555.0,E
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.170-616.0_HDS_3.0-20_C_Ea-01 (1).jpg,1.170-616.0_HDS_3.0-20_C_Ea-01 (1).jpg,1.170-616.0_HDS_3.0-20_C_Ea-01 (1).jpg,"HDS-2.3-12-C-Ed,-HDS-3.0-2-1 (1).jpg;HDS-2.3-12-C-Ed,-HDS-3.0-2-3 (1).jpg"
+",,,"5, 9",HDS 2.8/25 P Cage,5329,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.170-616.0_HDS_3.0-20_C_Ea-01 (1).jpg,1.170-616.0_HDS_3.0-20_C_Ea-01 (1).jpg,1.170-616.0_HDS_3.0-20_C_Ea-01 (1).jpg,"HDS-2.3-12-C-Ed,-HDS-3.0-2-1 (1).jpg;HDS-2.3-12-C-Ed,-HDS-3.0-2-3 (1).jpg"
 HDS 2.6/30 P Cage,hds_p_cage_30_2,default,simple,,HDS 2.6/30 P Cage,,1.575-550.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -1854,7 +1854,7 @@ HDS 2.6/30 P Cage,hds_p_cage_30_2,default,simple,,HDS 2.6/30 P Cage,,1.575-550.0
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HDS2.5-25p cage-M-0410-sm-01.jpg,HDS2.5-25p cage-M-0410-sm-01.jpg,HDS2.5-25p cage-M-0410-sm-01.jpg,
+",,,"5, 9",HDS 2.6/30 P Cage,6279,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HDS2.5-25p cage-M-0410-sm-01.jpg,HDS2.5-25p cage-M-0410-sm-01.jpg,HDS2.5-25p cage-M-0410-sm-01.jpg,
 HDS 3.5/30 P Cage,hds_p_cage_30_3,default,simple,,HDS 3.5/30 P Cage,,1.575-551.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -1879,7 +1879,7 @@ HDS 3.5/30 P Cage,hds_p_cage_30_3,default,simple,,HDS 3.5/30 P Cage,,1.575-551.0
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HDS2.5-25p cage-M-0410-sm-01 (1).jpg,HDS2.5-25p cage-M-0410-sm-01 (1).jpg,HDS2.5-25p cage-M-0410-sm-01 (1).jpg,
+",,,"5, 9",HDS 3.5/30 P Cage,6679,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HDS2.5-25p cage-M-0410-sm-01 (1).jpg,HDS2.5-25p cage-M-0410-sm-01 (1).jpg,HDS2.5-25p cage-M-0410-sm-01 (1).jpg,
 HDS 3.5/30 Pe Cage,hds_pe_cage_30,default,simple,,HDS 3.5/30 Pe Cage,,1.575-552.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -1904,7 +1904,7 @@ HDS 3.5/30 Pe Cage,hds_pe_cage_30,default,simple,,HDS 3.5/30 Pe Cage,,1.575-552.
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HDS2.5-25p cage-M-0410-sm-01 (2).jpg,HDS2.5-25p cage-M-0410-sm-01 (2).jpg,HDS2.5-25p cage-M-0410-sm-01 (2).jpg,
+",,,"5, 9",HDS 3.5/30 Pe Cage,7149,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HDS2.5-25p cage-M-0410-sm-01 (2).jpg,HDS2.5-25p cage-M-0410-sm-01 (2).jpg,HDS2.5-25p cage-M-0410-sm-01 (2).jpg,
 HDS 3.5/35 Pe Cage,hds_pe_cage_35,default,simple,,HDS 3.5/35 Pe Cage,,1.575-553.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -1929,7 +1929,7 @@ HDS 3.5/35 Pe Cage,hds_pe_cage_35,default,simple,,HDS 3.5/35 Pe Cage,,1.575-553.
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HDS2.5-25p cage-M-0410-sm-01 (3).jpg,HDS2.5-25p cage-M-0410-sm-01 (3).jpg,HDS2.5-25p cage-M-0410-sm-01 (3).jpg,
+",,,"5, 9",HDS 3.5/35 Pe Cage,7399,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HDS2.5-25p cage-M-0410-sm-01 (3).jpg,HDS2.5-25p cage-M-0410-sm-01 (3).jpg,HDS2.5-25p cage-M-0410-sm-01 (3).jpg,
 HDS 3.5/20 Ea ST NG,hds_ea_st_ng_20,default,simple,,HDS 3.5/20 Ea ST NG,,1.109-715.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -1954,7 +1954,7 @@ HDS 3.5/20 Ea ST NG,hds_ea_st_ng_20,default,simple,,HDS 3.5/20 Ea ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HDS2.5-25p cage-M-0410-sm-01 (4).jpg,HDS2.5-25p cage-M-0410-sm-01 (4).jpg,HDS2.5-25p cage-M-0410-sm-01 (4).jpg,
+",,,"5, 9",HDS 3.5/20 Ea ST NG,5995,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,HDS2.5-25p cage-M-0410-sm-01 (4).jpg,HDS2.5-25p cage-M-0410-sm-01 (4).jpg,HDS2.5-25p cage-M-0410-sm-01 (4).jpg,
 HDS 4.0/22 Ea ST NG,hds_ea_st_ng_22,default,simple,,HDS 4.0/22 Ea ST NG,,1.109-716.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -1979,7 +1979,7 @@ HDS 4.0/22 Ea ST NG,hds_ea_st_ng_22,default,simple,,HDS 4.0/22 Ea ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01.jpg,NG_Classic-01.jpg,NG_Classic-01.jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.0/22 Ea ST NG,6795,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01.jpg,NG_Classic-01.jpg,NG_Classic-01.jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.0/22 Eb ST NG,hds_eb_st_ng_22,default,simple,,HDS 4.0/22 Eb ST NG,,1.109-717.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2004,7 +2004,7 @@ HDS 4.0/22 Eb ST NG,hds_eb_st_ng_22,default,simple,,HDS 4.0/22 Eb ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (1).jpg,NG_Classic-01 (1).jpg,NG_Classic-01 (1).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.0/22 Eb ST NG,6795,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (1).jpg,NG_Classic-01 (1).jpg,NG_Classic-01 (1).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.0/22 Ec ST NG,hds_ec_st_ng_22,default,simple,,HDS 4.0/22 Ec ST NG,,1.109-718.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2029,7 +2029,7 @@ HDS 4.0/22 Ec ST NG,hds_ec_st_ng_22,default,simple,,HDS 4.0/22 Ec ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (2).jpg,NG_Classic-01 (2).jpg,NG_Classic-01 (2).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.0/22 Ec ST NG,6795,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (2).jpg,NG_Classic-01 (2).jpg,NG_Classic-01 (2).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.0/22 Ef ST NG,hds_ef_st_ng_22,default,simple,,HDS 4.0/22 Ef ST NG,,1.109-719.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2054,7 +2054,7 @@ HDS 4.0/22 Ef ST NG,hds_ef_st_ng_22,default,simple,,HDS 4.0/22 Ef ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (3).jpg,NG_Classic-01 (3).jpg,NG_Classic-01 (3).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.0/22 Ef ST NG,6995,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (3).jpg,NG_Classic-01 (3).jpg,NG_Classic-01 (3).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.0/22 Eg ST NG,hds_eg_st_ng_22,default,simple,,HDS 4.0/22 Eg ST NG,,1.109-720.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2079,7 +2079,7 @@ HDS 4.0/22 Eg ST NG,hds_eg_st_ng_22,default,simple,,HDS 4.0/22 Eg ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (4).jpg,NG_Classic-01 (4).jpg,NG_Classic-01 (4).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.0/22 Eg ST NG,6995,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (4).jpg,NG_Classic-01 (4).jpg,NG_Classic-01 (4).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.0/22 Eh ST NG,hds_eh_st_ng_22,default,simple,,HDS 4.0/22 Eh ST NG,,1.109-721.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2104,7 +2104,7 @@ HDS 4.0/22 Eh ST NG,hds_eh_st_ng_22,default,simple,,HDS 4.0/22 Eh ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (5).jpg,NG_Classic-01 (5).jpg,NG_Classic-01 (5).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.0/22 Eh ST NG,6995,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (5).jpg,NG_Classic-01 (5).jpg,NG_Classic-01 (5).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 3.9/30 Ea ST NG,hds_ea_st_ng_30,default,simple,,HDS 3.9/30 Ea ST NG,,1.109-723.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2129,7 +2129,7 @@ HDS 3.9/30 Ea ST NG,hds_ea_st_ng_30,default,simple,,HDS 3.9/30 Ea ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (6).jpg,NG_Classic-01 (6).jpg,NG_Classic-01 (6).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 3.9/30 Ea ST NG,7095,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (6).jpg,NG_Classic-01 (6).jpg,NG_Classic-01 (6).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 3.9/30 Eb ST NG,hds_eb_st_ng_30,default,simple,,HDS 3.9/30 Eb ST NG,,1.109-724.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2154,7 +2154,7 @@ HDS 3.9/30 Eb ST NG,hds_eb_st_ng_30,default,simple,,HDS 3.9/30 Eb ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (7).jpg,NG_Classic-01 (7).jpg,NG_Classic-01 (7).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 3.9/30 Eb ST NG,7095,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (7).jpg,NG_Classic-01 (7).jpg,NG_Classic-01 (7).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 3.9/30 Ec ST NG,hds_ec_st_ng_30,default,simple,,HDS 3.9/30 Ec ST NG,,1.109-725.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2179,7 +2179,7 @@ HDS 3.9/30 Ec ST NG,hds_ec_st_ng_30,default,simple,,HDS 3.9/30 Ec ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (8).jpg,NG_Classic-01 (8).jpg,NG_Classic-01 (8).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 3.9/30 Ec ST NG,7095,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (8).jpg,NG_Classic-01 (8).jpg,NG_Classic-01 (8).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 3.9/30 Ef ST NG,hds_ef_st_ng_30,default,simple,,HDS 3.9/30 Ef ST NG,,1.109-726.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2204,7 +2204,7 @@ HDS 3.9/30 Ef ST NG,hds_ef_st_ng_30,default,simple,,HDS 3.9/30 Ef ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (9).jpg,NG_Classic-01 (9).jpg,NG_Classic-01 (9).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 3.9/30 Ef ST NG,7295,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (9).jpg,NG_Classic-01 (9).jpg,NG_Classic-01 (9).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 3.9/30 Eg ST NG,hds_eg_st_ng_30,default,simple,,HDS 3.9/30 Eg ST NG,,1.109-727.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2229,7 +2229,7 @@ HDS 3.9/30 Eg ST NG,hds_eg_st_ng_30,default,simple,,HDS 3.9/30 Eg ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (10).jpg,NG_Classic-01 (10).jpg,NG_Classic-01 (10).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 3.9/30 Eg ST NG,7295,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (10).jpg,NG_Classic-01 (10).jpg,NG_Classic-01 (10).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 3.9/30 Eh ST NG,hds_eh_st_ng_30,default,simple,,HDS 3.9/30 Eh ST NG,,1.109-728.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2254,7 +2254,7 @@ HDS 3.9/30 Eh ST NG,hds_eh_st_ng_30,default,simple,,HDS 3.9/30 Eh ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (11).jpg,NG_Classic-01 (11).jpg,NG_Classic-01 (11).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 3.9/30 Eh ST NG,7295,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (11).jpg,NG_Classic-01 (11).jpg,NG_Classic-01 (11).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.8/30 Ea ST NG,hds_ea_st_ng_30,default,simple,,HDS 4.8/30 Ea ST NG,,1.109-736.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2279,7 +2279,7 @@ HDS 4.8/30 Ea ST NG,hds_ea_st_ng_30,default,simple,,HDS 4.8/30 Ea ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (12).jpg,NG_Classic-01 (12).jpg,NG_Classic-01 (12).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.8/30 Ea ST NG,8195,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (12).jpg,NG_Classic-01 (12).jpg,NG_Classic-01 (12).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.8/30 Eb ST NG,hds_eb_st_ng_30,default,simple,,HDS 4.8/30 Eb ST NG,,1.109-737.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2304,7 +2304,7 @@ HDS 4.8/30 Eb ST NG,hds_eb_st_ng_30,default,simple,,HDS 4.8/30 Eb ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (13).jpg,NG_Classic-01 (13).jpg,NG_Classic-01 (13).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.8/30 Eb ST NG,8195,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (13).jpg,NG_Classic-01 (13).jpg,NG_Classic-01 (13).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.8/30 Ec ST NG,hds_ec_st_ng_30,default,simple,,HDS 4.8/30 Ec ST NG,,1.109-738.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2329,7 +2329,7 @@ HDS 4.8/30 Ec ST NG,hds_ec_st_ng_30,default,simple,,HDS 4.8/30 Ec ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (14).jpg,NG_Classic-01 (14).jpg,NG_Classic-01 (14).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.8/30 Ec ST NG,8195,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (14).jpg,NG_Classic-01 (14).jpg,NG_Classic-01 (14).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.8/30 Ef ST NG,hds_ef_st_ng_30,default,simple,,HDS 4.8/30 Ef ST NG,,1.109-739.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2354,7 +2354,7 @@ HDS 4.8/30 Ef ST NG,hds_ef_st_ng_30,default,simple,,HDS 4.8/30 Ef ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (15).jpg,NG_Classic-01 (15).jpg,NG_Classic-01 (15).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.8/30 Ef ST NG,8395,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (15).jpg,NG_Classic-01 (15).jpg,NG_Classic-01 (15).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.8/30 Eg ST NG,hds_eg_st_ng_30,default,simple,,HDS 4.8/30 Eg ST NG,,1.109-740.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2379,7 +2379,7 @@ HDS 4.8/30 Eg ST NG,hds_eg_st_ng_30,default,simple,,HDS 4.8/30 Eg ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (16).jpg,NG_Classic-01 (16).jpg,NG_Classic-01 (16).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.8/30 Eg ST NG,8395,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (16).jpg,NG_Classic-01 (16).jpg,NG_Classic-01 (16).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.8/30 Eh ST NG,hds_eh_st_ng_30,default,simple,,HDS 4.8/30 Eh ST NG,,1.109-741.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2404,7 +2404,7 @@ HDS 4.8/30 Eh ST NG,hds_eh_st_ng_30,default,simple,,HDS 4.8/30 Eh ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01.jpg,NG_Classic-01.jpg,NG_Classic-01.jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.8/30 Eh ST NG,8395,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01.jpg,NG_Classic-01.jpg,NG_Classic-01.jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 5.0/23 Ea ST NG,hds_ea_st_ng_23,default,simple,,HDS 5.0/23 Ea ST NG,,1.109-730.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2429,7 +2429,7 @@ HDS 5.0/23 Ea ST NG,hds_ea_st_ng_23,default,simple,,HDS 5.0/23 Ea ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (18).jpg,NG_Classic-01 (18).jpg,NG_Classic-01 (18).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 5.0/23 Ea ST NG,7095,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (18).jpg,NG_Classic-01 (18).jpg,NG_Classic-01 (18).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 5.0/23 Eb ST NG,hds_eb_st_ng_23,default,simple,,HDS 5.0/23 Eb ST NG,,1.109-731.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2454,7 +2454,7 @@ HDS 5.0/23 Eb ST NG,hds_eb_st_ng_23,default,simple,,HDS 5.0/23 Eb ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (18).jpg,NG_Classic-01 (18).jpg,NG_Classic-01 (18).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 5.0/23 Eb ST NG,7095,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (18).jpg,NG_Classic-01 (18).jpg,NG_Classic-01 (18).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 5.0/23 Ec ST NG,hds_ec_st_ng_23,default,simple,,HDS 5.0/23 Ec ST NG,,1.109-732.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2479,7 +2479,7 @@ HDS 5.0/23 Ec ST NG,hds_ec_st_ng_23,default,simple,,HDS 5.0/23 Ec ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (19).jpg,NG_Classic-01 (19).jpg,NG_Classic-01 (19).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 5.0/23 Ec ST NG,7095,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (19).jpg,NG_Classic-01 (19).jpg,NG_Classic-01 (19).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 5.0/23 Ef ST NG,hds_ef_st_ng_23,default,simple,,HDS 5.0/23 Ef ST NG,,1.109-733.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2504,7 +2504,7 @@ HDS 5.0/23 Ef ST NG,hds_ef_st_ng_23,default,simple,,HDS 5.0/23 Ef ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (20).jpg,NG_Classic-01 (20).jpg,NG_Classic-01 (20).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 5.0/23 Ef ST NG,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (20).jpg,NG_Classic-01 (20).jpg,NG_Classic-01 (20).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 5.0/23 Eg ST NG,hds_eg_st_ng_23,default,simple,,HDS 5.0/23 Eg ST NG,,1.109-734.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2529,7 +2529,7 @@ HDS 5.0/23 Eg ST NG,hds_eg_st_ng_23,default,simple,,HDS 5.0/23 Eg ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (21).jpg,NG_Classic-01 (21).jpg,NG_Classic-01 (21).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 5.0/23 Eg ST NG,7295,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (21).jpg,NG_Classic-01 (21).jpg,NG_Classic-01 (21).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 5.0/23 Eh ST NG,hds_eh_st_ng_23,default,simple,,HDS 5.0/23 Eh ST NG,,1.109-735.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2554,7 +2554,7 @@ HDS 5.0/23 Eh ST NG,hds_eh_st_ng_23,default,simple,,HDS 5.0/23 Eh ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (22).jpg,NG_Classic-01 (22).jpg,NG_Classic-01 (22).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 5.0/23 Eh ST NG,7295,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (22).jpg,NG_Classic-01 (22).jpg,NG_Classic-01 (22).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 3.5/20 Ea ST LP,hds_ea_st_lp_20,default,simple,,HDS 3.5/20 Ea ST LP,,1.109-756.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2579,7 +2579,7 @@ HDS 3.5/20 Ea ST LP,hds_ea_st_lp_20,default,simple,,HDS 3.5/20 Ea ST LP,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 3.5/20 Ea ST LP,5995,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.0/22 Ea ST LP,hds_ea_st_lp_22,default,simple,,HDS 4.0/22 Ea ST LP,,1.109-757.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2604,7 +2604,7 @@ HDS 4.0/22 Ea ST LP,hds_ea_st_lp_22,default,simple,,HDS 4.0/22 Ea ST LP,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.0/22 Ea ST LP,6795,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.0/22 Eb ST LP,hds_eb_st_lp_22,default,simple,,HDS 4.0/22 Eb ST LP,,1.109-758.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2629,7 +2629,7 @@ HDS 4.0/22 Eb ST LP,hds_eb_st_lp_22,default,simple,,HDS 4.0/22 Eb ST LP,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.0/22 Eb ST LP,6795,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.0/22 Ec ST LP,hds_ec_st_lp_22,default,simple,,HDS 4.0/22 Ec ST LP,,1.109-759.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2654,7 +2654,7 @@ HDS 4.0/22 Ec ST LP,hds_ec_st_lp_22,default,simple,,HDS 4.0/22 Ec ST LP,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.0/22 Ec ST LP,6795,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.0/22 Ef ST LP,hds_ef_st_lp_22,default,simple,,HDS 4.0/22 Ef ST LP,,1.109-760.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2679,7 +2679,7 @@ HDS 4.0/22 Ef ST LP,hds_ef_st_lp_22,default,simple,,HDS 4.0/22 Ef ST LP,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.0/22 Ef ST LP,6995,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.0/22 Eg ST LP,hds_eg_st_lp_22,default,simple,,HDS 4.0/22 Eg ST LP,,1.109-761.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2704,7 +2704,7 @@ HDS 4.0/22 Eg ST LP,hds_eg_st_lp_22,default,simple,,HDS 4.0/22 Eg ST LP,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.0/22 Eg ST LP,6995,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.0/22 Eh ST LP,hds_eh_st_lp_22,default,simple,,HDS 4.0/22 Eh ST LP,,1.109-762.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2729,7 +2729,7 @@ HDS 4.0/22 Eh ST LP,hds_eh_st_lp_22,default,simple,,HDS 4.0/22 Eh ST LP,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.0/22 Eh ST LP,6995,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 3.9/30 Ea ST LP,hds_ea_st_lp_30_3,default,simple,,HDS 3.9/30 Ea ST LP,,1.109-764.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2754,7 +2754,7 @@ HDS 3.9/30 Ea ST LP,hds_ea_st_lp_30_3,default,simple,,HDS 3.9/30 Ea ST LP,,1.109
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 3.9/30 Ea ST LP,7095,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 3.9/30 Eb ST LP,hds_eb_st_lp_30_3,default,simple,,HDS 3.9/30 Eb ST LP,,1.109-765.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2779,7 +2779,7 @@ HDS 3.9/30 Eb ST LP,hds_eb_st_lp_30_3,default,simple,,HDS 3.9/30 Eb ST LP,,1.109
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 3.9/30 Eb ST LP,7095,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 3.9/30 Ec ST LP,hds_ec_st_lp_30_3,default,simple,,HDS 3.9/30 Ec ST LP,,1.109-766.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2804,7 +2804,7 @@ HDS 3.9/30 Ec ST LP,hds_ec_st_lp_30_3,default,simple,,HDS 3.9/30 Ec ST LP,,1.109
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 3.9/30 Ec ST LP,7095,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 3.9/30 Ef ST LP,hds_ef_st_lp_30,default,simple,,HDS 3.9/30 Ef ST LP,,1.109-767.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2829,7 +2829,7 @@ HDS 3.9/30 Ef ST LP,hds_ef_st_lp_30,default,simple,,HDS 3.9/30 Ef ST LP,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 3.9/30 Ef ST LP,7295,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 3.9/30 Eg ST LP,hds_eg_st_lp_30,default,simple,,HDS 3.9/30 Eg ST LP,,1.109-768.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2854,7 +2854,7 @@ HDS 3.9/30 Eg ST LP,hds_eg_st_lp_30,default,simple,,HDS 3.9/30 Eg ST LP,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 3.9/30 Eg ST LP,7295,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 3.9/30 Eh ST LP,hds_eh_st_lp_30,default,simple,,HDS 3.9/30 Eh ST LP,,1.109-769.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2879,7 +2879,7 @@ HDS 3.9/30 Eh ST LP,hds_eh_st_lp_30,default,simple,,HDS 3.9/30 Eh ST LP,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 3.9/30 Eh ST LP,7295,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.8/30 Ea ST LP,hds_ea_st_lp_30_4,default,simple,,HDS 4.8/30 Ea ST LP,,1.109-777.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2904,7 +2904,7 @@ HDS 4.8/30 Ea ST LP,hds_ea_st_lp_30_4,default,simple,,HDS 4.8/30 Ea ST LP,,1.109
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.8/30 Ea ST LP,8195,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.8/30 Eb ST LP,hds_eb_st_lp_30_4,default,simple,,HDS 4.8/30 Eb ST LP,,1.109-778.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2929,7 +2929,7 @@ HDS 4.8/30 Eb ST LP,hds_eb_st_lp_30_4,default,simple,,HDS 4.8/30 Eb ST LP,,1.109
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.8/30 Eb ST LP,8195,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.8/30 Ec ST LP,hds_ec_st_lp_30_4,default,simple,,HDS 4.8/30 Ec ST LP,,1.109-779.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2954,7 +2954,7 @@ HDS 4.8/30 Ec ST LP,hds_ec_st_lp_30_4,default,simple,,HDS 4.8/30 Ec ST LP,,1.109
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.8/30 Ec ST LP,8195,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.8/30 Ef ST LP,hds_ef_st_lp_30_48,default,simple,,HDS 4.8/30 Ef ST LP,,1.109-780.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -2979,7 +2979,7 @@ HDS 4.8/30 Ef ST LP,hds_ef_st_lp_30_48,default,simple,,HDS 4.8/30 Ef ST LP,,1.10
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.8/30 Ef ST LP,8395,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.8/30 Eg ST LP,hds_eg_st_lp_30_48,default,simple,,HDS 4.8/30 Eg ST LP,,1.109-781.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3004,7 +3004,7 @@ HDS 4.8/30 Eg ST LP,hds_eg_st_lp_30_48,default,simple,,HDS 4.8/30 Eg ST LP,,1.10
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.8/30 Eg ST LP,8395,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 4.8/30 Eh ST LP,hds_eh_st_lp_30_48,default,simple,,HDS 4.8/30 Eh ST LP,,1.109-782.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3029,7 +3029,7 @@ HDS 4.8/30 Eh ST LP,hds_eh_st_lp_30_48,default,simple,,HDS 4.8/30 Eh ST LP,,1.10
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 4.8/30 Eh ST LP,8395,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 5.0/23 Ea ST LP,hds_ea_st_lp_23,default,simple,,HDS 5.0/23 Ea ST LP,,1.109-771.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3054,7 +3054,7 @@ HDS 5.0/23 Ea ST LP,hds_ea_st_lp_23,default,simple,,HDS 5.0/23 Ea ST LP,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 5.0/23 Ea ST LP,7095,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 5.0/23 Eb ST LP,hds_eb_st_lp_23,default,simple,,HDS 5.0/23 Eb ST LP,,1.109-772.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3079,7 +3079,7 @@ HDS 5.0/23 Eb ST LP,hds_eb_st_lp_23,default,simple,,HDS 5.0/23 Eb ST LP,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 5.0/23 Eb ST LP,7095,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 5.0/23 Ec ST LP,hds_ec_st_lp_23,default,simple,,HDS 5.0/23 Ec ST LP,,1.109-773.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3104,7 +3104,7 @@ HDS 5.0/23 Ec ST LP,hds_ec_st_lp_23,default,simple,,HDS 5.0/23 Ec ST LP,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 5.0/23 Ec ST LP,7095,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 5.0/23 Ef ST LP,hds_ef_st_lp_23,default,simple,,HDS 5.0/23 Ef ST LP,,1.109-774.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3129,7 +3129,7 @@ HDS 5.0/23 Ef ST LP,hds_ef_st_lp_23,default,simple,,HDS 5.0/23 Ef ST LP,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 5.0/23 Ef ST LP,7295,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 5.0/22 Eg ST LP,hds_eg_st_lp_22_5,default,simple,,HDS 5.0/22 Eg ST LP,,1.109-775.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3154,7 +3154,7 @@ HDS 5.0/22 Eg ST LP,hds_eg_st_lp_22_5,default,simple,,HDS 5.0/22 Eg ST LP,,1.109
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 5.0/22 Eg ST LP,7295,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 5.0/23 Eh ST LP,hds_eh_st_lp_23,default,simple,,HDS 5.0/23 Eh ST LP,,1.109-776.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3179,7 +3179,7 @@ HDS 5.0/23 Eh ST LP,hds_eh_st_lp_23,default,simple,,HDS 5.0/23 Eh ST LP,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 5.0/23 Eh ST LP,7295,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 6.3/32 Eb ST NG,hds_eb_st_ng_32,default,simple,,HDS 6.3/32 Eb ST NG,,1.109-744.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3204,7 +3204,7 @@ HDS 6.3/32 Eb ST NG,hds_eb_st_ng_32,default,simple,,HDS 6.3/32 Eb ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 6.3/32 Eb ST NG,10295,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 6.3/32 Ec ST NG,hds_ec_st_ng_32,default,simple,,HDS 6.3/32 Ec ST NG,,1.109-745.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3229,7 +3229,7 @@ HDS 6.3/32 Ec ST NG,hds_ec_st_ng_32,default,simple,,HDS 6.3/32 Ec ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 6.3/32 Ec ST NG,10295,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 6.3/32 Ef ST NG,hds_ef_st_ng_32_63,default,simple,,HDS 6.3/32 Ef ST NG,,1.109-746.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3254,7 +3254,7 @@ HDS 6.3/32 Ef ST NG,hds_ef_st_ng_32_63,default,simple,,HDS 6.3/32 Ef ST NG,,1.10
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 6.3/32 Ef ST NG,10495,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 6.3/32 Eh ST NG,hds_eh_st_ng_32,default,simple,,HDS 6.3/32 Eh ST NG,,1.109-747.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3279,7 +3279,7 @@ HDS 6.3/32 Eh ST NG,hds_eh_st_ng_32,default,simple,,HDS 6.3/32 Eh ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 6.3/32 Eh ST NG,10495,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 8.0/32 Eb ST NG,hds_eb_st_ng_32_8,default,simple,,HDS 8.0/32 Eb ST NG,,1.109-748.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3304,7 +3304,7 @@ HDS 8.0/32 Eb ST NG,hds_eb_st_ng_32_8,default,simple,,HDS 8.0/32 Eb ST NG,,1.109
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 8.0/32 Eb ST NG,11895,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 8.0/32 Ec ST NG,hds_ec_st_ng_32_8,default,simple,,HDS 8.0/32 Ec ST NG,,1.109-749.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3329,7 +3329,7 @@ HDS 8.0/32 Ec ST NG,hds_ec_st_ng_32_8,default,simple,,HDS 8.0/32 Ec ST NG,,1.109
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 8.0/32 Ec ST NG,11895,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 8.0/32 Ef ST NG,hds_ef_st_ng_32_8,default,simple,,HDS 8.0/32 Ef ST NG,,1.109-750.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3354,7 +3354,7 @@ HDS 8.0/32 Ef ST NG,hds_ef_st_ng_32_8,default,simple,,HDS 8.0/32 Ef ST NG,,1.109
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 8.0/32 Ef ST NG,11995,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 8.0/32 Eh ST NG,hds_eh_st_ng_32_8,default,simple,,HDS 8.0/32 Eh ST NG,,1.109-751.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3379,7 +3379,7 @@ HDS 8.0/32 Eh ST NG,hds_eh_st_ng_32_8,default,simple,,HDS 8.0/32 Eh ST NG,,1.109
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 8.0/32 Eh ST NG,11995,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 9.5/30 Eb ST NG,hds_eb_st_ng_30_95,default,simple,,HDS 9.5/30 Eb ST NG,,1.109-752.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3404,7 +3404,7 @@ HDS 9.5/30 Eb ST NG,hds_eb_st_ng_30_95,default,simple,,HDS 9.5/30 Eb ST NG,,1.10
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 9.5/30 Eb ST NG,12795,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 9.5/30 Ec ST NG,hds_30_ec_st_ng,default,simple,,HDS 9.5/30 Ec ST NG,,1.109-753.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3429,7 +3429,7 @@ HDS 9.5/30 Ec ST NG,hds_30_ec_st_ng,default,simple,,HDS 9.5/30 Ec ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 9.5/30 Ec ST NG,12795,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 9.5/30 Ef ST NG,hds_30_ef_st_ng,default,simple,,HDS 9.5/30 Ef ST NG,,1.109-754.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3454,7 +3454,7 @@ HDS 9.5/30 Ef ST NG,hds_30_ef_st_ng,default,simple,,HDS 9.5/30 Ef ST NG,,1.109-7
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 9.5/30 Ef ST NG,12995,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 9.5/30 Eh ST NG,hds_eh_st_ng_30_95,default,simple,,HDS 9.5/30 Eh ST NG,,1.109-755.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3479,7 +3479,7 @@ HDS 9.5/30 Eh ST NG,hds_eh_st_ng_30_95,default,simple,,HDS 9.5/30 Eh ST NG,,1.10
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 9.5/30 Eh ST NG,12995,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 6.3/32 Eb ST LP,hds_eb_st_lp_32_63,default,simple,,HDS 6.3/32 Eb ST LP,,1.109-785.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3504,7 +3504,7 @@ HDS 6.3/32 Eb ST LP,hds_eb_st_lp_32_63,default,simple,,HDS 6.3/32 Eb ST LP,,1.10
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 6.3/32 Eb ST LP,10295,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 6.3/32 Ec ST LP,hds_ec_st_lp_32_63,default,simple,,HDS 6.3/32 Ec ST LP,,1.109-786.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3529,7 +3529,7 @@ HDS 6.3/32 Ec ST LP,hds_ec_st_lp_32_63,default,simple,,HDS 6.3/32 Ec ST LP,,1.10
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 6.3/32 Ec ST LP,10295,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 6.3/32 Ef ST LP,hds_ef_st_lp_32_63,default,simple,,HDS 6.3/32 Ef ST LP,,1.109-787.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3554,7 +3554,7 @@ HDS 6.3/32 Ef ST LP,hds_ef_st_lp_32_63,default,simple,,HDS 6.3/32 Ef ST LP,,1.10
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 6.3/32 Ef ST LP,10495,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 6.3/32 Eh ST LP,hds_eh_st_lp_32_63,default,simple,,HDS 6.3/32 Eh ST LP,,1.109-788.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3579,7 +3579,7 @@ HDS 6.3/32 Eh ST LP,hds_eh_st_lp_32_63,default,simple,,HDS 6.3/32 Eh ST LP,,1.10
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 6.3/32 Eh ST LP,10495,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 8.0/32 Eb ST LP,hds_eb_st_lp_32_8,default,simple,,HDS 8.0/32 Eb ST LP,,1.109-789.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3604,7 +3604,7 @@ HDS 8.0/32 Eb ST LP,hds_eb_st_lp_32_8,default,simple,,HDS 8.0/32 Eb ST LP,,1.109
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 8.0/32 Eb ST LP,11895,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 8.0/32 Ec ST LP,hds_ec_st_lp_32_8,default,simple,,HDS 8.0/32 Ec ST LP,,1.109-790.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3629,7 +3629,7 @@ HDS 8.0/32 Ec ST LP,hds_ec_st_lp_32_8,default,simple,,HDS 8.0/32 Ec ST LP,,1.109
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 8.0/32 Ec ST LP,11895,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 8.0/32 Ef ST LP,hds_ef_st_lp_32_8,default,simple,,HDS 8.0/32 Ef ST LP,,1.109-791.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3654,7 +3654,7 @@ HDS 8.0/32 Ef ST LP,hds_ef_st_lp_32_8,default,simple,,HDS 8.0/32 Ef ST LP,,1.109
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 8.0/32 Ef ST LP,11995,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 8.0/32 Eh ST LP,hds_eh_st_lp_32_8,default,simple,,HDS 8.0/32 Eh ST LP,,1.109-792.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3679,7 +3679,7 @@ HDS 8.0/32 Eh ST LP,hds_eh_st_lp_32_8,default,simple,,HDS 8.0/32 Eh ST LP,,1.109
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 8.0/32 Eh ST LP,11995,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 9.5/30 Eb ST LP,hds_eb_st_lp_30_95,default,simple,,HDS 9.5/30 Eb ST LP,,1.109-793.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3704,7 +3704,7 @@ HDS 9.5/30 Eb ST LP,hds_eb_st_lp_30_95,default,simple,,HDS 9.5/30 Eb ST LP,,1.10
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 9.5/30 Eb ST LP,12795,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 9.5/30 Ec ST LP,hds_ec_st_lp_30_95,default,simple,,HDS 9.5/30 Ec ST LP,,1.109-794.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3729,7 +3729,7 @@ HDS 9.5/30 Ec ST LP,hds_ec_st_lp_30_95,default,simple,,HDS 9.5/30 Ec ST LP,,1.10
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 9.5/30 Ec ST LP,12795,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 9.5/30 Ef ST LP,hds_ef_st_lp_30_95,default,simple,,HDS 9.5/30 Ef ST LP,,1.109-795.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3754,7 +3754,7 @@ HDS 9.5/30 Ef ST LP,hds_ef_st_lp_30_95,default,simple,,HDS 9.5/30 Ef ST LP,,1.10
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 9.5/30 Ef ST LP,12995,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 9.5/30 Eh ST LP,hds_eh_st_lp_30_95,default,simple,,HDS 9.5/30 Eh ST LP,,1.109-796.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3779,7 +3779,7 @@ HDS 9.5/30 Eh ST LP,hds_eh_st_lp_30_95,default,simple,,HDS 9.5/30 Eh ST LP,,1.10
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 9.5/30 Eh ST LP,12995,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 3.9/20 Ea,hds_ea_20,default,simple,,HDS 3.9/20 Ea,,1.575-505.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3804,7 +3804,7 @@ HDS 3.9/20 Ea,hds_ea_20,default,simple,,HDS 3.9/20 Ea,,1.575-505.0,Equipment,"Pr
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
+",,,"5, 9",HDS 3.9/20 Ea,6468,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,NG_Classic-01 (23).jpg,Liberty NG or LP Cabinet 2-01.jpg;Liberty NG or LP Cabinet 4-01.jpg
 HDS 3.5/30 Ea,hds_ea_30,default,simple,,HDS 3.5/30 Ea,,1.575-508.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3829,7 +3829,7 @@ HDS 3.5/30 Ea,hds_ea_30,default,simple,,HDS 3.5/30 Ea,,1.575-508.0,Equipment,"Pr
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-505.0_HDS_39-20_Ea-01.jpg,1.575-505.0_HDS_39-20_Ea-01.jpg,1.575-505.0_HDS_39-20_Ea-01.jpg,
+",,,"5, 9",HDS 3.5/30 Ea,7079,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-505.0_HDS_39-20_Ea-01.jpg,1.575-505.0_HDS_39-20_Ea-01.jpg,1.575-505.0_HDS_39-20_Ea-01.jpg,
 HDS 3.5/30 Eb,hds_eb_30,default,simple,,HDS 3.5/30 Eb,,1.575-509.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3854,7 +3854,7 @@ HDS 3.5/30 Eb,hds_eb_30,default,simple,,HDS 3.5/30 Eb,,1.575-509.0,Equipment,"Pr
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-505.0_HDS_39-20_Ea-01.jpg,1.575-505.0_HDS_39-20_Ea-01.jpg,1.575-505.0_HDS_39-20_Ea-01.jpg,
+",,,"5, 9",HDS 3.5/30 Eb,7009,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-505.0_HDS_39-20_Ea-01.jpg,1.575-505.0_HDS_39-20_Ea-01.jpg,1.575-505.0_HDS_39-20_Ea-01.jpg,
 HDS 3.5/30 Ec,hds_ec_30,default,simple,,HDS 3.5/30 Ec,,1.575-510.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3879,7 +3879,7 @@ HDS 3.5/30 Ec,hds_ec_30,default,simple,,HDS 3.5/30 Ec,,1.575-510.0,Equipment,"Pr
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-505.0_HDS_39-20_Ea-01.jpg,1.575-505.0_HDS_39-20_Ea-01.jpg,1.575-505.0_HDS_39-20_Ea-01.jpg,
+",,,"5, 9",HDS 3.5/30 Ec,7009,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-505.0_HDS_39-20_Ea-01.jpg,1.575-505.0_HDS_39-20_Ea-01.jpg,1.575-505.0_HDS_39-20_Ea-01.jpg,
 HDS 3.9/30 Pe Cage,hds_pe_cage_30_39,default,simple,,HDS 3.9/30 Pe Cage,,1.575-600.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3904,7 +3904,7 @@ HDS 3.9/30 Pe Cage,hds_pe_cage_30_39,default,simple,,HDS 3.9/30 Pe Cage,,1.575-6
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-505.0_HDS_39-20_Ea-01.jpg,1.575-505.0_HDS_39-20_Ea-01.jpg,1.575-505.0_HDS_39-20_Ea-01.jpg,
+",,,"5, 9",HDS 3.9/30 Pe Cage,8174,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-505.0_HDS_39-20_Ea-01.jpg,1.575-505.0_HDS_39-20_Ea-01.jpg,1.575-505.0_HDS_39-20_Ea-01.jpg,
 HDS 4.8/30 Pe Cage,hds_pe_cage_30_48,default,simple,,HDS 4.8/30 Pe Cage,,1.575-601.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3929,7 +3929,7 @@ HDS 4.8/30 Pe Cage,hds_pe_cage_30_48,default,simple,,HDS 4.8/30 Pe Cage,,1.575-6
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,
+",,,"5, 9",HDS 4.8/30 Pe Cage,8830,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,
 HDS 4.8/30 Pe Cage,hds_pe_cage_30_49,default,simple,,HDS 4.8/30 Pe Cage,,1.575-602.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3954,7 +3954,7 @@ HDS 4.8/30 Pe Cage,hds_pe_cage_30_49,default,simple,,HDS 4.8/30 Pe Cage,,1.575-6
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,
+",,,"5, 9",HDS 4.8/30 Pe Cage,9743,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,
 HDS 4.7/35 Pe Cage,hds_35_pe_cage__47_1,default,simple,,HDS 4.7/35 Pe Cage,,1.575-603.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -3979,7 +3979,7 @@ HDS 4.7/35 Pe Cage,hds_35_pe_cage__47_1,default,simple,,HDS 4.7/35 Pe Cage,,1.57
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,
+",,,"5, 9",HDS 4.7/35 Pe Cage,9661,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,
 HDS 4.7/35 Pe Cage,hds_35_pe_cage__47_2,default,simple,,HDS 4.7/35 Pe Cage,,1.575-604.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -4004,7 +4004,7 @@ HDS 4.7/35 Pe Cage,hds_35_pe_cage__47_2,default,simple,,HDS 4.7/35 Pe Cage,,1.57
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,
+",,,"5, 9",HDS 4.7/35 Pe Cage,10860,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,
 HDS 5.6/35 Pe Cage,hds_35_pe_cage_56_1,default,simple,,HDS 5.6/35 Pe Cage,,1.575-605.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -4029,7 +4029,7 @@ HDS 5.6/35 Pe Cage,hds_35_pe_cage_56_1,default,simple,,HDS 5.6/35 Pe Cage,,1.575
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,
+",,,"5, 9",HDS 5.6/35 Pe Cage,10609,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,
 HDS 5.6/35 Pe Cage,hds_35_pe_cage_56_2,default,simple,,HDS 5.6/35 Pe Cage,,1.575-606.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -4054,7 +4054,7 @@ HDS 5.6/35 Pe Cage,hds_35_pe_cage_56_2,default,simple,,HDS 5.6/35 Pe Cage,,1.575
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,
+",,,"5, 9",HDS 5.6/35 Pe Cage,11577,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,
 HDS 5.6/35 De Cage,hds_35_pe_cage_56_3,default,simple,,HDS 5.6/35 De Cage,,1.575-609.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -4079,7 +4079,7 @@ HDS 5.6/35 De Cage,hds_35_pe_cage_56_3,default,simple,,HDS 5.6/35 De Cage,,1.575
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,
+",,,"5, 9",HDS 5.6/35 De Cage,17595,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,
 HDS 5.6/35 De Cage,hds_35_pe_cage_56_4,default,simple,,HDS 5.6/35 De Cage,,1.575-610.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -4105,7 +4105,7 @@ KDW1003",,,,,,,,120V AC,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,http://drive.google.com/
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,
+",,,"5, 9",HDS 5.6/35 De Cage,17984,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,
 HDS 4.0/20 E Ec,hds_e_ec_20,default,simple,,HDS 4.0/20 E Ec,,1.109-075.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -4130,7 +4130,7 @@ HDS 4.0/20 E Ec,hds_e_ec_20,default,simple,,HDS 4.0/20 E Ec,,1.109-075.0,Equipme
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,
+",,,"5, 9",HDS 4.0/20 E Ec,9199,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,1.575-601.0_HDS_48-30_Pe_Cage-01.jpg,
 HDS 4.0/30 E Ec,hds_e_ec_30,default,simple,,HDS 4.0/30 E Ec,,1.109-076.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -4155,7 +4155,7 @@ HDS 4.0/30 E Ec,hds_e_ec_30,default,simple,,HDS 4.0/30 E Ec,,1.109-076.0,Equipme
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.109-075.0_HDS_40-20_E_Ec-01.jpg,1.109-075.0_HDS_40-20_E_Ec-01.jpg,1.109-075.0_HDS_40-20_E_Ec-01.jpg,
+",,,"5, 9",HDS 4.0/30 E Ec,9599,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.109-075.0_HDS_40-20_E_Ec-01.jpg,1.109-075.0_HDS_40-20_E_Ec-01.jpg,1.109-075.0_HDS_40-20_E_Ec-01.jpg,
 HDS 4.0/32 Pe Cage,hds_pe_cage_32,default,simple,,HDS 4.0/32 Pe Cage,,1.575-615.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -4181,7 +4181,7 @@ HDS 4.0/32 Pe Cage,hds_pe_cage_32,default,simple,,HDS 4.0/32 Pe Cage,,1.575-615.
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.109-075.0_HDS_40-20_E_Ec-01.jpg,1.109-075.0_HDS_40-20_E_Ec-01.jpg,1.109-075.0_HDS_40-20_E_Ec-01.jpg,
+",,,"5, 9",HDS 4.0/32 Pe Cage,10301,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.109-075.0_HDS_40-20_E_Ec-01.jpg,1.109-075.0_HDS_40-20_E_Ec-01.jpg,1.109-075.0_HDS_40-20_E_Ec-01.jpg,
 HDS 5.0/32 PE Cage,hds_pe_cage_32_5,default,simple,,HDS 5.0/32 PE Cage,,1.575-616.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -4207,7 +4207,7 @@ HDS 5.0/32 PE Cage,hds_pe_cage_32_5,default,simple,,HDS 5.0/32 PE Cage,,1.575-61
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-615.0_HDS_4.0-32_Pe_Cage-01.jpg,1.575-615.0_HDS_4.0-32_Pe_Cage-01.jpg,1.575-615.0_HDS_4.0-32_Pe_Cage-01.jpg,
+",,,"5, 9",HDS 5.0/32 PE Cage,10661,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-615.0_HDS_4.0-32_Pe_Cage-01.jpg,1.575-615.0_HDS_4.0-32_Pe_Cage-01.jpg,1.575-615.0_HDS_4.0-32_Pe_Cage-01.jpg,
 HDS 5.5/35 Pe Cage,hds_pe_cage_35_55,default,simple,,HDS 5.5/35 Pe Cage,,1.575-617.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -4233,7 +4233,7 @@ HDS 5.5/35 Pe Cage,hds_pe_cage_35_55,default,simple,,HDS 5.5/35 Pe Cage,,1.575-6
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-615.0_HDS_4.0-32_Pe_Cage-01.jpg,1.575-615.0_HDS_4.0-32_Pe_Cage-01.jpg,1.575-615.0_HDS_4.0-32_Pe_Cage-01.jpg,
+",,,"5, 9",HDS 5.5/35 Pe Cage,11402,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-615.0_HDS_4.0-32_Pe_Cage-01.jpg,1.575-615.0_HDS_4.0-32_Pe_Cage-01.jpg,1.575-615.0_HDS_4.0-32_Pe_Cage-01.jpg,
 HDS 4.5/22 Ea ST NG,hds_ea_st_ng_22_45,default,simple,,HDS 4.5/22 Ea ST NG,,1.109-722.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -4260,7 +4260,7 @@ HDS 4.5/22 Ea ST NG,hds_ea_st_ng_22_45,default,simple,,HDS 4.5/22 Ea ST NG,,1.10
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-615.0_HDS_4.0-32_Pe_Cage-01.jpg,1.575-615.0_HDS_4.0-32_Pe_Cage-01.jpg,1.575-615.0_HDS_4.0-32_Pe_Cage-01.jpg,
+",,,"5, 9",HDS 4.5/22 Ea ST NG,8665,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,1.575-615.0_HDS_4.0-32_Pe_Cage-01.jpg,1.575-615.0_HDS_4.0-32_Pe_Cage-01.jpg,1.575-615.0_HDS_4.0-32_Pe_Cage-01.jpg,
 HDS 3.5/30 Ek ST NG,hds_ek_st_ng_30_35,default,simple,,HDS 3.5/30 Ek ST NG,,1.109-729.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -4287,7 +4287,7 @@ HDS 3.5/30 Ek ST NG,hds_ek_st_ng_30_35,default,simple,,HDS 3.5/30 Ek ST NG,,1.10
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,
+",,,"5, 9",HDS 3.5/30 Ek ST NG,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,
 HDS 5.0/30 En ST NG,hds_en_st_ng_30_5,default,simple,,HDS 5.0/30 En ST NG,,1.109-742.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -4314,7 +4314,7 @@ HDS 5.0/30 En ST NG,hds_en_st_ng_30_5,default,simple,,HDS 5.0/30 En ST NG,,1.109
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,
+",,,"5, 9",HDS 5.0/30 En ST NG,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,
 HDS 5.0/30 Ek St NG,hds_ek_st_ng_30_5,default,simple,,HDS 5.0/30 Ek St NG,,1.109-743.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -4341,7 +4341,7 @@ HDS 5.0/30 Ek St NG,hds_ek_st_ng_30_5,default,simple,,HDS 5.0/30 Ek St NG,,1.109
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,
+",,,"5, 9",HDS 5.0/30 Ek St NG,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,
 HDS 4.5/22 Ea ST LP,hds_ea_st_lp_22_45,default,simple,,HDS 4.5/22 Ea ST LP,,1.109-763.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -4368,7 +4368,7 @@ HDS 4.5/22 Ea ST LP,hds_ea_st_lp_22_45,default,simple,,HDS 4.5/22 Ea ST LP,,1.10
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,
+",,,"5, 9",HDS 4.5/22 Ea ST LP,8707,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,
 HDS 3.5/30 Ek ST LP,hds_ek_st_lp_30_35,default,simple,,HDS 3.5/30 Ek ST LP,,1.109-770.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -4394,7 +4394,7 @@ HDS 3.5/30 Ek ST LP,hds_ek_st_lp_30_35,default,simple,,HDS 3.5/30 Ek ST LP,,1.10
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,
+",,,"5, 9",HDS 3.5/30 Ek ST LP,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,
 HDS 5.0/30 En ST LP,hds_en_st_lp_30_5,default,simple,,HDS 5.0/30 En ST LP,,1.109-783.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -4420,7 +4420,7 @@ HDS 5.0/30 En ST LP,hds_en_st_lp_30_5,default,simple,,HDS 5.0/30 En ST LP,,1.109
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,
+",,,"5, 9",HDS 5.0/30 En ST LP,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,
 HDS 5.0/30 Ek St LP,hds_ek_st_lp_30_5,default,simple,,HDS 5.0/30 Ek St LP,,1.109-784.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -4446,7 +4446,7 @@ HDS 5.0/30 Ek St LP,hds_ek_st_lp_30_5,default,simple,,HDS 5.0/30 Ek St LP,,1.109
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,
+",,,"5, 9",HDS 5.0/30 Ek St LP,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,
 HDS 801E,hds_801e,default,simple,,HDS 801E,,1.030-701.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -4472,7 +4472,7 @@ HDS 801E,hds_801e,default,simple,,HDS 801E,,1.030-701.0,Equipment,"Pressure Wash
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,
+",,,"5, 9",HDS 801E,9123,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,NG_Classic-01 (25).jpg,
 HDS-E 3.3/25-4M Ec,hds_e_25_ec,default,simple,,HDS-E 3.3/25-4M Ec,,1.030-252.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Hot Water Pressure Washer
@@ -4497,7 +4497,7 @@ HDS-E 3.3/25-4M Ec,hds_e_25_ec,default,simple,,HDS-E 3.3/25-4M Ec,,1.030-252.0,E
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Classic HDS 801E Elec-01.jpg,Classic HDS 801E Elec-01.jpg,Classic HDS 801E Elec-01.jpg,
+",,,"5, 9",HDS-E 3.3/25-4M Ec,9078,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Classic HDS 801E Elec-01.jpg,Classic HDS 801E Elec-01.jpg,Classic HDS 801E Elec-01.jpg,
 Heater 5.0/30 Ed,heater_30_ed,default,simple,,Heater 5.0/30 Ed,,1.575-650.0,Accessories,"Accessories
 ","
 ",Karcher,"Accessory
@@ -4523,7 +4523,7 @@ Heater 5.0/30 Ed,heater_30_ed,default,simple,,Heater 5.0/30 Ed,,1.575-650.0,Acce
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,10302520_std_1-57940-CMYK-01.jpg,10302520_std_1-57940-CMYK-01.jpg,10302520_std_1-57940-CMYK-01.jpg,
+",,,"5, 9",Heater 5.0/30 Ed,3659,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,10302520_std_1-57940-CMYK-01.jpg,10302520_std_1-57940-CMYK-01.jpg,10302520_std_1-57940-CMYK-01.jpg,
 iSolar 400,isolar_400,default,simple,,iSolar 400,,6.368-457.0,Accessories,"Accessories
 ","
 ",Karcher,"Accessory
@@ -4549,7 +4549,7 @@ iSolar 400,isolar_400,default,simple,,iSolar 400,,6.368-457.0,Accessories,"Acces
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Heater5.0-30ed-M-0410-sm-01.jpg,Heater5.0-30ed-M-0410-sm-01.jpg,Heater5.0-30ed-M-0410-sm-01.jpg,
+",,,"5, 9",iSolar 400,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,Heater5.0-30ed-M-0410-sm-01.jpg,Heater5.0-30ed-M-0410-sm-01.jpg,Heater5.0-30ed-M-0410-sm-01.jpg,
 iSolar 800,isolar_800,default,simple,,iSolar 800,,6.368-455.0,Accessories,"Accessories
 ","
 ",Karcher,"Accessory
@@ -4575,7 +4575,7 @@ iSolar 800,isolar_800,default,simple,,iSolar 800,,6.368-455.0,Accessories,"Acces
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"iSolar-TL-7-H,-TL-10-C,-iSolar-TL-14-C-Main.jpg","iSolar-TL-7-H,-TL-10-C,-iSolar-TL-14-C-Main.jpg","iSolar-TL-7-H,-TL-10-C,-iSolar-TL-14-C-Main.jpg",
+",,,"5, 9",iSolar 800,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"iSolar-TL-7-H,-TL-10-C,-iSolar-TL-14-C-Main.jpg","iSolar-TL-7-H,-TL-10-C,-iSolar-TL-14-C-Main.jpg","iSolar-TL-7-H,-TL-10-C,-iSolar-TL-14-C-Main.jpg",
 Safety Kit,safety_kit,default,simple,,Safety Kit,,6.988-152.0,Accessories,"Accessories
 ","
 ",Karcher,"Accessory
@@ -4601,7 +4601,7 @@ Safety Kit,safety_kit,default,simple,,Safety Kit,,6.988-152.0,Accessories,"Acces
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"iSolar-TL-7-H,-TL-10-C,-iSolar-TL-14-C-Main.jpg","iSolar-TL-7-H,-TL-10-C,-iSolar-TL-14-C-Main.jpg","iSolar-TL-7-H,-TL-10-C,-iSolar-TL-14-C-Main.jpg",
+",,,"5, 9",Safety Kit,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"iSolar-TL-7-H,-TL-10-C,-iSolar-TL-14-C-Main.jpg","iSolar-TL-7-H,-TL-10-C,-iSolar-TL-14-C-Main.jpg","iSolar-TL-7-H,-TL-10-C,-iSolar-TL-14-C-Main.jpg",
 iSolar TL 7 H,isolar_tl_7_h,default,simple,,iSolar TL 7 H,,4.107-054.0,Accessories,"Accessories
 ","
 ",Karcher,"Accessory
@@ -4627,7 +4627,7 @@ iSolar TL 7 H,isolar_tl_7_h,default,simple,,iSolar TL 7 H,,4.107-054.0,Accessori
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"iSolar-TL-7-H,-TL-10-C,-iSolar-TL-14-C-3.jpg","iSolar-TL-7-H,-TL-10-C,-iSolar-TL-14-C-3.jpg","iSolar-TL-7-H,-TL-10-C,-iSolar-TL-14-C-3.jpg",
+",,,"5, 9",iSolar TL 7 H,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,"iSolar-TL-7-H,-TL-10-C,-iSolar-TL-14-C-3.jpg","iSolar-TL-7-H,-TL-10-C,-iSolar-TL-14-C-3.jpg","iSolar-TL-7-H,-TL-10-C,-iSolar-TL-14-C-3.jpg",
 TL 10 C,tl_10_c,default,simple,,TL 10 C,,4.107-055.0,Accessories,"Accessories
 ","
 ",Karcher,"Accessory
@@ -4653,7 +4653,7 @@ TL 10 C,tl_10_c,default,simple,,TL 10 C,,4.107-055.0,Accessories,"Accessories
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,,,,
+",,,"5, 9",TL 10 C,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,,,,
 iSolar TL 14 C,isolar_tl_14_c,default,simple,,iSolar TL 14 C,,4.107-052.0,Accessories,"Accessories
 ","
 ",Karcher,"Accessory
@@ -4679,7 +4679,7 @@ iSolar TL 14 C,isolar_tl_14_c,default,simple,,iSolar TL 14 C,,4.107-052.0,Access
 ","
 ","
 ","
-",,,"5, 9",6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,,,,
+",,,"5, 9",iSolar TL 14 C,6000,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,,,,
 TRK-2500,trk_2500,default,simple,,TRK-2500,,1.103-819.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Pressure Washer Trailers 
@@ -4702,7 +4702,7 @@ TRK-2500,trk_2500,default,simple,,TRK-2500,,1.103-819.0,Equipment,"Pressure Wash
 ","
 ","
 ","
-",,,"5, 9",5988,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,,,,
+",,,"5, 9",TRK-2500,5089,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,,,,
 TRK-6000,trk_6000,default,simple,,TRK-6000,,1.103-807.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Pressure Washer Trailers 
@@ -4720,7 +4720,7 @@ TRK-6000,trk_6000,default,simple,,TRK-6000,,1.103-807.0,Equipment,"Pressure Wash
 ","
 ","
 ",,"1.575-600.0, 1.575-601.0, 1.575-602.0, 1.575-603.0, 1.575-604.0, 1.575-605.0, 1.575-606.0, 1.575-609.0, 1.575-610.0",8.904-051.0,"8.902-437.0, 8.902-440.0, 8.707-532.0, 8.707-506.0, 8.902-445.0, 8.902-436.0, 8.707-531.0, 8.902-438.0, 8.902-441.0, 8.902-452.0, 8.707-532.0, 8.707-534.0, 8.902-446.0, 8.902-451.0, 8.902-453.0, 8.707-531.0",8.912-409.0,8.915-156.0,"8.902-447.0, 8.902-448.0, 8.902-449.0",8.902-469.0,"8.902-466.0, 8.902-467.0, 8.902-468.0","
-",,,"5, 9",8950,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,,,,
+",,,"5, 9",TRK-6000,8950,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,,,,
 TRK-3500,trk_3500,default,simple,,TRK-3500,,1.103-806.0,Equipment,"Pressure Washing Equipment
 ","
 ",Karcher,"Pressure Washer Trailers 
@@ -4738,4 +4738,4 @@ TRK-3500,trk_3500,default,simple,,TRK-3500,,1.103-806.0,Equipment,"Pressure Wash
 ","
 ","
 ",,"1.575-600.0, 1.575-601.0, 1.575-602.0, 1.575-603.0, 1.575-604.0, 1.575-605.0, 1.575-606.0, 1.575-609.0, 1.575-610.0",8.904-051.0,"8.902-437.0, 8.902-440.0, 8.707-532.0, 8.707-506.0, 8.902-445.0, 8.902-436.0, 8.707-531.0, 8.902-438.0, 8.902-441.0, 8.902-452.0, 8.707-532.0, 8.707-534.0, 8.902-446.0, 8.902-451.0, 8.902-453.0, 8.707-531.0",8.912-409.0,8.915-156.0,"8.902-447.0, 8.902-448.0, 8.902-449.0",8.902-469.0,"8.902-466.0, 8.902-467.0, 8.902-468.0","
-",,,"5, 9",6109,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,,,,
+",,,"5, 9",TRK-3500,6109,Pressure Washing Equipment,Pressure Washing Equipment,1000,1,1,4,,,,
