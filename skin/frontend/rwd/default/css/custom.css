@@ -120,6 +120,9 @@ h3, .h3 {
     padding: 150px 30px;
     background-color: rgba(62, 61, 68, 0.5);
 }
+.main_banner a .left_overlay {
+    left: 0;
+}
 .main_banner .small_heading {
     font-size: 28px;
     display: block;
@@ -1238,4 +1241,10 @@ h2.product-name a, h3.product-name a, h4.product-name a, h5.product-name a, p.pr
 }
 .opc-block-progress dt.complete a {
     font-size: 11px;
+}
+.category-home-and-garden .breadcrumbs {
+    display: none;
+}
+.category-home-and-garden .page-title {
+    display: none;
 }

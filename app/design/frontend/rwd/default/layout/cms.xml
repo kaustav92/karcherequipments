@@ -75,7 +75,7 @@ Default layout, loads most of the pages
 
     <cms_index_index translate="label">
         <label>CMS Home Page</label>
-        <block type="core/template" name="page_content_heading" template="cms/home_content.phtml"/>
+        <block type="core/template" name="page_content_heading" template="cms/landing_page.phtml"/>
     </cms_index_index>
 
     <cms_index_defaultindex>
