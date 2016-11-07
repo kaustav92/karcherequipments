@@ -157,6 +157,20 @@ h3, .h3 {
     background-color: rgba(254,236,1,0.5);
     color: #fff;
 }
+.overlay_yellow_landing {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    font-weight: 700;
+    font-size: 30px;
+    width: 35%;
+    font-family: 'Oswald', sans-serif;
+    height: 100%;
+    padding: 125px 20px;
+    background-color: rgba(254,236,1,0.5);
+    color: #464646;
+}
 .overlay_brown {
     position: absolute;
     bottom: 0;
@@ -184,6 +198,20 @@ h3, .h3 {
     background-color: rgba(116, 151, 179, 0.5);
     color: #fff;
 }
+.overlay_carpet {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    font-weight: 700;
+    font-size: 30px;
+    width: 50%;
+    font-family: 'Oswald', sans-serif;
+    height: 100%;
+    padding: 170px 20px;
+    background-color: rgba(116, 151, 179, 0.5);
+    color: #fff;
+}
 .overlay_green_light {
     position: absolute;
     right: 0;
@@ -196,6 +224,65 @@ h3, .h3 {
     font-family: 'Oswald', sans-serif;
     height: 100%;
     padding: 170px 20px;
+    color: #fff;
+}
+.overlay_black_left {
+    position: absolute;
+    left: 0;
+    background-color: rgba(28, 28, 28, 0.6);
+    top: 0;
+    height: 100%;
+    font-weight: 700;
+    font-size: 30px;
+    width: 50%;
+    font-family: 'Oswald', sans-serif;
+    height: 100%;
+    padding: 170px 20px;
+    color: #fff;
+}
+.overlay_small {
+    padding: 85px 20px;
+}
+.overlay_black_right {
+    position: absolute;
+    right: 0;
+    background-color: rgba(28, 28, 28, 0.6);
+    top: 0;
+    height: 100%;
+    font-weight: 700;
+    font-size: 30px;
+    width: 50%;
+    font-family: 'Oswald', sans-serif;
+    height: 100%;
+    padding: 35px 15px;
+    color: #fff;
+}
+.overlay_brown_left {
+    position: absolute;
+    left: 0;
+    background-color: rgba(76, 70, 74, 0.6);
+    top: 0;
+    height: 100%;
+    font-weight: 700;
+    font-size: 30px;
+    width: 50%;
+    font-family: 'Oswald', sans-serif;
+    height: 100%;
+    padding: 85px 20px;
+    color: #fff;
+}
+.overlay_brown_right {
+    position: absolute;
+    right: 0;
+    background-color: rgba(76, 70, 74, 0.6);
+    top: 0;
+    height: 100%;
+    font-weight: 700;
+    font-size: 30px;
+    width: 50%;
+    font-family: 'Oswald', sans-serif;
+    height: 100%;
+    padding: 85px 20px;
     color: #fff;
 }
 .overlay_violet {
@@ -1261,4 +1348,7 @@ h2.product-name a, h3.product-name a, h4.product-name a, h5.product-name a, p.pr
 }
 .category-home-and-garden .page-title {
     display: none;
+}
+.category-professional .breadcrumbs , .category-professional .page-title{
+  display: none;
 }
