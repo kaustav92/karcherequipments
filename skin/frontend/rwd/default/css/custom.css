@@ -153,7 +153,7 @@ h3, .h3 {
     width: 35%;
     font-family: 'Oswald', sans-serif;
     height: 100%;
-    padding: 135px 20px;
+    padding: 170px 20px;
     background-color: rgba(254,236,1,0.5);
     color: #fff;
 }
@@ -172,7 +172,7 @@ h3, .h3 {
 }
 .overlay_blue {
     position: absolute;
-    right: 0;
+    left: 0;
     top: 0;
     height: 100%;
     font-weight: 700;
@@ -180,8 +180,22 @@ h3, .h3 {
     width: 50%;
     font-family: 'Oswald', sans-serif;
     height: 100%;
-    padding: 135px 20px;
+    padding: 170px 20px;
     background-color: rgba(116, 151, 179, 0.5);
+    color: #fff;
+}
+.overlay_green_light {
+    position: absolute;
+    right: 0;
+    background-color: rgba(129, 170, 94, 0.65);
+    top: 0;
+    height: 100%;
+    font-weight: 700;
+    font-size: 30px;
+    width: 50%;
+    font-family: 'Oswald', sans-serif;
+    height: 100%;
+    padding: 170px 20px;
     color: #fff;
 }
 .overlay_violet {
