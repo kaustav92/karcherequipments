@@ -1053,7 +1053,7 @@ h2.product-name a, h3.product-name a, h4.product-name a, h5.product-name a, p.pr
     width: 80%;
 
 }
-.toolbar-bottom {
+.toolbar_top {
     display: none;
 }
 .view-mode {
@@ -1386,4 +1386,18 @@ h2.product-name a, h3.product-name a, h4.product-name a, h5.product-name a, p.pr
 }
 textarea.form-control {
     max-width: 100%;
+}
+.pages .current, .pages .current:hover {
+    margin-top: 1px;
+    margin-right: 2px;
+}
+.pager li>a, .pager li>span {
+    display: inline-block;
+    padding: 0px 7px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    width: 30px;
+    height: 30px;
+    margin: 0px 2px;
 }
