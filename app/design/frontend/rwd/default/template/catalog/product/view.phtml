@@ -264,7 +264,10 @@
 <div class="col-sm-12 specificaton">
   <div class="row">
     <h3>Specification</h3>
-
+    <?php 
+      $diameter = $_helper->productAttribute($_product, nl2br($_product->getDiameter()), 'diameter_inches');
+      if($diameter != '') : 
+    ?>
     <div class="col-sm-3">
       <div class="specification_box">
         <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/diameter.svg">
@@ -272,7 +275,12 @@
       <div class="specification_features">Diameter</div>
       <div class="value_specification"><?php echo $_helper->productAttribute($_product, nl2br($_product->getDiameterInches()), 'diameter_inches') ?> inches</div>
     </div>
+    <?php endif; ?>
     
+    <?php 
+      $psi = $_helper->productAttribute($_product, nl2br($_product->getPsi()), 'psi');
+      if($psi != '') : 
+    ?>
     <div class="col-sm-3">
       <div class="specification_box">
         <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/working_pressure.svg">
@@ -280,7 +288,12 @@
       <div class="specification_features">Max. working pressure - PSI</div>
       <div class="value_specification"><?php echo $_helper->productAttribute($_product, nl2br($_product->getPsi()), 'psi') ?></div>
     </div>
+    <?php endif; ?>
 
+    <?php 
+      $water_flow_rate_gpm = $_helper->productAttribute($_product, nl2br($_product->getWaterFlowRateGpm()), 'water_flow_rate_gpm');
+      if($water_flow_rate_gpm != '') : 
+    ?>
     <div class="col-sm-3">
       <div class="specification_box">
         <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/flow_rate.svg">
@@ -288,7 +301,8 @@
       <div class="specification_features">Water Flow Rate - GPM</div>
       <div class="value_specification"><?php echo $_helper->productAttribute($_product, nl2br($_product->getWaterFlowRateGpm()), 'water_flow_rate_gpm') ?></div>
     </div>
-
+    <?php endif; ?>
+  
     <?php 
       $equipment_type = $_helper->productAttribute($_product, nl2br($_product->getEquipmentType()), 'equipment_type');
       if($equipment_type != '') : 
@@ -655,7 +669,7 @@
 <div class="col-sm-12 warranty">
   <div class="row">
     <h3>Warranty</h3>
-
+      <div class="row">
         <!-- WTY Type1 -->
         <?php 
           $wty_type_one = $_helper->productAttribute($_product, nl2br($_product->getWtyType1()), 'wty_type1');
@@ -663,7 +677,7 @@
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
-              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty1.svg">
+              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty.svg">
             </div>
             <div class="specskey">
               Wear items: check valves; chemical injectors; high pressure discharge hose; packings and seals on wet-end of pump; oil seals, lights, gaskets; trigger guns, & wands</div>
@@ -678,7 +692,7 @@
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
-              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty2.svg">
+              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty.svg">
             </div>
             <div class="specskey">Burners:  Fuel pumps, igniter, fuel solenoid coil, burner motor, gas valve</div>
             <div class="specsValue">Parts: 1 year Labor: 1 year</div>
@@ -692,13 +706,15 @@
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
-              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty3.svg">
+              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty.svg">
             </div>
             <div class="specskey">Chemical valves</div>
             <div class="specsValue">Parts: 1 year Labor: 1 year</div>
           </div>
         <?php endif; ?>
+        </div>
 
+        <div class="row">
 
         <!-- WTY Type4 -->
         <?php 
@@ -707,7 +723,7 @@
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
-              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty4.svg">
+              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty.svg">
             </div>
             <div class="specskey">Fabricated items: X-pert Series</div>
             <div class="specsValue">Parts: 3 years limited</div>
@@ -722,7 +738,7 @@
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
-              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty5.svg">
+              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty.svg">
             </div>
             <div class="specskey">Fabricated items: All Others (frames, handles, chassis, fuel tanks, float tanks, belt guards, etc.)</div>
             <div class="specsValue">Parts: 7 years Labor: 1 year</div>
@@ -737,14 +753,16 @@
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
-              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty6.svg">
+              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty.svg">
             </div>
             <div class="specskey">Pump:  Crankshaft, manifold, crankcase, bearings, connecting rods</div>
             <div class="specsValue">Parts: 7 years Labor: 1 year</div>
           </div>
         <?php endif; ?>
 
+        </div>
 
+        <div class="row">
         <!-- WTY Type7 -->
         <?php 
           $wty_type_seven = $_helper->productAttribute($_product, nl2br($_product->getWtyType7()), 'wty_type7');
@@ -752,7 +770,7 @@
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
-              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty7.svg">
+              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty.svg">
             </div>
             <div class="specskey">Pump, Axial: X-pert Series</div>
             <div class="specsValue">Parts: 1 years Labor: 1 year</div>
@@ -767,7 +785,7 @@
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
-              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty8.svg">
+              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty.svg">
             </div>
             <div class="specskey">Pump, Booster: 12v</div>
             <div class="specsValue">Parts: 1 years Labor: 1 year</div>
@@ -782,13 +800,15 @@
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
-              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty9.svg">
+              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty.svg">
             </div>
             <div class="specskey">Pump, Axial (all others)</div>
             <div class="specsValue">Parts: 1 years Labor: 1 year</div>
           </div>
         <?php endif; ?>
+        </div>
 
+        <div class="row">
 
         <!-- WTY Type10 -->
         <?php 
@@ -797,7 +817,7 @@
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
-              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty10.svg">
+              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty.svg">
             </div>
             <div class="specskey">Pulleys</div>
             <div class="specsValue">Parts: 1 years Labor: 1 year</div>
@@ -812,12 +832,12 @@
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
-              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty11.svg">
+              <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/wty.svg">
             </div>
             <div class="specskey">Unloaders</div>
           </div>
         <?php endif; ?>
-
+        </div>
    </div>
  </div>
 
