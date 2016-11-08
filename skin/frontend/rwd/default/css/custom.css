@@ -642,7 +642,6 @@ label {
 }
 .input-box input[type=text] {
     width: 100%;
-    height: 25px;
     border-radius: 2px;
 }
 .input-box input[type=tel] {
@@ -1351,4 +1350,40 @@ h2.product-name a, h3.product-name a, h4.product-name a, h5.product-name a, p.pr
 }
 .category-professional .breadcrumbs , .category-professional .page-title{
   display: none;
+}
+/** 
+ * Contact Us Page
+ */
+#contactForm {
+    padding-left: 0;
+}
+.contact_us_page .form-list .field {
+    margin-left: 0px;
+    width: 100%;
+    padding: 0;
+}
+.contact_us_page input[type=email] {
+    width: 100%;
+}
+.contact_us_page .form-list .wide {
+    width: 100%;
+    margin: 7px 0px;
+    padding: 0px;
+}
+.contacts-index-index .buttons-set {
+    margin-left: 0px;
+    float: left;
+    padding-left: 0px;
+}
+.contacts-index-index .col-main {
+    width: 100%;
+}
+.contact_us_page .buttons-set {
+    width: inherit;
+}
+.contact_us_page .buttons-set button.button {
+    margin-left: 0px;
+}
+textarea.form-control {
+    max-width: 100%;
 }
