@@ -216,14 +216,20 @@
       <div class="heading_features">Part Number</div>
       <div class="value_features"><?php echo $_helper->productAttribute($_product, nl2br($_product->getManufacturePartNumber()), 'manufacture_part_number') ?></div>
     </div>
-
+    
+     <!-- Product Brochure Url -->
+    <?php 
+      $product_brochure_url = $_helper->productAttribute($_product, nl2br($_product->getProductBrochureUrl()), 'product_brochure_url');
+      if($product_brochure_url != '') : 
+    ?>
     <div class="col-sm-3">
       <div class="circle">
-        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/nuts.svg">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/url_white.svg">
       </div>
-      <div class="heading_features">Product Type</div>
-      <div class="value_features"><?php echo $_helper->productAttribute($_product, nl2br($_product->getItemType()), 'item_type') ?></div>
+      <div class="heading_features">Product Brochure</div>
+      <div class="value_features"><a href="<?php echo $product_brochure_url ?>" target="_blanck">Click here to view PDF</a></div>
     </div>
+    <?php endif; ?>
 
     <!-- Equipment Video Url Section -->
     <?php 
@@ -609,17 +615,17 @@
 
     <!-- Product Brochure Url -->
     <?php 
-      $product_brochure_url = $_helper->productAttribute($_product, nl2br($_product->getProductBrochureUrl()), 'product_brochure_url');
-      if($product_brochure_url != '') : 
+      //$product_brochure_url = $_helper->productAttribute($_product, nl2br($_product->getProductBrochureUrl()), 'product_brochure_url');
+      //if($product_brochure_url != '') : 
     ?>
-      <div class="col-sm-3">
+      <!-- <div class="col-sm-3">
         <div class="specification_box">
-          <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/url.svg">
+          <img class="img-responsive" src="<?php //echo $this->getSkinUrl()?>images/icons/url.svg">
         </div>
         <div class="specification_features">Product Brochure Url</div>
-        <div class="value_specification"><a href="<?php echo $product_brochure_url ?>" target="_blanck">Click here to view PDF</a></div>
-      </div>
-    <?php endif; ?>
+        <div class="value_specification"><a href="<?php //echo $product_brochure_url ?>" target="_blanck">Click here to view PDF</a></div>
+      </div> -->
+    <?php //endif; ?>
   
     
     <!-- Warranty PDF -->
