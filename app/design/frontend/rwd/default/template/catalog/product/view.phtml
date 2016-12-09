@@ -208,7 +208,7 @@
       <div class="heading_features">Model No</div>
       <div class="value_features"><?php echo $_helper->productAttribute($_product, nl2br($_product->getModelNo()), 'model_no') ?></div>
     </div>
-    
+
     <div class="col-sm-3">
       <div class="circle">
         <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/manufacturepartnumber.svg">
@@ -216,11 +216,11 @@
       <div class="heading_features">Part Number</div>
       <div class="value_features"><?php echo $_helper->productAttribute($_product, nl2br($_product->getManufacturePartNumber()), 'manufacture_part_number') ?></div>
     </div>
-    
+
      <!-- Product Brochure Url -->
-    <?php 
+    <?php
       $product_brochure_url = $_helper->productAttribute($_product, nl2br($_product->getProductBrochureUrl()), 'product_brochure_url');
-      if($product_brochure_url != '') : 
+      if($product_brochure_url != '') :
     ?>
     <div class="col-sm-3">
       <div class="circle">
@@ -232,10 +232,10 @@
     <?php endif; ?>
 
     <!-- Equipment Video Url Section -->
-    <?php 
+    <?php
           $equipment_video_url = $_helper->productAttribute($_product, nl2br($_product->getEquipmentVideoUrl()), 'equipment_video_url');
-          if($equipment_video_url != '') : 
-    ?>              
+          if($equipment_video_url != '') :
+    ?>
         <div class="col-sm-3">
           <div class="circle">
             <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/camera.svg">
@@ -264,9 +264,9 @@
 <div class="col-sm-12 specificaton">
   <div class="row">
     <h3>Specification</h3>
-    <?php 
+    <?php
       $diameter = $_helper->productAttribute($_product, nl2br($_product->getDiameter()), 'diameter_inches');
-      if($diameter != '') : 
+      if($diameter != '') :
     ?>
     <div class="col-sm-3">
       <div class="specification_box">
@@ -276,10 +276,10 @@
       <div class="value_specification"><?php echo $_helper->productAttribute($_product, nl2br($_product->getDiameterInches()), 'diameter_inches') ?> inches</div>
     </div>
     <?php endif; ?>
-    
-    <?php 
+
+    <?php
       $psi = $_helper->productAttribute($_product, nl2br($_product->getPsi()), 'psi');
-      if($psi != '') : 
+      if($psi != '') :
     ?>
     <div class="col-sm-3">
       <div class="specification_box">
@@ -290,9 +290,9 @@
     </div>
     <?php endif; ?>
 
-    <?php 
+    <?php
       $water_flow_rate_gpm = $_helper->productAttribute($_product, nl2br($_product->getWaterFlowRateGpm()), 'water_flow_rate_gpm');
-      if($water_flow_rate_gpm != '') : 
+      if($water_flow_rate_gpm != '') :
     ?>
     <div class="col-sm-3">
       <div class="specification_box">
@@ -302,25 +302,26 @@
       <div class="value_specification"><?php echo $_helper->productAttribute($_product, nl2br($_product->getWaterFlowRateGpm()), 'water_flow_rate_gpm') ?></div>
     </div>
     <?php endif; ?>
-  
-    <?php 
+
+    <!-- Equiment Type -->
+    <?php
       $equipment_type = $_helper->productAttribute($_product, nl2br($_product->getEquipmentType()), 'equipment_type');
-      if($equipment_type != '') : 
+      if($equipment_type != '') :
     ?>
     <div class="col-sm-3">
       <div class="specification_box">
         <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/equipment_type.svg">
       </div>
       <div class="specification_features">Equipment Type</div>
-      <div class="value_specification"><?php echo $_helper->productAttribute($_product, nl2br($_product->getEquipmentType()), 'equipment_type') ?></div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('equipment_type'); ?></div>
     </div>
     <?php endif; ?>
-    
+
     <!-- Max. Temperature - in Fahrenheit -->
 
-    <?php 
+    <?php
       $max_temperature = $_helper->productAttribute($_product, nl2br($_product->getMaxTemperature()), 'max_temperature');
-      if($max_temperature != '') : 
+      if($max_temperature != '') :
     ?>
     <div class="col-sm-3">
       <div class="specification_box">
@@ -332,9 +333,9 @@
     <?php endif; ?>
 
     <!-- Power Type -->
-    <?php 
+    <?php
       $power_type = $_helper->productAttribute($_product, nl2br($_product->getPowerType()), 'power_type');
-      if($power_type != '') : 
+      if($power_type != '') :
     ?>
       <div class="col-sm-3">
         <div class="specification_box">
@@ -344,11 +345,11 @@
         <div class="value_specification"><?php echo $power_type ?></div>
       </div>
     <?php endif; ?>
-  
+
     <!-- Portable Or Stationary -->
-    <?php 
+    <?php
       $portable_or_stationary = $_helper->productAttribute($_product, nl2br($_product->getPortableOrStationary()), 'portable_or_stationary');
-      if($portable_or_stationary != '') : 
+      if($portable_or_stationary != '') :
     ?>
       <div class="col-sm-3">
         <div class="specification_box">
@@ -360,9 +361,9 @@
     <?php endif; ?>
 
     <!-- Heating Type -->
-    <?php 
+    <?php
       $heating_type = $_helper->productAttribute($_product, nl2br($_product->getHeatingType()), 'heating_type');
-      if($heating_type != '') : 
+      if($heating_type != '') :
     ?>
       <div class="col-sm-3">
         <div class="specification_box">
@@ -374,9 +375,9 @@
     <?php endif; ?>
 
     <!-- Ship Weight lbs. -->
-    <?php 
+    <?php
       $ship_weight_lbs = $_helper->productAttribute($_product, nl2br($_product->getShipWeightLbs()), 'ship_weight_lbs');
-      if($ship_weight_lbs != '') : 
+      if($ship_weight_lbs != '') :
     ?>
       <div class="col-sm-3">
         <div class="specification_box">
@@ -388,9 +389,9 @@
     <?php endif; ?>
 
     <!-- Maximum RPM -->
-    <?php 
+    <?php
       $maximum_rpm = $_helper->productAttribute($_product, nl2br($_product->getMaximumRpm()), 'maximum_rpm');
-      if($maximum_rpm != '') : 
+      if($maximum_rpm != '') :
     ?>
       <div class="col-sm-3">
         <div class="specification_box">
@@ -402,9 +403,9 @@
     <?php endif; ?>
 
     <!-- Pump -->
-    <?php 
+    <?php
       $pump = $_helper->productAttribute($_product, nl2br($_product->getPump()), 'pump');
-      if($pump != '') : 
+      if($pump != '') :
     ?>
       <div class="col-sm-3">
         <div class="specification_box">
@@ -416,9 +417,9 @@
     <?php endif; ?>
 
     <!-- Electrical -->
-    <?php 
+    <?php
       $electrical = $_helper->productAttribute($_product, nl2br($_product->getElectrical()), 'electrical');
-      if($electrical != '') : 
+      if($electrical != '') :
     ?>
        <div class="col-sm-3">
         <div class="specification_box">
@@ -430,9 +431,9 @@
     <?php endif; ?>
 
        <!-- CC -->
-    <?php 
+    <?php
       $cc = $_helper->productAttribute($_product, nl2br($_product->getCc()), 'cc');
-      if($cc != '') : 
+      if($cc != '') :
     ?>
       <div class="col-sm-3">
         <div class="specification_box">
@@ -444,9 +445,9 @@
     <?php endif; ?>
 
    <!-- Amps -->
-    <?php 
+    <?php
       $amps = $_helper->productAttribute($_product, nl2br($_product->getAmps()), 'amps');
-      if($amps != '') : 
+      if($amps != '') :
     ?>
       <div class="col-sm-3">
         <div class="specification_box">
@@ -458,9 +459,9 @@
     <?php endif; ?>
 
     <!-- Start -->
-    <?php 
+    <?php
       $start = $_helper->productAttribute($_product, nl2br($_product->getStart()), 'start');
-      if($start != '') : 
+      if($start != '') :
     ?>
       <div class="col-sm-3">
         <div class="specification_box">
@@ -472,9 +473,9 @@
     <?php endif; ?>
 
    <!-- Phase -->
-    <?php 
+    <?php
       $phase = $_helper->productAttribute($_product, nl2br($_product->getPhase()), 'phase');
-      if($phase != '') : 
+      if($phase != '') :
     ?>
       <div class="col-sm-3">
         <div class="specification_box">
@@ -486,9 +487,9 @@
     <?php endif; ?>
 
     <!-- Load Capacity lbs. -->
-    <?php 
+    <?php
       $load_capacity_lbs = $_helper->productAttribute($_product, nl2br($_product->getLoadCapacityLbs()), 'load_capacity_lbs');
-      if($load_capacity_lbs != '') : 
+      if($load_capacity_lbs != '') :
     ?>
       <div class="col-sm-3">
         <div class="specification_box">
@@ -501,9 +502,9 @@
     <?php endif; ?>
 
     <!-- Engine -->
-    <?php 
+    <?php
       $engine = $_helper->productAttribute($_product, nl2br($_product->getEngine()), 'engine');
-      if($engine != '') : 
+      if($engine != '') :
     ?>
       <div class="col-sm-3">
         <div class="specification_box">
@@ -515,9 +516,9 @@
     <?php endif; ?>
 
     <!-- HP -->
-    <?php 
+    <?php
       $hp = $_helper->productAttribute($_product, nl2br($_product->getHp()), 'hp');
-      if($hp != '') : 
+      if($hp != '') :
     ?>
       <div class="col-sm-3">
         <div class="specification_box">
@@ -529,9 +530,9 @@
     <?php endif; ?>
 
     <!-- Dimensions (L x W x H) -->
-    <?php 
+    <?php
       $dimensions = $_helper->productAttribute($_product, nl2br($_product->getDimensions()), 'dimensions');
-      if($dimensions != '') : 
+      if($dimensions != '') :
     ?>
       <div class="col-sm-3">
         <div class="specification_box">
@@ -543,9 +544,9 @@
     <?php endif; ?>
 
     <!-- Pump RPM -->
-    <?php 
+    <?php
       $pump_rpm = $_helper->productAttribute($_product, nl2br($_product->getPumpRpm()), 'pump_rpm');
-      if($pump_rpm != '') : 
+      if($pump_rpm != '') :
     ?>
       <div class="col-sm-3">
         <div class="specification_box">
@@ -557,9 +558,9 @@
     <?php endif; ?>
 
     <!-- Water Tank Gallons -->
-    <?php 
+    <?php
       $water_tank_gallons = $_helper->productAttribute($_product, nl2br($_product->getWaterTankGallons()), 'water_tank_gallons');
-      if($water_tank_gallons != '') : 
+      if($water_tank_gallons != '') :
     ?>
       <div class="col-sm-3">
         <div class="specification_box">
@@ -572,9 +573,9 @@
 
 
     <!-- Voltage -->
-    <?php 
+    <?php
       $voltage = $_helper->productAttribute($_product, nl2br($_product->getVoltage()), 'voltage');
-      if($voltage != '') : 
+      if($voltage != '') :
     ?>
       <div class="col-sm-3">
         <div class="specification_box">
@@ -586,9 +587,9 @@
     <?php endif; ?>
 
     <!-- Axle -->
-    <?php 
+    <?php
       $axle = $_helper->productAttribute($_product, nl2br($_product->getAxle()), 'axle');
-      if($axle != '') : 
+      if($axle != '') :
     ?>
       <div class="col-sm-3">
         <div class="specification_box">
@@ -600,9 +601,9 @@
     <?php endif; ?>
 
     <!-- BTU -->
-    <?php 
+    <?php
       $btu = $_helper->productAttribute($_product, nl2br($_product->getBtu()), 'btu');
-      if($btu != '') : 
+      if($btu != '') :
     ?>
       <div class="col-sm-3">
         <div class="specification_box">
@@ -614,9 +615,9 @@
     <?php endif; ?>
 
     <!-- Burner -->
-    <?php 
+    <?php
       $burner = $_helper->productAttribute($_product, nl2br($_product->getBurner()), 'burner');
-      if($burner != '') : 
+      if($burner != '') :
     ?>
       <div class="col-sm-3">
         <div class="specification_box">
@@ -627,10 +628,844 @@
       </div>
     <?php endif; ?>
 
+    <!--
+      ****** Floor Care Only Specification *******
+    -->
+
+    <!-- Steam Temp Pressure -->
+    <?php
+      $steam_temp_pressure = $_helper->productAttribute($_product, nl2br($_product->getSteamTempPressure()), 'steam_temp_pressure');
+      if($steam_temp_pressure != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Steam Temp Pressure</div>
+      <div class="value_specification"><?php echo $steam_temp_pressure ?></div>
+    </div>
+    <?php endif; ?>
+
+    <!-- Pad Diameter -->
+    <?php
+      $pad_diameter = $_helper->productAttribute($_product, nl2br($_product->getPadDiameter()), 'pad_diameter');
+      if($pad_diameter != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Pad Diameter</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('pad_diameter'); ?></div>
+    </div>
+    <?php endif; ?>
+
+    <!-- Hose Length Diameter -->
+    <?php
+      $hose_length_diameter = $_helper->productAttribute($_product, nl2br($_product->getHoseLengthDiameter()), 'hose_length_diameter');
+      if($hose_length_diameter != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Hose Length Diameter</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('hose_length_diameter'); ?></div>
+    </div>
+    <?php endif; ?>
+
+    <!-- Steam Temp Pressure -->
+    <?php
+      $brush_rotation_speed = $_helper->productAttribute($_product, nl2br($_product->getBrushRotationSpeed()), 'brush_rotation_speed');
+      if($brush_rotation_speed != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Brush Rotation Speed</div>
+      <div class="value_specification"><?php echo $brush_rotation_speed ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Moisture Recovery Rate -->
+    <?php
+      $moisture_recovery_rate = $_helper->productAttribute($_product, nl2br($_product->getMoistureRecoveryRate()), 'moisture_recovery_rate');
+      if($moisture_recovery_rate != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Moisture Recovery Rate</div>
+      <div class="value_specification"><?php echo $moisture_recovery_rate ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Wheels -->
+    <?php
+      $wheels = $_helper->productAttribute($_product, nl2br($_product->getWheels()), 'wheels');
+      if($wheels != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Wheels</div>
+      <div class="value_specification"><?php echo $wheels ?></div>
+    </div>
+    <?php endif; ?>
+    
+
+    <!-- Weight Including Battery -->
+    <?php
+      $weight_including_battery = $_helper->productAttribute($_product, nl2br($_product->getWeightIncludingBattery()), 'weight_including_battery');
+      if($weight_including_battery != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Weight Including Battery</div>
+      <div class="value_specification"><?php echo $weight_including_battery ?></div>
+    </div>
+    <?php endif; ?>
+
+    <!-- Battery -->
+    <?php
+      $battery = $_helper->productAttribute($_product, nl2br($_product->getBattery()), 'battery');
+      if($battery != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Battery</div>
+      <div class="value_specification"><?php echo $battery ?></div>
+    </div>
+    <?php endif; ?>
+
+    <!-- Dust Bag -->
+    <?php
+      $dust_bag = $_helper->productAttribute($_product, nl2br($_product->getDustBag()), 'dust_bag');
+      if($dust_bag != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Dust Bag</div>
+      <div class="value_specification"><?php echo $dust_bag ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Detailed Item Type -->
+    <?php
+      $detailed_item_type = $_helper->productAttribute($_product, nl2br($_product->getDetailedItemType()), 'detailed_item_type');
+      if($detailed_item_type != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Detailed Item Type</div>
+      <div class="value_specification"><?php echo $detailed_item_type ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Run Time -->
+    <?php
+      $run_time = $_helper->productAttribute($_product, nl2br($_product->getRunTime()), 'run_time');
+      if($run_time != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Run Time</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('run_time'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Vacuum Motor -->
+    <?php
+      $vacuum_motor = $_helper->productAttribute($_product, nl2br($_product->getVacuumMotor()), 'vacuum_motor');
+      if($vacuum_motor != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Vacuum Motor</div>
+      <div class="value_specification"><?php echo $vacuum_motor ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Charger Voltage -->
+    <?php
+      $charger_voltage = $_helper->productAttribute($_product, nl2br($_product->getChargerVoltage()), 'charger_voltage');
+      if($charger_voltage != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Charger Voltage</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('charger_voltage'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Max Area Performance -->
+    <?php
+      $max_area_perform = $_helper->productAttribute($_product, nl2br($_product->getVacuumMotor()), 'max_area_perform');
+      if($max_area_perform != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Max Area Performance</div>
+      <div class="value_specification"><?php echo $max_area_perform ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Wheel Front -->
+    <?php
+      $wheel_front = $_helper->productAttribute($_product, nl2br($_product->getWheelFront()), 'wheel_front');
+      if($wheel_front != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Wheel Front</div>
+      <div class="value_specification"><?php echo $wheel_front ?></div>
+    </div>
+    <?php endif; ?>
+
+    <!-- Fan Speed Levels -->
+    <?php
+      $fan_speed_levels = $_helper->productAttribute($_product, nl2br($_product->getFanSpeedLevels()), 'fan_speed_levels');
+      if($fan_speed_levels != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Fan Speed Levels</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('fan_speed_levels'); ?></div>
+    </div>
+    <?php endif; ?>
+
+    <!-- Wheels Back -->
+    <?php
+      $wheels_back = $_helper->productAttribute($_product, nl2br($_product->getWheelsBack()), 'wheels_back');
+      if($wheels_back != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Wheels Back</div>
+      <div class="value_specification"><?php echo $wheels_back ?></div>
+    </div>
+    <?php endif; ?>
+
+    <!-- Working Width Two Side Brooms -->
+    <?php
+      $working_width_two_side_brooms = $_helper->productAttribute($_product, nl2br($_product->getWorkingWidthTwoSideBrooms()), 'working_width_two_side_brooms');
+      if($working_width_two_side_brooms != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Working Width Two Side Brooms</div>
+      <div class="value_specification"><?php echo $working_width_two_side_brooms ?></div>
+    </div>
+    <?php endif; ?>
+
+    <!-- Air Flow Rating -->
+    <?php
+      $air_flow_rating = $_helper->productAttribute($_product, nl2br($_product->getAirFlowRating()), 'air_flow_rating');
+      if($air_flow_rating != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Air Flow Rating</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('air_flow_rating'); ?></div>
+    </div>
+    <?php endif; ?>
+
+    <!-- Operate Time Carpet Hard Surf -->
+    <?php
+      $operate_time_carpet_hard_surf = $_helper->productAttribute($_product, nl2br($_product->getOperateTimeCarpetHardSurf()), 'operate_time_carpet_hard_surf');
+      if($operate_time_carpet_hard_surf != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Operate Time Carpet</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('operate_time_carpet_hard_surf'); ?></div>
+    </div>
+    <?php endif; ?>
+
+    <!-- Noise Level -->
+    <?php
+      $noise_level = $_helper->productAttribute($_product, nl2br($_product->getNoiseLevel()), 'noise_level');
+      if($noise_level != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Noise Level</div>
+      <div class="value_specification"><?php echo $noise_level ?></div>
+    </div>
+    <?php endif; ?>
+
+    <!-- Working Speed -->
+    <?php
+      $working_speed = $_helper->productAttribute($_product, nl2br($_product->getWorkingSpeed()), 'working_speed');
+      if($working_speed != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Working Speed</div>
+      <div class="value_specification"><?php echo $working_speed ?></div>
+    </div>
+    <?php endif; ?>
+
+    <!-- Motor Rating -->
+    <?php
+      $motor_rating = $_helper->productAttribute($_product, nl2br($_product->getMotorRating()), 'motor_rating');
+      if($motor_rating != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Motor Rating</div>
+      <div class="value_specification"><?php echo $motor_rating ?></div>
+    </div>
+    <?php endif; ?>
+
+    <!-- Electric Rating -->
+    <?php
+      $electric_rating = $_helper->productAttribute($_product, nl2br($_product->getElectricRating()), 'electric_rating');
+      if($electric_rating != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Electric Rating</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('electric_rating'); ?></div>
+    </div>
+    <?php endif; ?>
+
+    <!-- Power Cable -->
+    <?php
+      $power_cable = $_helper->productAttribute($_product, nl2br($_product->getPowerCable()), 'power_cable');
+      if($power_cable != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Power Cable</div>
+      <div class="value_specification"><?php echo $power_cable ?></div>
+    </div>
+    <?php endif; ?>
+
+  <!-- Heater -->
+    <?php
+      $heater = $_helper->productAttribute($_product, nl2br($_product->getHeater()), 'heater');
+      if($heater != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Heater</div>
+      <div class="value_specification"><?php echo $heater ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Battery Capacity -->
+    <?php
+      $battery_capacity = $_helper->productAttribute($_product, nl2br($_product->getBatteryCapacity()), 'battery_capacity');
+      if($battery_capacity != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Battery Capacity</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('battery_capacity'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Waste Container -->
+    <?php
+      $waste_container = $_helper->productAttribute($_product, nl2br($_product->getWasteContainer()), 'waste_container');
+      if($waste_container != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Waste Container</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('waste_container'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Power Supply -->
+    <?php
+      $power_supply = $_helper->productAttribute($_product, nl2br($_product->getPowerSupply()), 'power_supply');
+      if($power_supply != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Power Supply</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('power_supply'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+
+    <!-- Battery Charge Time -->
+    <?php
+      $battery_charge_time = $_helper->productAttribute($_product, nl2br($_product->getBatteryChargeTime()), 'battery_charge_time');
+      if($battery_charge_time != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Battery Charge Time</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('battery_charge_time'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+
+    <!-- Power Rating Fan Pump -->
+    <?php
+      $power_rating_fan_pump = $_helper->productAttribute($_product, nl2br($_product->getPowerRatingFanPump()), 'power_rating_fan_pump');
+      if($power_rating_fan_pump != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Power Rating Fan Pump</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('power_rating_fan_pump'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Brush Cont Press Disc Roller -->
+    <?php
+      $brush_cont_press_disc_roller = $_helper->productAttribute($_product, nl2br($_product->getBrushContPressDiscRoller()), 'brush_cont_press_disc_roller');
+      if($brush_cont_press_disc_roller != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Brush Content Press Disc Roller</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('brush_cont_press_disc_roller'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Brush Contact Pressure -->
+    <?php
+      $brush_contact_pressure = $_helper->productAttribute($_product, nl2br($_product->getBrushContactPressure()), 'brush_contact_pressure');
+      if($brush_contact_pressure != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Brush Contact Pressure</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('brush_contact_pressure'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Waterlift Rating -->
+    <?php
+      $waterlift_rating = $_helper->productAttribute($_product, nl2br($_product->getWaterliftRating()), 'waterlift_rating');
+      if($waterlift_rating != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Waterlift Rating</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('waterlift_rating'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Climbing Ability -->
+    <?php
+      $climbing_ability = $_helper->productAttribute($_product, nl2br($_product->getClimbingAbility()), 'climbing_ability');
+      if($climbing_ability != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Climbing Ability</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('climbing_ability'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+
+    <!-- Sweeping Method -->
+    <?php
+      $sweeping_method = $_helper->productAttribute($_product, nl2br($_product->getSweepingMethod()), 'sweeping_method');
+      if($sweeping_method != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Sweeping Method</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('sweeping_method'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+
+
+    <!-- Construction -->
+    <?php
+      $construction = $_helper->productAttribute($_product, nl2br($_product->getConstruction()), 'construction');
+      if($construction != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Construction</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('construction'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Hand Tube -->
+    <?php
+      $hand_tube = $_helper->productAttribute($_product, nl2br($_product->getHandTube()), 'hand_tube');
+      if($hand_tube != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Hand Tube</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('hand_tube'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Motor -->
+    <?php
+      $motor = $_helper->productAttribute($_product, nl2br($_product->getMotor()), 'motor');
+      if($motor != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Motor</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('motor'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Brush Rotation Speed Disc Roller -->
+    <?php
+      $brush_rotate_speed_disc_roller = $_helper->productAttribute($_product, nl2br($_product->getBrushRotateSpeedDiscRoller()), 'brush_rotate_speed_disc_roller');
+      if($brush_rotate_speed_disc_roller != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Brush Rotation Speed Disc Roller</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('brush_rotate_speed_disc_roller'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Brushes -->
+    <?php
+      $brushes = $_helper->productAttribute($_product, nl2br($_product->getBrushes()), 'brushes');
+      if($brushes != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Brushes</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('brushes'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+
+    <!-- Pad Working Width -->
+    <?php
+      $pad_working_width = $_helper->productAttribute($_product, nl2br($_product->getPadWorkingWidth()), 'pad_working_width');
+      if($pad_working_width != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Pad Working Width</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('pad_working_width'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Container Capacity -->
+    <?php
+      $container_capacity = $_helper->productAttribute($_product, nl2br($_product->getContainerCapacity()), 'container_capacity');
+      if($container_capacity != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Container Capacity</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('container_capacity'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Brush Diameter -->
+    <?php
+      $brush_diameter = $_helper->productAttribute($_product, nl2br($_product->getBrushDiameter()), 'brush_diameter');
+      if($brush_diameter != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Brush Diameter</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('brush_diameter'); ?></div>
+    </div>
+    <?php endif; ?>
+
+    <!-- Pad Rotation Speed -->
+    <?php
+      $pad_rotation_speed = $_helper->productAttribute($_product, nl2br($_product->getPadRotationSpeed()), 'pad_rotation_speed');
+      if($pad_rotation_speed != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Pad Rotation Speed</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('pad_rotation_speed'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Optional Brushes -->
+    <?php
+      $optional_brushes = $_helper->productAttribute($_product, nl2br($_product->getOptionalBrushes()), 'optional_brushes');
+      if($optional_brushes != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Optional Brushes</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('optional_brushes'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Drive -->
+    <?php
+      $drive = $_helper->productAttribute($_product, nl2br($_product->getDrive()), 'drive');
+      if($drive != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Drive</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('drive'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Solution Capacity -->
+    <?php
+      $solution_capacity = $_helper->productAttribute($_product, nl2br($_product->getSolutionCapacity()), 'solution_capacity');
+      if($solution_capacity != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Solution Capacity</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('solution_capacity'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+
+    <!-- Spray Rate -->
+    <?php
+      $spray_rate = $_helper->productAttribute($_product, nl2br($_product->getSprayRate()), 'spray_rate');
+      if($spray_rate != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Spray Rate</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('spray_rate'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+
+    <!-- Vacuum Working Width -->
+    <?php
+      $vacuum_working_width = $_helper->productAttribute($_product, nl2br($_product->getVacuumWorkingWidth()), 'vacuum_working_width');
+      if($vacuum_working_width != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Vacuum Working Width</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('vacuum_working_width'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+
+    <!-- Spray Pressure Back Pressure -->
+    <?php
+      $spray_pressure_back_pressure = $_helper->productAttribute($_product, nl2br($_product->getVacuumWorkingWidth()), 'spray_pressure_back_pressure');
+      if($spray_pressure_back_pressure != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Spray Pressure Back Pressure</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('spray_pressure_back_pressure'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Solution Flow -->
+    <?php
+      $solution_flow = $_helper->productAttribute($_product, nl2br($_product->getSolutionFlow()), 'solution_flow');
+      if($solution_flow != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Solution Flow</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('solution_flow'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    <!-- Filtration System -->
+    <?php
+      $filtration_system = $_helper->productAttribute($_product, nl2br($_product->getFiltrationSystem()), 'filtration_system');
+      if($filtration_system != '') :
+    ?>
+      <div class="col-sm-3">
+        <div class="specification_box">
+          <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+        </div>
+        <div class="specification_features">Filtration System</div>
+        <div class="value_specification"><?php echo $_product->getAttributeText('filtration_system'); ?></div>
+      </div>
+    <?php endif; ?>
+
+
+    <!-- Practical Area Performance -->
+    <?php
+      $practical_area_performance = $_helper->productAttribute($_product, nl2br($_product->getPracticalAreaPerformance()), 'practical_area_performance');
+      if($practical_area_performance != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Practical Area Performance</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('practical_area_performance'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+    
+    <!-- Tank Fresh Dirty -->
+    <?php
+      $tank_fresh_dirty = $_helper->productAttribute($_product, nl2br($_product->getTankFreshDirty()), 'tank_fresh_dirty');
+      if($tank_fresh_dirty != '') :
+    ?>
+    <div class="col-sm-3">
+      <div class="specification_box">
+        <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/burner.svg">
+      </div>
+      <div class="specification_features">Tank Fresh Dirty</div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('tank_fresh_dirty'); ?></div>
+    </div>
+    <?php endif; ?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <!-- Product Brochure Url -->
-    <?php 
+    <?php
       //$product_brochure_url = $_helper->productAttribute($_product, nl2br($_product->getProductBrochureUrl()), 'product_brochure_url');
-      //if($product_brochure_url != '') : 
+      //if($product_brochure_url != '') :
     ?>
       <!-- <div class="col-sm-3">
         <div class="specification_box">
@@ -640,12 +1475,12 @@
         <div class="value_specification"><a href="<?php //echo $product_brochure_url ?>" target="_blanck">Click here to view PDF</a></div>
       </div> -->
     <?php //endif; ?>
-  
-    
+
+
     <!-- Warranty PDF -->
-    <?php 
+    <?php
       $waranty_pdf_url = $_helper->productAttribute($_product, nl2br($_product->getWarantyPdf()), 'waranty_pdf');
-      if($waranty_pdf_url != '') : 
+      if($waranty_pdf_url != '') :
     ?>
       <div class="col-sm-3">
         <div class="specification_box">
@@ -671,9 +1506,9 @@
     <h3>Warranty</h3>
       <div class="row">
         <!-- WTY Type1 -->
-        <?php 
+        <?php
           $wty_type_one = $_helper->productAttribute($_product, nl2br($_product->getWtyType1()), 'wty_type1');
-          if($wty_type_one == 1) : 
+          if($wty_type_one == 1) :
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
@@ -686,9 +1521,9 @@
         <?php endif; ?>
 
         <!-- WTY Type2 -->
-        <?php 
+        <?php
           $wty_type_two = $_helper->productAttribute($_product, nl2br($_product->getWtyType2()), 'wty_type2');
-          if($wty_type_two == 1) : 
+          if($wty_type_two == 1) :
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
@@ -700,9 +1535,9 @@
         <?php endif; ?>
 
         <!-- WTY Type3 -->
-        <?php 
+        <?php
           $wty_type_three = $_helper->productAttribute($_product, nl2br($_product->getWtyType3()), 'wty_type3');
-          if($wty_type_three == 1) : 
+          if($wty_type_three == 1) :
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
@@ -717,9 +1552,9 @@
         <div class="row">
 
         <!-- WTY Type4 -->
-        <?php 
+        <?php
           $wty_type_four = $_helper->productAttribute($_product, nl2br($_product->getWtyType4()), 'wty_type4');
-          if($wty_type_four == 1) : 
+          if($wty_type_four == 1) :
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
@@ -732,9 +1567,9 @@
 
 
         <!-- WTY Type5 -->
-        <?php 
+        <?php
           $wty_type_five = $_helper->productAttribute($_product, nl2br($_product->getWtyType5()), 'wty_type5');
-          if($wty_type_five == 1) : 
+          if($wty_type_five == 1) :
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
@@ -747,9 +1582,9 @@
 
 
         <!-- WTY Type6 -->
-        <?php 
+        <?php
           $wty_type_six = $_helper->productAttribute($_product, nl2br($_product->getWtyType6()), 'wty_type6');
-          if($wty_type_six == 1) : 
+          if($wty_type_six == 1) :
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
@@ -764,9 +1599,9 @@
 
         <div class="row">
         <!-- WTY Type7 -->
-        <?php 
+        <?php
           $wty_type_seven = $_helper->productAttribute($_product, nl2br($_product->getWtyType7()), 'wty_type7');
-          if($wty_type_seven == 1) : 
+          if($wty_type_seven == 1) :
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
@@ -779,9 +1614,9 @@
 
 
         <!-- WTY Type8 -->
-        <?php 
+        <?php
           $wty_type_eight = $_helper->productAttribute($_product, nl2br($_product->getWtyType8()), 'wty_type8');
-          if($wty_type_eight == 1) : 
+          if($wty_type_eight == 1) :
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
@@ -794,9 +1629,9 @@
 
 
         <!-- WTY Type9 -->
-        <?php 
+        <?php
           $wty_type_nine = $_helper->productAttribute($_product, nl2br($_product->getWtyType9()), 'wty_type9');
-          if($wty_type_nine == 1) : 
+          if($wty_type_nine == 1) :
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
@@ -811,9 +1646,9 @@
         <div class="row">
 
         <!-- WTY Type10 -->
-        <?php 
+        <?php
           $wty_type_ten = $_helper->productAttribute($_product, nl2br($_product->getWtyType10()), 'wty_type10');
-          if($wty_type_ten == 1) : 
+          if($wty_type_ten == 1) :
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
@@ -826,9 +1661,9 @@
 
 
         <!-- WTY Type11 -->
-        <?php 
+        <?php
           $wty_type_eleven = $_helper->productAttribute($_product, nl2br($_product->getWtyType11()), 'wty_type11');
-          if($wty_type_eleven == 1) : 
+          if($wty_type_eleven == 1) :
         ?>
           <div class="col-sm-4">
             <div class="warranty_box">
@@ -842,9 +1677,9 @@
  </div>
 
 <!-- Accessory 1 Customizable Item -->
-<?php 
+<?php
   $accessory_one_customizable_item = $_helper->productAttribute($_product, nl2br($_product->getAccessoryOneCustomizeItem()), 'accessory_one_customize_item');
-  if($accessory_one_customizable_item != '') : 
+  if($accessory_one_customizable_item != '') :
 ?>
 <!-- Accessory -->
 <div class="table-responsive specification_table">
@@ -864,9 +1699,9 @@
 
 
         <!-- Accessory 2 Customizable Item -->
-        <?php 
+        <?php
           $accessory_two_customize_item= $_helper->productAttribute($_product, nl2br($_product->getAccessoryTwoCustomizeItem()), 'accessory_two_customize_item');
-          if($accessory_two_customize_item != '') : 
+          if($accessory_two_customize_item != '') :
         ?>
             <tr>
               <td class="specskey">Accessory 2 Customizable Item</td>
@@ -876,9 +1711,9 @@
 
 
         <!-- Accessory 3 Customizable Item -->
-        <?php 
+        <?php
           $accessory_three_customize_item= $_helper->productAttribute($_product, nl2br($_product->getAccessoryThreeCustomizeItem()), 'accessory_three_customize_item');
-          if($accessory_three_customize_item != '') : 
+          if($accessory_three_customize_item != '') :
         ?>
             <tr>
               <td class="specskey">Accessory 3 Customizable Item</td>
@@ -887,9 +1722,9 @@
         <?php endif; ?>
 
         <!-- Accessory 4 Customizable Item -->
-        <?php 
+        <?php
           $accessory_four_customize_item= $_helper->productAttribute($_product, nl2br($_product->getAccessoryFourCustomizeItem()), 'accessory_four_customize_item');
-          if($accessory_four_customize_item != '') : 
+          if($accessory_four_customize_item != '') :
         ?>
             <tr>
               <td class="specskey">Accessory 4 Customizable Item</td>
@@ -898,9 +1733,9 @@
         <?php endif; ?>
 
         <!-- Accessory 5 Customizable Item -->
-        <?php 
+        <?php
           $accessory_five_customize_item= $_helper->productAttribute($_product, nl2br($_product->getAccessoryFiveCustomizeItem()), 'accessory_five_customize_item');
-          if($accessory_five_customize_item != '') : 
+          if($accessory_five_customize_item != '') :
         ?>
             <tr>
               <td class="specskey">Accessory 5 Customizable Item</td>
@@ -909,9 +1744,9 @@
         <?php endif; ?>
 
         <!-- Accessory 6 Customizable Item -->
-        <?php 
+        <?php
           $accessory_six_customize_item= $_helper->productAttribute($_product, nl2br($_product->getAccessorySixCustomizeItem()), 'accessory_six_customize_item');
-          if($accessory_six_customize_item != '') : 
+          if($accessory_six_customize_item != '') :
         ?>
             <tr>
               <td class="specskey">Accessory 6 Customizable Item</td>
@@ -920,9 +1755,9 @@
         <?php endif; ?>
 
         <!-- Accessory 7 Customizable Item -->
-        <?php 
+        <?php
           $accessory_seven_customize_item= $_helper->productAttribute($_product, nl2br($_product->getAccessorySevenCustomizeItem()), 'accessory_seven_customize_item');
-          if($accessory_seven_customize_item != '') : 
+          if($accessory_seven_customize_item != '') :
         ?>
             <tr>
               <td class="specskey">Accessory 7 Customizable Item</td>
@@ -931,9 +1766,9 @@
         <?php endif; ?>
 
         <!-- Accessory 8 Customizable Item -->
-        <?php 
+        <?php
           $accessory_eight_customize_item= $_helper->productAttribute($_product, nl2br($_product->getAccessoryEightCustomizeItem()), 'accessory_eight_customize_item');
-          if($accessory_eight_customize_item != '') : 
+          if($accessory_eight_customize_item != '') :
         ?>
             <tr>
               <td class="specskey">Accessory 8 Customizable Item</td>
@@ -942,9 +1777,9 @@
         <?php endif; ?>
 
         <!-- Accessory 9 Customizable Item -->
-        <?php 
+        <?php
           $accessory_nine_customize_item= $_helper->productAttribute($_product, nl2br($_product->getAccessoryNineCustomizeItem()), 'accessory_nine_customize_item');
-          if($accessory_nine_customize_item != '') : 
+          if($accessory_nine_customize_item != '') :
         ?>
             <tr>
               <td class="specskey">Accessory 9 Customizable Item</td>
@@ -953,9 +1788,9 @@
         <?php endif; ?>
 
         <!-- Accessory 10 Customizable Item -->
-        <?php 
+        <?php
           $accessory_ten_customize_item= $_helper->productAttribute($_product, nl2br($_product->getAccessoryTenCustomizeItem()), 'accessory_ten_customize_item');
-          if($accessory_ten_customize_item != '') : 
+          if($accessory_ten_customize_item != '') :
         ?>
             <tr>
               <td class="specskey">Accessory 10 Customizable Item</td>
@@ -964,9 +1799,9 @@
         <?php endif; ?>
 
         <!-- Accessory 11 Customizable Item -->
-        <?php 
+        <?php
           $accessory_elvn_customize_item= $_helper->productAttribute($_product, nl2br($_product->getAccessoryElvnCustomizeItem()), 'accessory_elvn_customize_item');
-          if($accessory_elvn_customize_item != '') : 
+          if($accessory_elvn_customize_item != '') :
         ?>
             <tr>
               <td class="specskey">Accessory 11 Customizable Item</td>
@@ -976,9 +1811,9 @@
 
 
         <!-- Accessory 1 Item Part Numbers -->
-        <?php 
+        <?php
           $accessory_one_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessoryOneItemPart()), 'accessory_one_item_part');
-          if($accessory_one_item_part != '') : 
+          if($accessory_one_item_part != '') :
         ?>
             <tr>
               <td class="specskey">Accessory 1 Item Part Numbers</td>
@@ -988,9 +1823,9 @@
 
 
         <!-- Accessory 2 Item Part Numbers -->
-        <?php 
+        <?php
           $accessory_two_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessoryTwoItemPart()), 'accessory_two_item_part');
-          if($accessory_two_item_part != '') : 
+          if($accessory_two_item_part != '') :
         ?>
             <tr>
               <td class="specskey">Accessory 2 Item Part Numbers</td>
@@ -1000,9 +1835,9 @@
 
 
         <!-- Accessory 3 Item Part Numbers -->
-        <?php 
+        <?php
           $accessory_three_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessoryThreeItemPart()), 'accessory_three_item_part');
-          if($accessory_three_item_part != '') : 
+          if($accessory_three_item_part != '') :
         ?>
             <tr>
               <td class="specskey">Accessory 3 Item Part Numbers</td>
@@ -1012,9 +1847,9 @@
 
 
         <!-- Accessory 4 Item Part Numbers -->
-        <?php 
+        <?php
           $accessory_four_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessoryFourItemPart()), 'accessory_four_item_part');
-          if($accessory_four_item_part != '') : 
+          if($accessory_four_item_part != '') :
         ?>
             <tr>
               <td class="specskey">Accessory 4 Item Part Numbers</td>
@@ -1024,9 +1859,9 @@
 
 
         <!-- Accessory 5 Item Part Numbers -->
-        <?php 
+        <?php
           $accessory_five_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessoryFiveItemPart()), 'accessory_five_item_part');
-          if($accessory_five_item_part != '') : 
+          if($accessory_five_item_part != '') :
         ?>
             <tr>
               <td class="specskey">Accessory 5 Item Part Numbers</td>
@@ -1036,9 +1871,9 @@
 
 
         <!-- Accessory 6 Item Part Numbers -->
-        <?php 
+        <?php
           $accessory_six_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessorySixItemPart()), 'accessory_six_item_part');
-          if($accessory_six_item_part != '') : 
+          if($accessory_six_item_part != '') :
         ?>
             <tr>
               <td class="specskey">Accessory 6 Item Part Numbers</td>
@@ -1048,9 +1883,9 @@
 
 
         <!-- Accessory 7 Item Part Numbers -->
-        <?php 
+        <?php
           $accessory_seven_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessorySevenItemPart()), 'accessory_seven_item_part');
-          if($accessory_seven_item_part != '') : 
+          if($accessory_seven_item_part != '') :
         ?>
             <tr>
               <td class="specskey">Accessory 7 Item Part Numbers</td>
@@ -1060,9 +1895,9 @@
 
 
         <!-- Accessory 8 Item Part Numbers -->
-        <?php 
+        <?php
           $accessory_eight_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessoryEightItemPart()), 'accessory_eight_item_part');
-          if($accessory_eight_item_part != '') : 
+          if($accessory_eight_item_part != '') :
         ?>
             <tr>
               <td class="specskey">Accessory 8 Item Part Numbers</td>
@@ -1072,9 +1907,9 @@
 
 
         <!-- Accessory 9 Item Part Numbers -->
-        <?php 
+        <?php
           $accessory_nine_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessoryNineItemPart()), 'accessory_nine_item_part');
-          if($accessory_nine_item_part != '') : 
+          if($accessory_nine_item_part != '') :
         ?>
             <tr>
               <td class="specskey">Accessory 9 Item Part Numbers</td>
@@ -1084,9 +1919,9 @@
 
 
         <!-- Accessory 10 Item Part Numbers -->
-        <?php 
+        <?php
           $accessory_ten_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessoryTenItemPart()), 'accessory_ten_item_part');
-          if($accessory_ten_item_part != '') : 
+          if($accessory_ten_item_part != '') :
         ?>
             <tr>
               <td class="specskey">Accessory 10 Item Part Numbers</td>
@@ -1096,15 +1931,15 @@
 
 
         <!-- Accessory 11 Item Part Numbers -->
-        <?php 
+        <?php
           $accessory_elvn_item_part= $_helper->productAttribute($_product, nl2br($_product->getAccessoryElvnItemPart()), 'accessory_elvn_item_part');
-          if($accessory_elvn_item_part != '') : 
+          if($accessory_elvn_item_part != '') :
         ?>
             <tr>
               <td class="specskey">Accessory 11 Item Part Numbers</td>
               <td class="specsValue"><?php echo $accessory_elvn_item_part ?></td>
             </tr>
-        <?php endif; ?>   
+        <?php endif; ?>
 
   </tbody>
 </table>
@@ -1116,8 +1951,8 @@
 
 
 
-                <?php 
-                    $order_parts_manual = $_helper->productAttribute($_product, nl2br($_product->getOrderPartsManual()), 'order_parts_manual'); 
+                <?php
+                    $order_parts_manual = $_helper->productAttribute($_product, nl2br($_product->getOrderPartsManual()), 'order_parts_manual');
                     if($order_parts_manual == 1) :
                 ?>
                 <!-- Table To be Repeated -->
@@ -1131,11 +1966,11 @@
                         <tbody>
 
                           <!-- Manual Title-->
-                          <?php 
+                          <?php
                             $manual_title = $_helper->productAttribute($_product, nl2br($_product->getManualTitle()), 'manual_title');
                             $manual_url = $_helper->productAttribute($_product, nl2br($_product->getManualUrl()), 'manual_url');
 
-                            if($manual_url != '') : 
+                            if($manual_url != '') :
                           ?>
                               <tr>
                                 <td class="specskey"><?php echo $manual_title?></td>
@@ -1150,13 +1985,13 @@
               <?php endif; ?>
 
             <!-- Accessory 1 Customizable Item -->
-          <?php 
+          <?php
             $accessory_one_customizable_item = $_helper->productAttribute($_product, nl2br($_product->getAccessoryOneCustomizeItem()), 'accessory_one_customize_item');
-            if($accessory_one_customizable_item != '') : 
+            if($accessory_one_customizable_item != '') :
           ?>
             </div>
           <?php endif; ?>
-        
+
         <div class="col-sm-12">
              <?php echo $this->getChildHtml('upsell_products') ?>
         </div>
@@ -1174,5 +2009,3 @@
       </div>
     </div>
 </div>
-
-
