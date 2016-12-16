@@ -286,7 +286,7 @@
         <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/working_pressure.svg">
       </div>
       <div class="specification_features">Max. working pressure - PSI</div>
-      <div class="value_specification"><?php echo $_helper->productAttribute($_product, nl2br($_product->getPsi()), 'psi') ?></div>
+      <div class="value_specification"><?php echo $_product->getAttributeText('psi'); ?></div>
     </div>
     <?php endif; ?>
 
@@ -342,7 +342,7 @@
           <img class="img-responsive" src="<?php echo $this->getSkinUrl()?>images/icons/power.svg">
         </div>
         <div class="specification_features">Power Type</div>
-        <div class="value_specification"><?php echo $power_type ?></div>
+        <div class="value_specification"><?php echo $_product->getAttributeText('power_type'); ?></div>
       </div>
     <?php endif; ?>
 
