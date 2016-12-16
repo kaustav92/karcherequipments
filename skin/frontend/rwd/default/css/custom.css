@@ -882,6 +882,7 @@ body.customer-account .my-account .title-buttons h1 {
     font-family: "Lato";
     /*border-left: 0px solid;*/
     transition : all 0.3s ease-out;
+    font-size: 13px;
 }
 .block-layered-nav dl dd ol > li > span, .block-layered-nav dl dd ol > li > a:hover {
 /*    border-left: 3px solid #ececec;*/
