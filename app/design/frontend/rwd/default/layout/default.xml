@@ -1,0 +1,9 @@
+<default>
+    <cms_page> <!-- need to be redefined for your needs -->
+        <reference name="content">
+            <block type="cms/block" name="home_and_garden_cms" as="home_and_garden_cms">
+                <action method="setBlockId"><block_id>home_and_garden</block_id></action>
+            </block>
+        </reference>
+    </cms_page>
+</default>
