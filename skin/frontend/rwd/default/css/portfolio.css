@@ -387,3 +387,6 @@ img::-moz-selection {
     background-color: transparent;
     padding: 0;
 }
+.paypal-logo {
+    display: none;
+}
