@@ -364,6 +364,7 @@ h3, .h3 {
 }
 .product-view .product-shop .availability {
     font-size: 12px;
+    padding-top: 7px;
 }
 .product-view .product-shop .price-box .regular-price .price, .product-view .product-shop .price-box .special-price .price, .product-view .product-shop .price-box .full-product-price .price {
     color: #3F3F40;
